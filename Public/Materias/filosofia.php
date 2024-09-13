@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>FILOSOFIA</title>
 </head>
 <body>
     <header>
@@ -14,11 +14,13 @@
         <a href="filosofia.php">FILOSOFIA</a>
     </header>
 <section>
-<a href="filosofia-antiga.php">FILOSOFIA ANTIGA</a>
-<a href="filosofia-medieval.php">FILOSOFIA MEDIEVAL</a>
-<a href="filosofia-moderna.php">FILOSOFIA MODERNA</a>
-<a href="filosofia-moderna.php">FILOSOFIA MODERNA</a>
+<a href="../Conteudos/filosofia/filosofia-antiga.php">FILOSOFIA ANTIGA</a>
+<a href="../Conteudos/filosofia/filosofia-medieval.php">FILOSOFIA MEDIEVAL</a>
+<a href="../Conteudos/filosofia/filosofia-moderna.php">FILOSOFIA MODERNA</a>
+<a href="../Conteudos/filosofia/filosofia-comtemporanea.php">FILOSOFIA COMTEMPORÂNEA</a>
 
+<button href="index.php">Voltar</button>
 </section>
+
 </body>
 </html>
