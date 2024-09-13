@@ -9,15 +9,15 @@
 <body>
     <header class="header">
         <div class="left-buttons">
-            <button class="nav-button">História</button>
-            <button class="nav-button">Geografia</button>
+            <button class="nav-button">HISTÓRIA</button>
+            <button class="nav-button">GEOGRAFIA</button>
         </div>
         <div class="logo-container">
         <img src="images/logo.jpeg" alt="Logo" class="logo">
         </div>
         <div class="right-buttons">
-            <button class="nav-button">Sociologia</button>
-            <button class="nav-button">Filosofia</button>
+            <button class="nav-button">SOCIOLOGIA</button>
+            <button class="nav-button">FILOSOFIA</button>
         </div>
     </header>
 </body>
