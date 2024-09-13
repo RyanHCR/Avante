@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color:#ffffff; /* Cor de fundo opcional */
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 180px;
+    background-color: #A3DBE4;
+    border-bottom: 1px solid #A3DBE4;
+    height: 94px;
+}
+
+.left-buttons,
+.right-buttons {
+    display: flex;
+}
+
+.nav-button {
+    font-size:17px;
+    margin: 0 30px;
+    padding: 10px 15px;
+    background-color: #A3DBE4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white; text-shadow: rgb(50, 50, 50) 0.1em 0.1em 0.1em;
+}
+
+.nav-button:hover {
+    background-color: #A3DBE4;
+}
+
+.logo-container {
+    position: absolute;
+    top: -40px ;
+    left: 50%;
+    transform: translateX(-50%); /* Centraliza horizontalmente */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.logo {
+    width: 100vw; /* Largura inicial para ocupar toda a tela */
+    height: 100vh; /* Altura inicial para ocupar toda a tela */
+    object-fit: contain; /* Mantém a proporção da imagem */
+    animation: resizeLogo 3s ease-out forwards; /* Define a animação */
+}
+
+img.principal-image{
+    width: 1000px;
+    margin-left:265px;
+    margin-top: 30px;
+}
+
+@keyframes resizeLogo {
+    0% {
+        width: 100vw;
+        height: 100vh;
+    }
+    100% {
+        width: 400px;
+        height: 200px;
+    }
+}
+
+.animated-text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Centraliza verticalmente o texto */
+    position: relative;
+    height: 100px;
+    background-color: rgb(255, 255, 255); /* Temporário para verificar o contêiner */
+    opacity: 1; /* Torna o contêiner visível */
+    overflow: hidden;
+}
+
+.animated-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    position: relative;
+    left: 0; /* Garantimos que o texto esteja visível inicialmente */
+    white-space: nowrap;
+    opacity: 1; /* Garantimos que o texto seja visível */
+}
+
+@keyframes slideInFromRight {
+    0% {
+        left: 100%; /* Começa fora da tela à direita */
+        opacity: 0;
+    }
+    100% {
+        left: 0; /* Termina no centro */
+        opacity: 1;
+    }
+}
+
+.show-text {
+    animation: slideInFromRight 1.5s ease-out forwards;
+}
+
+.info-text {
+    margin: 5px auto; /* Espaço acima e abaixo do texto, centraliza horizontalmente */
+    max-width: 1200px; /* Limita a largura máxima do texto */
+    font-size: 1rem; /* Tamanho da fonte */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    color: #333; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+}
+
+.info-text p {
+    margin: 0; /* Remove margens padrão do parágrafo */
+}
+
+
+
+
+
+
