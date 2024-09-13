@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz com Verificação Individual</title>
+    <title>Questões Filsofia Antiga</title>
     <style>
         .explicacao {
             margin-top: 20px;
@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>Quiz de Conhecimento</h1>
+    <h1>Questões sobre a Filsofia Antiga</h1>
 
     <!-- Primeira pergunta -->
     <form method="POST" action="">
