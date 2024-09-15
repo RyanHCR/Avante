@@ -1,13 +1,26 @@
-window.addEventListener('scroll', function() {
-    const animatedTextContainer = document.querySelector('.animated-text-container');
-    const textPosition = animatedTextContainer.getBoundingClientRect().top;
-    const screenHeight = window.innerHeight;
+document.addEventListener('DOMContentLoaded', () => {
+    const logo = document.querySelector('.logo');
+    const animatedTextContainer = document.querySelector('.animated-text-right');
+    const infoText = document.querySelector('.info-text');
 
-    // Log para verificar se o código está sendo executado
-    console.log('Scroll detectado, posição do texto:', textPosition, 'altura da tela:', screenHeight);
+    logo.addEventListener('animationend', () => {
+        console.log('Animação do logo concluída');
+    });
 
-    if (textPosition < screenHeight) {
-        animatedTextContainer.classList.add('show-text');
-        console.log('Classe "show-text" adicionada');
-    }
+    const checkVisibility = () => {
+        const animatedTextPosition = animatedTextContainer.getBoundingClientRect().top;
+        const infoTextPosition = infoText.getBoundingClientRect().top;
+        const screenHeight = window.innerHeight;
+
+        if (animatedTextPosition < screenHeight) {
+            animatedTextContainer.classList.add('show-text');
+        }
+
+        if (infoTextPosition < screenHeight) {
+            infoText.classList.add('show-info-text');
+        }
+    };
+
+    window.addEventListener('scroll', checkVisibility);
+    checkVisibility();
 });
