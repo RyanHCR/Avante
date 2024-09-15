@@ -92,17 +92,6 @@ img.second-image {
     opacity: 1; /* Garantimos que o texto seja visível */
 }
 
-@keyframes slideInFromRight {
-    0% {
-        left: 100%; /* Começa fora da tela à direita */
-        opacity: 0;
-    }
-    100% {
-        left: 40; /* Termina no centro */
-        opacity: 1;
-    }
-}
-
 @keyframes slideInFromLeft {
     0% {
         left: -100%; /* Começa fora da tela à esquerda */
@@ -112,10 +101,6 @@ img.second-image {
         left: 0; /* Termina no centro */
         opacity: 1;
     }
-}
-
-.show-text {
-    animation: slideInFromRight 1.5s ease-out forwards;
 }
 
 .show-info-text {
