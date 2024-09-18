@@ -10,15 +10,15 @@
 <body>
 <header class="header">
     <div class="left-buttons">
-        <a href="historia.html"><button class="nav-button">HISTÓRIA</button></a>
-        <a href="geografia.html"><button class="nav-button">GEOGRAFIA</button></a>
+        <a href="Public/materias/historia.php"><button class="nav-button">HISTÓRIA</button></a>
+        <a href="Public/materias/geografia.php"><button class="nav-button">GEOGRAFIA</button></a>
     </div>
     <div class="logo-container">
         <img src="Resources/images/logo.jpeg" alt="Logo" class="logo">
     </div>
     <div class="right-buttons">
-        <a href="sociologia.html"><button class="nav-button">SOCIOLOGIA</button></a>
-        <a href="filosofia.html"><button class="nav-button">FILOSOFIA</button></a>
+        <a href="Public/materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
+        <a href="Public/materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
 
