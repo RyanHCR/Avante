@@ -8,19 +8,19 @@
     <script src="Resources/js/animation.js"></script>
 </head>
 <body>
-    <header class="header">
-        <div class="left-buttons">
-            <button class="nav-button">HISTÓRIA</button>
-            <button class="nav-button">GEOGRAFIA</button>
-        </div>
-        <div class="logo-container">
-            <img src="Resources/images/logo.jpeg" alt="Logo" class="logo">
-        </div>
-        <div class="right-buttons">
-            <button class="nav-button">SOCIOLOGIA</button>
-            <button class="nav-button">FILOSOFIA</button>
-        </div>
-    </header>
+<header class="header">
+    <div class="left-buttons">
+        <a href="historia.html"><button class="nav-button">HISTÓRIA</button></a>
+        <a href="geografia.html"><button class="nav-button">GEOGRAFIA</button></a>
+    </div>
+    <div class="logo-container">
+        <img src="Resources/images/logo.jpeg" alt="Logo" class="logo">
+    </div>
+    <div class="right-buttons">
+        <a href="sociologia.html"><button class="nav-button">SOCIOLOGIA</button></a>
+        <a href="filosofia.html"><button class="nav-button">FILOSOFIA</button></a>
+    </div>
+</header>
 
     <img class="principal-image" src="Resources/images/imgdc.jpeg" alt="Imagem principal">
 

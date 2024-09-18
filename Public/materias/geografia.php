@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="Resources/css/index.css">
 </head>
 <body>
-
+    
 <header class="header">
         <div class="left-buttons">
             <button class="nav-button">HISTÓRIA</button>
@@ -20,12 +20,13 @@
             <button class="nav-button">FILOSOFIA</button>
         </div>
     </header>
-    
-    <div class="container">
-        <a href="link" class="button button-um">REGIONALIZAÇÃO DO BRASIL</a>
+
+
+<div class="container">
+        <a href="link" class="button button-um">ECONOMIA</a>
         <a href="link" class="button button-dois">GEOPOLÍTICA</a>
         <a href="link" class="button button-tres">GLOBALIZAÇÃO</a>
-        <a href="link" class="button button-quatro">ECONOMIA</a>
+        <a href="link" class="button button-quatro">REGIONALIZAÇÃO DO BRASIL</a>
     </div>
     <style>
         .container {

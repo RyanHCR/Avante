@@ -23,10 +23,10 @@
 
 
 <div class="container">
-        <a href="link" class="button button-um">ESCRAVIDÃO</a>
-        <a href="link" class="button button-dois">IDADE MÉDIA</a>
-        <a href="link" class="button button-tres">PRÉ HISTÓRIA</a>
-        <a href="link" class="button button-quatro">BRASIL COLONIAL</a>
+        <a href="link" class="button button-um">CULTURA</a>
+        <a href="link" class="button button-dois">SOCIÓLOGOS BRASILEIROS</a>
+        <a href="link" class="button button-tres">PODER, ESTADO E POLÍTICA</a>
+        <a href="link" class="button button-quatro">SOCIOLOGIA CONTEMPORÂNEA</a>
     </div>
     <style>
         .container {
