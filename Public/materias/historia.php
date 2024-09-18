@@ -9,7 +9,7 @@
     
 <header class="header">
     <div class="left-buttons">
-        <a href="historia.php"><button class="nav-button">HISTÓRIA</button></a>
+        <a href="historia.php"><button class="nav-button"style="color:#356A72">HISTÓRIA</button></a>
         <a href="geografia.php"><button class="nav-button">GEOGRAFIA</button></a>
     </div>
     <div class="logo-container">

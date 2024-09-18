@@ -17,7 +17,7 @@
     </div>
     <div class="right-buttons">
         <a href="sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
-        <a href="filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
+        <a href="filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
     </div>
 </header>
 
