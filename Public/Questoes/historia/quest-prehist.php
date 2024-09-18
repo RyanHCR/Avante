@@ -151,29 +151,29 @@ Igualmente, é preciso ter em conta que o Homem de Neanderthal era melhor adapta
     <!-- Quinta pergunta -->
     <form method="POST" action="">
         <h3>5. (UFRGS) A denominação "Revolução Neolítica", cunhada nos anos 60 pelo arqueólogo Gordon Childe, refere-se a uma série de intensas transformações. Entre essas mudanças, é correto citar</h3>
-        <input type="radio" name="resposta4" value="a" required>a) a criação do poder político centralizado associado ao domínio do poder religioso.<br>
-        <input type="radio" name="resposta4" value="b">b) o desenvolvimento de conglomerados urbanos baseados no trabalho escravo.<br>
-        <input type="radio" name="resposta4" value="c">c) a instituição privada das terras, com o cultivo de cereais e a criação de animais.<br>
-        <input type="radio" name="resposta4" value="d">d) o surgimento da divisão natural do trabalho, com a atribuição de papel produtivo relevante à mulher.<br>
-        <input type="radio" name="resposta4" value="e">e) a transição da economia de subsistência para uma economia industrial<br><br>
-        <input type="submit" name="verificar4" value="Verificar Resposta">
+        <input type="radio" name="resposta5" value="a" required>a) a criação do poder político centralizado associado ao domínio do poder religioso.<br>
+        <input type="radio" name="resposta5" value="b">b) o desenvolvimento de conglomerados urbanos baseados no trabalho escravo.<br>
+        <input type="radio" name="resposta5" value="c">c) a instituição privada das terras, com o cultivo de cereais e a criação de animais.<br>
+        <input type="radio" name="resposta5" value="d">d) o surgimento da divisão natural do trabalho, com a atribuição de papel produtivo relevante à mulher.<br>
+        <input type="radio" name="resposta5" value="e">e) a transição da economia de subsistência para uma economia industrial<br><br>
+        <input type="submit" name="verificar5" value="Verificar Resposta">
     </form>
 
     <?php
-    if (isset($_POST['verificar4'])) {
-        $resposta4_usuario = $_POST['resposta4'];
-        $resposta4_correta = "d";
-        $explicacao4 = "O período Neolítico ou Período da Pedra Polida é caracterizado pela sedentarização dos seres humanos. Assim, o trabalho passa a ser dividido de acordo com a capacidade física de cada indivíduo, cabendo à mulher as tarefas agrícolas e ao homem, à caça.";
+    if (isset($_POST['verificar5'])) {
+        $resposta5_usuario = $_POST['resposta5'];
+        $resposta5_correta = "d";
+        $explicacao5 = "O período Neolítico ou Período da Pedra Polida é caracterizado pela sedentarização dos seres humanos. Assim, o trabalho passa a ser dividido de acordo com a capacidade física de cada indivíduo, cabendo à mulher as tarefas agrícolas e ao homem, à caça.";
 
         echo "<h2>Resultado:</h2>";
-        if ($resposta4_usuario == $resposta4_correta) {
-            echo "<p class='correta'>Parabéns, você acertou! A resposta correta é $resposta4_correta.</p>";
+        if ($resposta5_usuario == $resposta5_correta) {
+            echo "<p class='correta'>Parabéns, você acertou! A resposta correta é $resposta5_correta.</p>";
         } else {
-            echo "<p class='incorreta'>Você errou. A resposta correta é $resposta4_correta.</p>";
+            echo "<p class='incorreta'>Você errou. A resposta correta é $resposta5_correta.</p>";
         }
         echo "<div class='explicacao'>
                 <h3>Explicação:</h3>
-                <p>$explicacao4</p>
+                <p>$explicacao5</p>
               </div>";
     }
     ?>
@@ -182,28 +182,28 @@ Igualmente, é preciso ter em conta que o Homem de Neanderthal era melhor adapta
     <form method="POST" action="">
         <h3>6. (Unicamp) Desde o período neolítico, os povos de distintas partes do mundo desenvolveram sistemas agrários próprios aproveitando as condições naturais de seus habitats e do conhecimento adquirido e transmitido entre os membros da comunidade.
         Assinale a alternativa que estabelece corretamente a relação entre o povo habitante de uma determinada área, o sistema produtivo por ele desenvolvido, as condições naturais aproveitadas e os produtos cultivados.</h3>
-        <input type="radio" name="resposta4" value="a" required>a) Egípcios; uso da irrigação e drenagem; planícies úmidas e férteis dos rios Tigres e Eufrates; arroz e café.<br>
-        <input type="radio" name="resposta4" value="b">b) Incas; uso de terraços com técnicas de curvas de nível e irrigação de vales; aproveitamento dos altiplanos andinos; batata e milho.<br>
-        <input type="radio" name="resposta4" value="c">c) Chineses; uso intensivo dos terraços das altas montanhas; planalto de Anatólia no extremo leste da Ásia; café e cacau.<br>
-        <input type="radio" name="resposta4" value="d">d) Mesopotâmicos; uso de cultivos de inundação e de regadio; vales férteis dos rios Ganges e Amarelo; cana-de-açúcar e feijão.<br><br>
-        <input type="submit" name="verificar4" value="Verificar Resposta">
+        <input type="radio" name="resposta6" value="a" required>a) Egípcios; uso da irrigação e drenagem; planícies úmidas e férteis dos rios Tigres e Eufrates; arroz e café.<br>
+        <input type="radio" name="resposta6" value="b">b) Incas; uso de terraços com técnicas de curvas de nível e irrigação de vales; aproveitamento dos altiplanos andinos; batata e milho.<br>
+        <input type="radio" name="resposta6" value="c">c) Chineses; uso intensivo dos terraços das altas montanhas; planalto de Anatólia no extremo leste da Ásia; café e cacau.<br>
+        <input type="radio" name="resposta6" value="d">d) Mesopotâmicos; uso de cultivos de inundação e de regadio; vales férteis dos rios Ganges e Amarelo; cana-de-açúcar e feijão.<br><br>
+        <input type="submit" name="verificar6" value="Verificar Resposta">
     </form>
 
     <?php
-    if (isset($_POST['verificar4'])) {
-        $resposta4_usuario = $_POST['resposta4'];
-        $resposta4_correta = "b";
-        $explicacao4 = "Os incas aproveitavam o relevo dos altiplanos para cultivar alimentos como a batata e o milho.";
+    if (isset($_POST['verificar6'])) {
+        $resposta6_usuario = $_POST['resposta6'];
+        $resposta6_correta = "b";
+        $explicacao6 = "Os incas aproveitavam o relevo dos altiplanos para cultivar alimentos como a batata e o milho.";
 
         echo "<h2>Resultado:</h2>";
-        if ($resposta4_usuario == $resposta4_correta) {
-            echo "<p class='correta'>Parabéns, você acertou! A resposta correta é $resposta4_correta.</p>";
+        if ($resposta6_usuario == $resposta6_correta) {
+            echo "<p class='correta'>Parabéns, você acertou! A resposta correta é $resposta6_correta.</p>";
         } else {
-            echo "<p class='incorreta'>Você errou. A resposta correta é $resposta4_correta.</p>";
+            echo "<p class='incorreta'>Você errou. A resposta correta é $resposta6_correta.</p>";
         }
         echo "<div class='explicacao'>
                 <h3>Explicação:</h3>
-                <p>$explicacao4</p>
+                <p>$explicacao6</p>
               </div>";
     }
     ?>

@@ -16,8 +16,8 @@
 <section>
 <a href="../Conteudos/historia/pre-historia.php">PRÉ-HISTÓRIA</a>
 <a href="../Conteudos/historia/idademedia.php">IDADE MÉDIA</a>
-<a href="../Conteudos/historia/imp-africanos.php">IMPÉRIOS AFRICANOS</a>
-<a href="../Conteudos/historia/historia-america.php">HISTÓRIA DA AMÉRICA</a>
+<a href="../Conteudos/historia/escravidao.php">IMPÉRIOS AFRICANOS</a>
+<a href="../Conteudos/historia/brasil-colonia.php">HISTÓRIA DA AMÉRICA</a>
 
 <button href="index.php">Voltar</button>
 </section>
