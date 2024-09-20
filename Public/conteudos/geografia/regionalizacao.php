@@ -24,6 +24,8 @@
     <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
 
     <p>A regionalização do Brasil é uma forma de dividir o território nacional com base em critérios que facilitam o estudo e a gestão do país. O Brasil é uma nação de dimensões continentais, e essa diversidade geográfica, econômica, cultural e social exige uma organização que permita entender as particularidades de cada área. Regionalizar é dividir o espaço geográfico em regiões menores e mais homogêneas, o que facilita a análise das características específicas de cada parte do país.</p>
+    <img src="../../../Resources/images/525029d10c0ff3db672a26beff11aad91.jpg">
+
     <p>Existem diferentes formas de regionalizar o Brasil, cada uma com objetivos específicos, que variam desde questões físicas, econômicas e sociais até políticas de desenvolvimento regional. Entender esses critérios é essencial para quem estuda geografia e busca compreender as dinâmicas do país.</p>
 
     <p>A REGIONALIZAÇÃO OFICIAL DO IBGE</p>
@@ -42,11 +44,14 @@
     <p>CRITÉRIOS PARA REGIONALIZAR O BRASIL</p>
     <p>Existem diferentes maneiras de regionalizar o Brasil, e cada uma delas leva em consideração critérios variados, como:</p>
     <p>Critérios Físico-Naturais: Baseiam-se nas características naturais, como relevo, vegetação, hidrografia e clima. Um exemplo é a divisão feita pelo geógrafo Aroldo de Azevedo nos anos 1940, que considerava principalmente o relevo e o clima para dividir o Brasil em três regiões: Planalto das Guianas, Planalto Brasileiro e Planície Amazônica.</p>
+    <img src="../../../Resources/images/image9.jpg">
 
     <p>Critérios Socioeconômicos: Divisões que levam em conta a economia e os aspectos sociais, como a concentração de indústrias, renda da população, desenvolvimento econômico e serviços. Um exemplo é a divisão proposta por Pedro Pinchas Geiger nos anos 1960, que separa o Brasil em três grandes complexos regionais: Amazônia: Caracterizada pela baixa densidade populacional e economia de base extrativista. Nordeste: Região de economia agrícola tradicional, com problemas sociais e desigualdades marcantes. Centro-Sul: Área mais industrializada, com maior urbanização e desenvolvimento econômico.</p>
+    <img src="../../../Resources/images/image8.jpg">
 
     <p>Critérios Históricos e Culturais: Levam em consideração o processo de formação histórica e cultural das regiões. Por exemplo, a colonização litorânea, o ciclo do açúcar no Nordeste, a pecuária no Sul e o desenvolvimento industrial no Sudeste.</p>
-    
+    <img src="../../../Resources/images/image10.jpg">
+
     <p>
     OUTRAS FORMAS DE REGIONALIZAÇÃO
     </p>
