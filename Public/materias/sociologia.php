@@ -23,10 +23,10 @@
 
 <a href="../../index.php" class="button-back">VOLTAR</a>
 <div class="container">
-        <a href="link" class="button button-um">CULTURA</a>
-        <a href="link" class="button button-dois">SOCIÓLOGOS BRASILEIROS</a>
-        <a href="link" class="button button-tres">PODER, ESTADO E POLÍTICA</a>
-        <a href="link" class="button button-quatro">SOCIOLOGIA CONTEMPORÂNEA</a>
+        <a href="../conteudos/sociologia/cultura.php" class="button button-um">CULTURA</a>
+        <a href="../conteudos/sociologia/sociologosbr.php" class="button button-dois">SOCIÓLOGOS BRASILEIROS</a>
+        <a href="../conteudos/sociologia/poderes.php" class="button button-tres">PODER, ESTADO E POLÍTICA</a>
+        <a href="../conteudos/sociologia/sociologiacomtp.php" class="button button-quatro">SOCIOLOGIA CONTEMPORÂNEA</a>
     </div>
     <style>
         .container {

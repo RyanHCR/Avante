@@ -23,10 +23,10 @@
 
     <a href="../../index.php" class="button-back">VOLTAR</a>
 <div class="container">
-        <a href="link" class="button button-um">ESCRAVIDÃO</a>
-        <a href="link" class="button button-dois">IDADE MÉDIA</a>
-        <a href="link" class="button button-tres">PRÉ-HISTÓRIA</a>
-        <a href="link" class="button button-quatro">BRASIL COLONIAL</a>
+        <a href="../conteudos/historia/escravidao.php" class="button button-um">ESCRAVIDÃO</a>
+        <a href="../conteudos/historia/idademedia.php" class="button button-dois">IDADE MÉDIA</a>
+        <a href="../conteudos/historia/prehistoria.php" class="button button-tres">PRÉ-HISTÓRIA</a>
+        <a href="../conteudos/historia/brasilcolonial.php" class="button button-quatro">BRASIL COLONIAL</a>
     </div>
     <style>
         .container {
