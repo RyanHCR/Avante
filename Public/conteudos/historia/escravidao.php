@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Botões CRUD</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/historia/escravidao.css">
 </head>
 <body>
     
@@ -21,9 +22,15 @@
     </div>
 </header>
 
+<div class="sub-header">
+    <p>ESCRAVIDÃO</p>
+</div>
+
     <a href="../../materias/historia.php" class="button-back">VOLTAR</a>
-    <p>A escravidão é um tema central na história das sociedades humanas, presente em diversas civilizações ao longo dos séculos. Ela se caracteriza pela apropriação de pessoas como propriedade, transformando indivíduos em mercadorias. Os escravos eram forçados a trabalhar sem direitos e sem a possibilidade de libertação por meios próprios.</p>
-    
+    <div class="box1">
+    <p class="text1">A escravidão é um tema central na história das sociedades humanas, presente em diversas civilizações ao longo dos séculos. Ela se caracteriza pela apropriação de pessoas como propriedade, transformando indivíduos em mercadorias. Os escravos eram forçados a trabalhar sem direitos e sem a possibilidade de libertação por meios próprios.</p>
+    </div>
+
     <p>CONTEXTO HISTÓRICO</p>
     <img src="../../../Resources/images/escravidao1.jpg">
     <p>O trabalho escravo é uma prática que permeia a história mundial. Sua origem está relacionada às guerras e conquistas de territórios, onde os povos vencidos eram submetidos ao trabalho forçado pelos conquistadores. "A escravidão no Brasil iniciou-se por volta da década de 1530, quando os portugueses implantaram as bases para a colonização da América portuguesa, para atender, mais especificamente, à demanda dos portugueses por mão de obra para o trabalho na</p>
@@ -89,7 +96,6 @@
 
     <img src="../../../Resources/images/CULTURA1.jpg">
     <p>Cultura: Apesar da marginalização, a cultura afro-brasileira é uma das mais ricas e dinâmicas do país, influenciando áreas como a música, a culinária e as artes.</p>
-    <p></p>
     <style>
 
         .button-back {
