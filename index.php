@@ -22,7 +22,7 @@
     </div>
 </header>
 
-    <img class="principal-image" src="Resources/images/imgdc.jpeg" alt="Imagem principal">
+    <img class="principal-image" src="Resources/images/seu novo cursinho está aqui (1).png" alt="Imagem principal">
 
     <!-- Adicionando o texto informativo com a animação -->
     <div class="info-text show-info-text">

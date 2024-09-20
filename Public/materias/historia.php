@@ -32,8 +32,8 @@
         .container {
             display: flex;
             flex-direction: column;
-            gap: 35px; /* Espaço entre os botões */
-            width: 1000px; /* Largura dos botões + margem */
+            gap: 35px;
+            width: 1000px;
             text-align: center;
             font-family:'Roboto', sans-serif;
             margin-top:-40px;
