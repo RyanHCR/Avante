@@ -23,10 +23,10 @@
 
 <a href="../../index.php" class="button-back">VOLTAR</a>
 <div class="container">
-        <a href="link" class="button button-um">ECONOMIA</a>
-        <a href="link" class="button button-dois">GEOPOLÍTICA</a>
-        <a href="link" class="button button-tres">GLOBALIZAÇÃO</a>
-        <a href="link" class="button button-quatro">REGIONALIZAÇÃO DO BRASIL</a>
+        <a href="../conteudos/geografia/economia.php" class="button button-um">ECONOMIA</a>
+        <a href="../conteudos/geografia/geopolitica.php" class="button button-dois">GEOPOLÍTICA</a>
+        <a href="../conteudos/geografia/globalizacao.php" class="button button-tres">GLOBALIZAÇÃO</a>
+        <a href="../conteudos/geografia/regionalizacao.php" class="button button-quatro">REGIONALIZAÇÃO DO BRASIL</a>
     </div>
     <style>
         .container {

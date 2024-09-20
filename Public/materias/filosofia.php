@@ -23,10 +23,10 @@
 
 <a href="../../index.php" class="button-back">VOLTAR</a>
 <div class="container">
-        <a href="link" class="button button-um">FILOSOFIA ANTIGA</a>
-        <a href="link" class="button button-dois">FILOSOFIA MEDIEVAL</a>
-        <a href="link" class="button button-tres">FILOSOFIA MODERNA</a>
-        <a href="link" class="button button-quatro">FILOSOFIA CONTEMPORÂNEA</a>
+        <a href="../conteudos/filosofia/filo-antiga.php" class="button button-um">FILOSOFIA ANTIGA</a>
+        <a href="../conteudos/filosofia/filo-medieval.php" class="button button-dois">FILOSOFIA MEDIEVAL</a>
+        <a href="../conteudos/filosofia/filo-moderna.php" class="button button-tres">FILOSOFIA MODERNA</a>
+        <a href="../conteudos/filosofia/filo-contemporanea.php" class="button button-quatro">FILOSOFIA CONTEMPORÂNEA</a>
     </div>
     <style>
         .container {
