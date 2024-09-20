@@ -62,13 +62,6 @@ img.principal-image {
     margin-top: 15px;
 }
 
-img.second-image {
-    width: 729px;
-    height:670px;
-    margin-left: 220px;
-    margin-top: 50px;
-}
-
 .animated-text-container {
     display: flex;
     justify-content: center;
@@ -126,3 +119,90 @@ img.second-image {
 .info-text p {
     margin: 0; /* Remove margens padrão do parágrafo */
 }
+
+/* Estilo para o container da imagem e texto animado */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.text-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* Para alinhar o texto e a lista verticalmente */
+    justify-content: center;
+    align-items: flex-start; /* Alinhar itens à esquerda */
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 120px;
+}
+
+.animated-text, .animated-list {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    position: relative;
+    left: 100%; /* Começa fora da tela à direita */
+    white-space: nowrap;
+    opacity: 0; /* Invisível até que a animação inicie */
+}
+
+.animated-list {
+    font-size: 1.2rem; /* Tamanho menor para a lista */
+    font-weight: normal;
+    margin-top: 20px;
+}
+
+@keyframes slideInFromRight {
+    0% {
+        left: 100%; /* Fora da tela à direita */
+        opacity: 0;
+    }
+    100% {
+        left: 50%; /* Para perto do centro */
+        transform: translateX(-50%);
+        opacity: 1;
+    }
+}
+
+.text-container.animate .animated-text, 
+.text-container.animate .animated-list {
+    animation: slideInFromRight 2s ease-out forwards;
+}
+
+.animated-list {
+    list-style-type: disc;
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-top: 20px;
+}
+
+.animated-list li {
+    margin-bottom: 10px;
+}
+
+
+.square-container {
+    display: flex;
+    justify-content: flex-start; 
+    gap: 200px; 
+    top:60px;
+    margin-left: 275px;
+    margin-bottom: 60px;
+}
+
+.square {
+    height: 300px;
+    width: 400px;
+    background-color: #6FC3D0;
+}
+
