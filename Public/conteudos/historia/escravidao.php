@@ -30,16 +30,37 @@
     <div class="box1">
     <p class="text1">A escravidão é um tema central na história das sociedades humanas, presente em diversas civilizações ao longo dos séculos. Ela se caracteriza pela apropriação de pessoas como propriedade, transformando indivíduos em mercadorias. Os escravos eram forçados a trabalhar sem direitos e sem a possibilidade de libertação por meios próprios.</p>
     </div>
+    <br>
+    <div class="box2">
+    <p class="text2">CONTEXTO HISTÓRICO</p>
+    </div>
+    <br><br><br>
+    <div class="allone">
+    <img src="../../../Resources/images/escravidao1.jpg" class="image-left">
+    <hr class="hr1">
+    <p class="text3">
+        O trabalho escravo é uma prática que permeia a história mundial. Sua origem está relacionada às guerras e conquistas de territórios, onde os povos vencidos eram submetidos ao trabalho forçado pelos conquistadores.
+        <br><br>
+        "A escravidão no Brasil iniciou-se por volta da década de 1530, quando os portugueses implantaram as bases para a colonização da América portuguesa, para atender, mais especificamente, à demanda dos portugueses por mão de obra para o trabalho na 
+        <br>
+        <p class="text4">lavoura. Tal processo deu-se, primeiramente, com a escravização dos indígenas, e, ao longo dos séculos XVI e XVII, essa foi sendo substituída pela escravização dos africanos, trazidos por meio do tráfico negreiro."</p>
+    </p>
+    <br><br>
+    <hr class="hr2">
+</div>
+    
+    
 
-    <p>CONTEXTO HISTÓRICO</p>
-    <img src="../../../Resources/images/escravidao1.jpg">
-    <p>O trabalho escravo é uma prática que permeia a história mundial. Sua origem está relacionada às guerras e conquistas de territórios, onde os povos vencidos eram submetidos ao trabalho forçado pelos conquistadores. "A escravidão no Brasil iniciou-se por volta da década de 1530, quando os portugueses implantaram as bases para a colonização da América portuguesa, para atender, mais especificamente, à demanda dos portugueses por mão de obra para o trabalho na</p>
-    <p>lavoura. Tal processo deu-se, primeiramente, com a escravização dos indígenas, e, ao longo dos séculos XVI e XVII, essa foi sendo substituída pela escravização dos africanos, trazidos por meio do tráfico negreiro."</p>
+<div class="box3">
+    <p class="text5">ESCRAVIDÃO NO BRASIL: UMA VISÃO GERAL</p>
+    </div>
+    <div>
+    <p class="text6">A escravidão no Brasil é um dos capítulos mais longos e impactantes da história do país, com profundas consequências econômicas, sociais e culturais. Durante mais de três séculos, o Brasil foi o maior destino de africanos escravizados nas Américas, o que moldou significativamente sua população e estrutura social.</p>
+    </div>
 
-    <p>ESCRAVIDÃO NO BRASIL: UMA VISÃO GERAL</p>
-    <p>A escravidão no Brasil é um dos capítulos mais longos e impactantes da história do país, com profundas consequências econômicas, sociais e culturais. Durante mais de três séculos, o Brasil foi o maior destino de africanos escravizados nas Américas, o que moldou significativamente sua população e estrutura social.</p>
-
-    <p>ORIGEM E CONTEXTO HISTÓRICO</p>
+    <div class="box4">
+    <p class="text7">SUA ORIGEM</p>
+    </div>
     <img src="../../../Resources/images/escravidao2.jpg">
     <p>A escravidão começou oficialmente no Brasil em 1530, com a chegada dos portugueses, que introduziram inicialmente a mão de obra indígena nas plantações de açúcar. No entanto, a resistência dos povos indígenas e a alta mortalidade causada por doenças europeias levaram os colonizadores a buscar alternativas. A partir de meados do século XVI, os portugueses começaram a importar africanos como escravos. Essa prática foi impulsionada pela demanda crescente por mão de obra, principalmente nas plantações de cana-de-açúcar, que se tornaram o motor econômico da colônia.</p>
     

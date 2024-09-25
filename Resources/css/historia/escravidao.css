@@ -8,20 +8,22 @@ body {
     overflow-x: hidden;
 }
 
-.box1{
+.box1 {
     background-color: #B5F5FF;
-    height:150px;
-    width:1100px;
-    margin-left: 200px;
+    height: 150px;
+    width: 1100px;
+    margin-left: 220px;
 }
 
-.text1{
+.text1 {
     font-size: 20px;
     font-weight: bold;
     padding: 30px;
+    margin-top: -50px;
+    margin-left: 12px;
 }
 
-.sub-header{  
+.sub-header {  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,8 +32,107 @@ body {
     border-bottom: 1px solid #A3DBE4;
     height: 35px;
     align-self: center;
-    color:white;
+    color: white;
     font-size: 23px;
     text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
     font-weight: bold;
+}
+
+.box2 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 1100px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text2 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 23px;
+}
+
+.hr1 {
+    border: 3px solid #6FC3D0;
+    width: 650px;
+    margin-right: 215px;
+}
+
+.hr2 {
+    border: 3px solid #6FC3D0;
+    width: 650px;
+    margin-left: 215px;
+}
+
+.text3 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+    margin-left: 660px;
+    width: 670px;
+}
+
+.text4 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.image-left {
+    float: left;
+    width: 340px;
+    height: 280px;
+    margin-left: 270px;
+}
+
+.box3{
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 400px;
+    margin-left: 900;
+    margin-top: -50px;
+}
+
+.text5{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.05px;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 1070px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 15px;
+    padding-left: 3px;
+}
+
+.text6{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 20px;
 }
