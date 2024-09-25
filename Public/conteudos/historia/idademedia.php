@@ -20,6 +20,9 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
+<div class="sub-header">
+    <p>IDADE MÉDIA</p>
+</div>
 
     <a href="../../materias/historia.php" class="button-back">VOLTAR</a>
     <p>A Idade Média é o nome do período da história localizado entre os anos 476 e 1453. A nomeação “Idade Média” é utilizada pelos historiadores dentro de uma periodização que engloba quatro idades: Antiga, Média, Moderna e Contemporânea.</p>

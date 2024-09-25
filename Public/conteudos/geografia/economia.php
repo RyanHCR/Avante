@@ -26,6 +26,7 @@
 
     <p>O QUE É ECONOMIA?</p>
     <p>A economia lida com a gestão dos recursos escassos, ou seja, recursos limitados diante das infinitas necessidades e desejos humanos. O principal objetivo dessa ciência é estudar a alocação desses recursos para otimizar o bem-estar social. Dentro da economia, podemos identificar dois grandes ramos:</p>
+    <img src="../../../Resources/images/economia1s.jpg">
 
     <p>1. Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?</p>
     <p>2. Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?</p>
@@ -50,12 +51,15 @@
 
     <p>ECONOMIA DE MERCADO</p>
     <p>Nesse sistema, a produção e o consumo são regulados pelas leis da oferta e da demanda, com pouca interferência do governo. As decisões sobre o que produzir, como produzir e para quem produzir são determinadas pelo mercado. O capitalismo é o principal exemplo de economia de mercado. Nos mercados livres, o preço é um mecanismo que coordena as ações de produtores e consumidores.</p>
+    <img src="../../../Resources/images/economia2.jpg">
 
     <p>ECONOMIA PLANIFICADA</p>
     <p>Também chamada de economia centralmente planejada, nesse sistema, o governo controla a produção e a distribuição de bens e serviços. O Estado decide o que será produzido, em que quantidade e como será distribuído. Esse sistema é comum em regimes socialistas, como na antiga União Soviética.</p>
+    <img src="../../../Resources/images/economia3.jpg">
 
     <p>ECONOMIA MISTA</p>
     <p>A maioria dos países adota um sistema econômico misto, no qual coexistem setores de mercado livre e setores controlados pelo governo. O Brasil, por exemplo, tem uma economia mista, com empresas privadas e estatais, e o governo intervém na economia por meio de políticas fiscais e monetárias.</p>
+    <img src="../../../Resources/images/economia4.jpg">
 
     <p>O PAPEL DO GOVERNO NA ECONOMIA</p>
     <p>O governo desempenha um papel crucial na economia, atuando em diferentes áreas para garantir o equilíbrio econômico e promover o bem-estar da população. Entre as principais funções do governo estão:</p>
@@ -63,6 +67,7 @@
 <li>
 Política Monetária: Controlada pelos bancos centrais, essa política regula a quantidade de dinheiro em circulação e as taxas de juros, influenciando o nível de consumo, investimento e a inflação. O Banco Central do Brasil, por exemplo, ajusta as taxas de juros para controlar a inflação e estimular ou desacelerar a economia.</li>
 <li>Regulação e Legislação: O governo também estabelece regras para garantir que o mercado funcione de maneira justa e eficiente. Isso inclui leis trabalhistas, normas ambientais e regulamentações de setores estratégicos como telecomunicações e energia.</li>
+<img src="../../../Resources/images/economia5.jpg">
 
     <p>INDICADORES ECONÔMICOS</p>
     <p>Para medir o desempenho da economia, os economistas utilizam diversos indicadores. Alguns dos mais importantes são:</p>
@@ -79,9 +84,16 @@ Política Monetária: Controlada pelos bancos centrais, essa política regula a 
     <p>DESAFIOS ECONÔMICOS ATUAIS</p>
     <p>Em um mundo em constante mudança, a economia enfrenta desafios complexos, como:</p>
     <p>1. Desigualdade Social: Apesar do crescimento econômico global, a concentração de renda nas mãos de poucos se intensificou, especialmente nas grandes economias. A desigualdade de renda entre ricos e pobres continua sendo um dos maiores desafios, e a solução para isso exige políticas públicas redistributivas e acesso igualitário à educação e saúde.</p>
+    <img src="../../../Resources/images/economia6.jpg">
+
     <p>2. Desemprego Tecnológico: Com o avanço da automação e da inteligência artificial, muitos empregos tradicionais estão desaparecendo. Esse fenômeno levanta a questão de como as sociedades vão lidar com o desemprego tecnológico, garantindo que os trabalhadores se adaptem às novas demandas do mercado.</p>
+    <img src="../../../Resources/images/economia7.jpg">
+
     <p>3. Sustentabilidade: O crescimento econômico vem acompanhado de altos custos ambientais. A exploração excessiva dos recursos naturais, o desmatamento e as mudanças climáticas são desafios que a economia global precisa enfrentar para garantir um desenvolvimento sustentável. O conceito de economia verde e economia circular surge como alternativas para equilibrar o crescimento econômico com a preservação do meio ambiente.</p>
+    <img src="../../../Resources/images/economia8.jpg">
+
     <p>4. Crises Econômicas: As economias estão sujeitas a crises, como recessões e crises financeiras. A pandemia da COVID-19, por exemplo, gerou uma das maiores crises econômicas do século XXI, evidenciando a vulnerabilidade dos mercados globais a eventos inesperados.</p>
+    <img src="../../../Resources/images/economia9.jpg">
     <p></p>
     <p></p>
     <p></p>

@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>FILOSOFIA MODERNA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
 </head>
 <body>
@@ -22,6 +22,51 @@
 </header>
 
     <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
+    <p>A Filosofia Moderna caracteriza-se, principalmente, por uma guinada ao Humanismo, iniciada no Renascentismo, e pela valorização incondicional à razão trazida à luz pelo ceticismo e pela descoberta de que o ser humano independe de instâncias racionais metafísicas, como Deus, para descobrir o seu intelecto.</p>
+    
+    <img src="../../../Resources/images/moderna1.jpeg">
+    <p>A filosofia moderna começa no século XV quando tem início a Idade Moderna. Ela permanece até o século XVIII, com a chegada da Idade Contemporânea. Ela marca uma transição do pensamento medieval, fundamentado na fé e nas relações entre os homens e Deus, para o pensamento antropocêntrico, marca da modernidade, que eleva a humanidade a um novo status como o grande objeto de estudo.</p>
+    <img src="../../../Resources/images/moderna2.jpeg">
+
+    <p>Este período está intimamente ligado ao surgimento da ciência moderna, ao humanismo e às mudanças sociais, políticas e econômicas que ocorreram na Europa.</p>
+
+    <p>PRINCIPAIS FILÓSOFOS DA FILOSOFIA MODERNA:</p>
+    <p>René Descartes (1596–1650):</p>
+    <li>Conhecido como o "pai da filosofia moderna".</li>
+    <li>Sua obra mais famosa, Meditações sobre a Filosofia Primeira (1641), introduz o método da dúvida radical.</li>
+    <li>Descartes é famoso por sua frase "Cogito, ergo sum" ("Penso, logo existo"), que fundamenta a existência do sujeito pensante como ponto de partida para todo o conhecimento.</li>
+    <li>Defendeu o dualismo entre mente e corpo, separando a alma (res cogitans) da matéria (res extensa)</li>
+    
+
+    <p>John Locke (1632–1704):</p>
+    <li>Um dos principais filósofos do empirismo.</li>
+    <li>Em sua obra Ensaio sobre o Entendimento Humano (1689), Locke propôs que a mente humana é uma "tábula rasa", ou seja, nasce sem ideias inatas, e todo o conhecimento provém da experiência.</li>
+    <li>Suas ideias sobre governo e direitos naturais (vida, liberdade e propriedade) influenciaram a teoria política moderna, especialmente no que tange ao liberalismo e ao constitucionalismo.</li>
+    
+    <p>Immanuel Kant (1724–1804):</p>
+    <li>Um dos mais influentes filósofos da modernidade, Kant tentou reconciliar o racionalismo e o empirismo.</li>
+    <li>Em sua Crítica da Razão Pura (1781), Kant argumenta que a mente humana tem estruturas inatas que moldam nossa experiência do mundo.</li>
+    <li>Desenvolveu a teoria do idealismo transcendental, segundo a qual o tempo, o espaço e as categorias do entendimento não são propriedades do mundo em si, mas formas pelas quais o sujeito apreende a realidade.</li>
+
+    <p>Karl Marx (1818–1883):</p>
+    <li>Filósofo e economista, Marx é mais conhecido como o fundador do socialismo científico e do comunismo.</li>
+    <li>Em O Capital (1867) e O Manifesto Comunista (1848, co-escrito com Engels), Marx analisa a dinâmica do capitalismo e sua inevitável autodestruição devido à exploração dos trabalhadores.</li>
+    <li>Ele desenvolveu a teoria da luta de classes, afirmando que a história da sociedade é a história de conflitos entre as classes sociais.</li>
+
+    <p>Esses filósofos moldaram não apenas a filosofia moderna, mas também influenciaram áreas como política, ciência, ética e cultura, tornando-se pilares do pensamento ocidental.</p>
+    <img src="../../../Resources/images/moderna3.jpeg">
+    <img src="../../../Resources/images/moderna4.jpeg">
+    <img src="../../../Resources/images/moderna5.jpeg">
+    
+    <p>Principais Correntes de Pensamento na Filosofia Moderna:</p>
+    <p>Racionalismo: Defende que a razão é a principal fonte do conhecimento. Exponentes: Descartes, Spinoza, Leibniz.</p>
+    <p>Empirismo: Sostém que todo o conhecimento provém da experiência sensorial. Exponentes: Locke, Hume, Berkeley.</p>
+    <p>Idealismo Alemão: Focado na ideia de que a realidade é formada pela mente. Exponentes: Kant, Hegel, Fichte.</p>
+    <p>Existencialismo: Focado na liberdade e no sentido individual da existência. Exponentes: Kierkegaard, Nietzsche.</p>
+
+    <p>A filosofia moderna marcou o início de uma nova era de questionamento e de busca por respostas científicas e racionais sobre a realidade, o ser humano, e a sociedade.</p>
+    
+    
     
     <style>
 
