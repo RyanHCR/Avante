@@ -22,7 +22,49 @@
 </header>
 
     <a href="../../materias/sociologia.php" class="button-back">VOLTAR</a>
+    <p>Gilberto Freyre, Caio Prado Júnior e Sérgio Buarque de Holanda deram forma científica à Sociologia brasileira. Amparados, respectivamente, nas obras de Franz Boas, Karl Marx e Max Weber, tornaram-se decisivos para os rumos da Sociologia no país.</p>
+
+    <p>O Brasil apresenta inúmeras contradições e complexidades, decorrentes da sua formação social, histórica, cultural, política e econômica. Vivemos em um país que necessita de análises, pesquisas, estudos e reflexões constantes, devido a sua formação social e toda a dinâmica e organização que o constitui. Diante desse cenário, muitos cientistas sociais dedicaram suas vidas à tentativa de compreender, decifrar e traduzir esse país. E conhecer alguns deles não só é importante, como também é necessário para que, a partir de suas obras, possamos buscar entender melhor a nós mesmo.</p>
+    <img src="../../../Resources/images/sociologos1.jpeg">
+
+    <p>GILBERTO FREYRE (1900–1987)</p>
+    <li>Uma das figuras mais proeminentes da sociologia brasileira.</li>
+    <li>Sua obra mais famosa, Casa-Grande & Senzala (1933), explora as relações sociais e raciais no Brasil colonial.</li>
+    <li>Freyre introduziu o conceito de "democracia racial", sugerindo que a mistura de raças no Brasil resultou em uma sociedade mais igualitária em comparação a outros países. Este conceito, contudo, foi criticado posteriormente por outros sociólogos por mascarar desigualdades raciais.</li>
+    <img src="../../../Resources/images/sociologos2.jpeg">
+
+    <p>FLORESTAN FERNANDES (1920–1995)</p>
+    <li>Pioneiro na sociologia crítica no Brasil.</li>
+    <li>Foi um dos fundadores da Sociologia das Desigualdades Raciais no Brasil.</li>
+    <li>Suas obras, como A Integração do Negro na Sociedade de Classes (1965), examinam o racismo estrutural e a desigualdade racial no Brasil.</li>
+    <li>Teve uma carreira política, sendo eleito deputado federal por São Paulo, e é conhecido por sua abordagem marxista.</li>
+    <img src="../../../Resources/images/sociologos3.jpeg">
+
+    <p>SÉRGIO BUARQUE (1902–1982)</p>
+    <li>Historiador e sociólogo, conhecido pela obra Raízes do Brasil (1936).</li>
+    <li>Seu conceito de "homem cordial" define um caráter brasileiro que seria afável e informal, mas também problemático nas relações políticas e sociais.</li>
+    <img src="../../../Resources/images/sociologos4.jpeg">
+
+    <p>OCTAVIO IANNI (1926–2004)</p>
+    <li>Um dos principais sociólogos marxistas do Brasil.</li>
+    <li>Estudou questões de modernização, desenvolvimento e a dependência do Brasil em relação a países centrais no sistema capitalista.</li>
+    <li>Sua obra O Colapso do Populismo no Brasil (1968) analisa o fim da política populista no país e o início da ditadura militar.</li>
+    <img src="../../../Resources/images/sociologos5.jpeg">
+
+    <p>FERNANDO CARDOSO (1931–)</p>
+    <li>Sociólogo e político brasileiro, ex-presidente do Brasil.</li>
+    <li>Contribuiu com a teoria da dependência, que analisa como as economias periféricas (como as da América Latina) são condicionadas por economias centrais</li>
+    <li>Entre suas obras mais conhecidas está Dependência e Desenvolvimento na América Latina, escrita com Enzo Faletto.</li>
+    <img src="../../../Resources/images/sociologos6.jpeg">
+
+    <p>MARIA DA GLÓRIA GOHN (1947–)</p>
+    <li>Especialista em movimentos sociais e educação popular.</li>
+    <li>Seus estudos focam em como os movimentos sociais, como o Movimento dos Sem Terra (MST), impactam o desenvolvimento político e social no Brasil.</li>
+    <img src="../../../Resources/images/sociologos7.jpeg">
+
+    <p>Esses sociólogos ajudaram a moldar o pensamento sociológico no Brasil e a entender melhor as dinâmicas sociais, políticas e raciais do país.</p>
     
+
     <style>
 
         .button-back {

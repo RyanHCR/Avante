@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>SOCIOLOGIA CONTEMPORÂNEA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
 </head>
 <body>
@@ -22,6 +22,9 @@
 </header>
 
     <a href="../../materias/sociologia.php" class="button-back">VOLTAR</a>
+    <p>A sociologia contemporânea estuda as transformações que aconteceram na sociedade mundial ao longo do tempo, que culminaram nas configurações atuais de vivências entre povos e nações.</p>
+    <p>Na sociologia contemporânea, estudam-se as causas e consequências das transformações políticas, econômicas, culturais, sociais etc. Inserida nas discussões dessa área da Sociologia, a globalização é um fenômeno presente em todas as camadas da sociedade atual. Ela também envolve uma grande variedade de temas diferentes como política, economia, cultura, tecnologia e meio ambiente, e é utilizada para abordar a interconexão e a interdependência crescentes entre os países. Esse processo, por sua vez, tem impactos profundos nas relações humanas, na forma como as pessoas vivem e pensam.</p>
+    <img src="../../../Resources/images/sociologia1.jpg">
     
     <style>
 
