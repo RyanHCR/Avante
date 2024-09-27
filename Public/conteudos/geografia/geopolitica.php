@@ -21,7 +21,7 @@
     </div>
 </header>
 
-    <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
+<img src="../../../Resources/images/imagem1.pngutton-back">VOLTAR</a>
     <p>Geopolítica é uma área do conhecimento que se dedica ao estudo das relações de poder entre Estados e territórios, bem como a forma como se organizam no sistema-mundo.</p>
     <p>A geopolítica é um campo de estudo interdisciplinar que examina como fatores geográficos, econômicos e políticos influenciam as relações de poder entre as nações. Esse conceito vai além da simples análise territorial, focando nas estratégias que os países adotam para manter sua soberania, garantir acesso a recursos e se posicionar no cenário internacional. Ao estudar geopolítica, entendemos os motivos por trás de conflitos, alianças e disputas por recursos que moldam o mundo atual.</p>
 
