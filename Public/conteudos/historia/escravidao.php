@@ -88,15 +88,36 @@
     </div>
     <hr class="hr6">
 </div>
+<p class="text14">A mão de obra escrava foi essencial para a economia colonial brasileira, sobretudo em setores como:</p>
+<div class="circle-container">
+    <div class="circle1">1</div>
+    <div class="circle2">2</div>
+    <div class="circle3">3</div>
+</div>
 
-    <p>A mão de obra escrava foi essencial para a economia colonial brasileira, sobretudo em setores como:</p>
-    <p>Açúcar: O ciclo do açúcar foi o principal motor da economia colonial nos séculos XVI e XVII, especialmente nas plantações do Nordeste.</p>
-    <p>Mineração: No século XVIII, com a descoberta do ouro e dos diamantes em Minas Gerais, o trabalho escravo nas minas tornou-se dominante.</p>
-    <p>Café: No século XIX, o café passou a ser o principal produto de exportação, com plantações concentradas no Sudeste (principalmente em São Paulo e Rio de Janeiro), onde o trabalho escravo era central.</p>
+<div class="box-container">
+    <div class="box8">
+        <p><b>Açúcar: </b>O ciclo do açúcar foi o principal motor da economia colonial nos séculos XVI e XVII, especialmente nas plantações do Nordeste</p>
+    </div>
+    <div class="box9">
+        <p><b>Café: </b>No século XVIII, com a descoberta do ouro e dos diamantes em Minas Gerais, o trabalho escravo nas minas tornou-se dominante.</p>
+    </div>
+    <div class="box10">
+        <p><b>Mineração: </b>No século XIX, o café passou a ser o principal produto de exportação, com plantações concentradas no Sudeste (principalmente em São Paulo e Rio de Janeiro), onde o trabalho escravo era central.</p>
+    </div>
+</div>
+
+<div class="box2">
+    <p class="text2">O COTIDIANO DOS ESCRAVIZADOS</p>
+    </div>
+
+    <div class="box11-container">
+    <hr class="hr7">
+    <img class="image-center2" src="../../../Resources/images/ADIA1.jpg">
+    <hr class="hr8">
+</div>
     
-    <p>O COTIDIANO DOS ESCRAVIZADOS</p>
-    <img src="../../../Resources/images/ADIA1.jpg">
-    <p>A vida dos escravizados no Brasil era marcada por condições desumanas. Eles eram submetidos a longas jornadas de trabalho, punições físicas, alimentação inadequada e total ausência de direitos. No entanto, mesmo em um ambiente opressor, os escravizados desenvolveram estratégias de resistência, como:</p>
+    <p class="text14">A vida dos escravizados no Brasil era marcada por condições desumanas. Eles eram submetidos a longas jornadas de trabalho, punições físicas, alimentação inadequada e total ausência de direitos. No entanto, mesmo em um ambiente opressor, os escravizados desenvolveram estratégias de resistência, como:</p>
     <p>QUILOMBOS:</p>
     <p>Comunidades formadas por escravizados fugidos, com o quilombo dos Palmares sendo o mais famoso, liderado por Zumbi.</p>
     <p>RESISTÊNCIAS COTIDIANAS:</p>

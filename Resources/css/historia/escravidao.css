@@ -236,13 +236,11 @@ p{
 
 .text12 {
     font-size: 24px; /* Tamanho da fonte maior para o título */
-    font-weight: bold; /* Negrito para destaque */
     color: #000000; /* Cor do texto */
     margin-bottom: 10px; /* Espaçamento entre o título e o parágrafo */
     text-align: center; /* Centraliza o título */
     text-transform: uppercase; /* Deixa o texto em maiúsculas */
-    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
-    
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
 }
 
 .text13 {
@@ -267,9 +265,8 @@ p{
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     display: flex;
-    align-items: center; /* Centraliza o texto verticalmente */
-    justify-content: center; /* Centraliza o texto horizontalmente */
-    font-weight: bold;
+    align-items: center; 
+    justify-content: center; 
     text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
 }
 
@@ -286,3 +283,134 @@ p{
     background-color: #2F91A0;
     margin-right: 215px;
 }
+
+.text14{
+    position: relative;
+    margin-left: 265px;
+}
+
+.circle-container {
+    display: flex; /* Alinha os círculos em linha */
+    justify-content: space-around; /* Espaço igual entre os círculos */
+    align-items: center; /* Alinha os círculos verticalmente */
+    margin-top: 50px; /* Espaço no topo */
+}
+
+.circle1 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-left: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+.circle2 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+    
+}
+
+.circle3 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-right: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+
+.box-container {
+    display: flex; 
+    align-items: center; 
+    margin-top: 50px; 
+    margin: 20px auto;
+    margin-left: 190px;
+    gap: 20px;
+    font-size: 22px;
+}
+
+.box8, .box9, .box10 {
+    background-color: #DEFAFF;
+    height: 190px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+.title {
+    margin: 0; /* Remove margem do título */
+    font-weight: bold; /* Estiliza o título */
+    margin-bottom: 10px; /* Espaço entre o título e o texto */
+}
+
+.box11-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-top: 13px;
+    gap:30px;
+}
+
+.image-center11 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr7 {
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr8{
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+.text14{
+    width:1100px;
+    margin: 20px auto;
+}
+
+
+
