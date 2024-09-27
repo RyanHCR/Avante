@@ -52,15 +52,21 @@
 </div>
 
 <div class="square-container">
-    <div class="square">
 
+
+    <div class="square">
+            <h1 style="margin-left: 69px;margin-top:50px">Sistema completo<br>de conteúdo</h1>
+            <p style="margin-left: 45px;font-size:24px;color:white">No Avante você tem textos didáticos, com explicações detalhadas para te ajudar nos estudos para o Enem e Vestibulares.</p>
     </div>
+
+
     <div class="square">
         <div>
             <h1 style="margin-left: 98px;margin-top:50px">Cronograma<br>60 dias Enem</h1>
             <p style="margin-left: 60px;font-size:24px;color:white">Conquiste 750+ no Enem,<br> começando a estudar agora<br> com o Avante.</p>
         </div>
     </div>
+
 </div>
 
 

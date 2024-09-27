@@ -61,21 +61,34 @@
     <div class="box4">
     <p class="text7">SUA ORIGEM</p>
     </div>
-    <img src="../../../Resources/images/escravidao2.jpg">
-    <p>A escravidão começou oficialmente no Brasil em 1530, com a chegada dos portugueses, que introduziram inicialmente a mão de obra indígena nas plantações de açúcar. No entanto, a resistência dos povos indígenas e a alta mortalidade causada por doenças europeias levaram os colonizadores a buscar alternativas. A partir de meados do século XVI, os portugueses começaram a importar africanos como escravos. Essa prática foi impulsionada pela demanda crescente por mão de obra, principalmente nas plantações de cana-de-açúcar, que se tornaram o motor econômico da colônia.</p>
+    <img class="image-right" src="../../../Resources/images/escravidao2.png">
+    <p class="text8">A escravidão começou oficialmente no Brasil em 1530, com a chegada dos portugueses, que introduziram inicialmente a mão de obra indígena nas plantações de açúcar. No entanto, a resistência dos povos indígenas e a alta mortalidade causada por doenças europeias levaram os colonizadores a buscar alternativas. A partir de meados do século XVI, os portugueses começaram a importar africanos como escravos. </p>
+    <P class="text9">Essa prática foi impulsionada pela demanda crescente por mão de obra, principalmente nas plantações de cana-de-açúcar, que se tornaram o motor econômico da colônia.</P>
     
-    <p>O TRÁFICO NEGREIRO</p>
-    <img src="../../../Resources/images/negreiro1.jpg">
-    <p>O tráfico de escravos africanos para o Brasil foi uma operação maciça e lucrativa. Estima-se que cerca de 4,9 milhões de africanos foram trazidos ao país ao longo dos séculos de escravidão. Eles eram capturados em várias regiões da África, principalmente da África Ocidental e Central, e transportados em condições desumanas nos navios negreiros. Esses africanos eram vendidos nos portos brasileiros e enviados para trabalhar em fazendas, minas e nas cidades. A maioria deles foi destinada ao trabalho nas plantações de açúcar no Nordeste e, mais tarde, nas plantações de café do Sudeste</p>
+    <div class="box5-container">
+    <hr class="hr3">
+    <div class="box5">
+        <p class="text10">O TRÁFICO NEGREIRO</p>
+    </div>
+    <hr class="hr4">
+</div>
     
-    <p>ORIGEM E CONTEXTO HISTÓRICO</p>
-    <p>A escravidão no Brasil foi introduzida oficialmente no século XVI, com o início da colonização portuguesa. Inicialmente, os indígenas foram forçados ao trabalho escravo, mas com a resistência, as epidemias e o desconhecimento das técnicas de mineração e cultivo, os colonizadores passaram a importar africanos. O tráfico transatlântico de escravizados tornou-se uma prática comum a partir do século XVII, consolidando o Brasil como o maior destino de africanos escravizados no mundo.</p>
-    <img src="../../../Resources/images/escravidao3.jpg">
+    <img class="image-center" src="../../../Resources/images/negreiro1.jpg">
+    <p class="text11">O tráfico de escravos africanos para o Brasil foi uma operação maciça e lucrativa. Estima-se que cerca de 4,9 milhões de africanos foram trazidos ao país ao longo dos séculos de escravidão. Eles eram capturados em várias regiões da África, principalmente da África Ocidental e Central, e transportados em condições desumanas nos navios negreiros. Esses africanos eram vendidos nos portos brasileiros e enviados para trabalhar em fazendas, minas e nas cidades. A maioria deles foi destinada ao trabalho nas plantações de açúcar no Nordeste e, mais tarde, nas plantações de café do Sudeste</p>
+    
+    <div class="box6">
+        <p class="text12">TRÁFICO ATLÂNTICO DE ESCRAVIZADOS:</p>
+        <p class="text13">Estima-se que cerca de 5 milhões de africanos foram trazidos para o Brasil entre os séculos XVI e XIX, principalmente de regiões da África como Angola, Congo, Moçambique e a Costa da Mina</p>
+    </div>
 
-    <p>TRÁFICO ATLÂNTICO DE ESCRAVIZADOS:</p>
-    <p>Estima-se que cerca de 5 milhões de africanos foram trazidos para o Brasil entre os séculos XVI e XIX, principalmente de regiões da África como Angola, Congo, Moçambique e a Costa da Mina</p>
-    
-    <p>ECONOMIA ESCRAVISTA:</p>
+    <div class="box7-container">
+    <hr class="hr5">
+    <div class="box7">
+        <p>ECONOMIA ESCRAVISTA:</p>
+    </div>
+    <hr class="hr6">
+</div>
+
     <p>A mão de obra escrava foi essencial para a economia colonial brasileira, sobretudo em setores como:</p>
     <p>Açúcar: O ciclo do açúcar foi o principal motor da economia colonial nos séculos XVI e XVII, especialmente nas plantações do Nordeste.</p>
     <p>Mineração: No século XVIII, com a descoberta do ouro e dos diamantes em Minas Gerais, o trabalho escravo nas minas tornou-se dominante.</p>

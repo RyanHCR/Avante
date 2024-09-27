@@ -5,7 +5,12 @@ body {
     width: 100vw;
     background-color: #ffffff; /* Cor de fundo opcional */
     font-family: Arial, sans-serif;
-    overflow-x: hidden;
+}
+
+
+p{
+    font-size:22px;
+    line-height: 29.05px;
 }
 
 .box1 {
@@ -18,7 +23,7 @@ body {
 .text1 {
     font-size: 20px;
     font-weight: bold;
-    padding: 30px;
+    padding: 15px;
     margin-top: -50px;
     margin-left: 12px;
 }
@@ -56,13 +61,13 @@ body {
 }
 
 .hr1 {
-    border: 3px solid #6FC3D0;
+    border: 2px solid #6FC3D0;
     width: 650px;
     margin-right: 215px;
 }
 
 .hr2 {
-    border: 3px solid #6FC3D0;
+    border: 2px solid #6FC3D0;
     width: 650px;
     margin-left: 215px;
 }
@@ -134,5 +139,150 @@ body {
 .text7 {
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
-    padding-top: 20px;
+    padding-top: 11px;
+}
+
+.image-right{
+    float:right;
+    margin-right: 220px;
+    margin-top:-40px;
+}
+
+.text8{
+    width: 470px;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.text9{
+    width: 1125px;
+    margin-left: 230px;
+
+}
+
+.text10{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.box5-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: space-between; /* Espaça igualmente os elementos */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box5 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+}
+
+.hr4 {
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-left: 30px;
+}
+
+.hr3{
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-right: 30px;
+}
+
+.image-center{
+    margin-top: 40px;
+    position:relative;
+    left:215px
+}
+
+.text11{
+    width: 1106;
+    position: relative;
+    margin: 20px auto;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 11px;
+}
+
+.box6 {
+    width: 1006px; /* Tamanho da caixa */
+    margin: 20px auto;
+    padding: 20px; /* Espaçamento interno */
+    background-color:#DEFAFF;
+    border: 6px solid #6FC3D0; /* Bordas finas e discretas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+
+}
+
+.text12 {
+    font-size: 24px; /* Tamanho da fonte maior para o título */
+    font-weight: bold; /* Negrito para destaque */
+    color: #000000; /* Cor do texto */
+    margin-bottom: 10px; /* Espaçamento entre o título e o parágrafo */
+    text-align: center; /* Centraliza o título */
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    
+}
+
+.text13 {
+    font-size: 18px; /* Tamanho do texto */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    color: #000000; /* Cor do texto secundário */
+    text-align: justify; /* Alinha o texto justificadamente */
+    width: 700px;
+    margin: 20px auto;
+}
+
+.box7-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box7 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr5 {
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-left: 215px;
+}
+
+.hr6{
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-right: 215px;
 }
