@@ -59,7 +59,7 @@
     </div>
 
     <div class="box4">
-    <p class="text7">SUA ORIGEM</p>
+    <p class="text7">RETORNANDO ÀS ORIGENS</p>
     </div>
     <img class="image-right" src="../../../Resources/images/escravidao2.png">
     <p class="text8">A escravidão começou oficialmente no Brasil em 1530, com a chegada dos portugueses, que introduziram inicialmente a mão de obra indígena nas plantações de açúcar. No entanto, a resistência dos povos indígenas e a alta mortalidade causada por doenças europeias levaram os colonizadores a buscar alternativas. A partir de meados do século XVI, os portugueses começaram a importar africanos como escravos. </p>
@@ -118,20 +118,51 @@
 </div>
     
     <p class="text14">A vida dos escravizados no Brasil era marcada por condições desumanas. Eles eram submetidos a longas jornadas de trabalho, punições físicas, alimentação inadequada e total ausência de direitos. No entanto, mesmo em um ambiente opressor, os escravizados desenvolveram estratégias de resistência, como:</p>
-    <p>QUILOMBOS:</p>
-    <p>Comunidades formadas por escravizados fugidos, com o quilombo dos Palmares sendo o mais famoso, liderado por Zumbi.</p>
-    <p>RESISTÊNCIAS COTIDIANAS:</p>
-    <p>Pequenos atos de resistência incluíam desde a quebra de ferramentas até a organização de fugas ou revoltas.</p>
     
-    <p>A CULTURA AFRO-BRASILEIRA</p>
-    <p>Apesar da opressão, os africanos escravizados e seus descendentes deixaram uma marca profunda na cultura brasileira. Muitos aspectos da vida cotidiana no Brasil têm origem africana, como: Religião: O candomblé e a umbanda são religiões afro-brasileiras que misturam elementos das tradições africanas com o catolicismo. Música e Dança: A capoeira, o samba e outros ritmos musicais têm raízes africanas, sendo formas de expressão cultural e resistência.</p>
-    <img src="../../../Resources/images/afrobrasileira1.jpg">
-    
-    <p>CAMINHOS PARA A ABOLIÇÃO</p>
-    <p>A abolição da escravidão no Brasil foi um processo lento e gradual, impulsionado por pressões internas e externas, como:</p>
-    <p>1- Movimentos abolicionistas: Figuras como Joaquim Nabuco, José do Patrocínio e Luiz Gama foram cruciais para a articulação do movimento pela abolição, atuando em frentes jurídicas, políticas e populares.</p>
-    <p>2- Leis Gradualistas: A abolição veio através de uma série de leis, como a Lei Eusébio de Queirós (1850), que proibiu o tráfico de escravizados, a Lei do Ventre Livre (1871), que libertava os filhos de escravizadas nascidos após essa data, e a Lei dos Sexagenários (1885), que libertava escravizados com mais de 60 anos.</p>
-    <p>3- Lei Áurea: Finalmente, em 13 de maio de 1888, a Princesa Isabel assinou a Lei Áurea, abolindo formalmente a escravidão no Brasil.</p>
+    <div class="container">
+  <div class="background-div">Comunidades formadas por escravizados fugidos, com o quilombo dos Palmares sendo o mais famoso, liderado por Zumbi.</div>
+  <div class="overlay-div">QUILOMBOS:</div>
+  <div class="background-div2">Pequenos atos de resistência incluíam desde a quebra de ferramentas até a organização de fugas ou revoltas.</div>
+  <div class="overlay-div2">RESISTÊNCIAS COTIDIANAS:</div>
+</div>
+
+<hr class="hrX">
+
+<div class="box4">
+    <p class="text7">A CULTURA AFRO-BRASILEIRA</p>
+    </div>
+<img class="image-right2" src="../../../Resources/images/afrobrasileira1.jpg">
+<p class="text8">
+    Apesar da opressão, os africanos escravizados e seus descendentes deixaram uma marca profunda na cultura brasileira. Muitos aspectos da vida cotidiana no Brasil têm origem africana, como:
+</p>
+<ul class="cultura-africana">
+    <li><span class="highlight">Religião:</span> O candomblé e a umbanda são religiões afro-brasileiras que misturam elementos das tradições africanas com o catolicismo.</li><br>
+    <li><span class="highlight">Música e Dança:</span> A capoeira, o samba e outros ritmos musicais têm raízes africanas, sendo formas de expressão cultural e resistência.</li>
+</ul>
+    <br> <br> <br> <br> <br> 
+<hr class="hrX">
+
+
+<div class="box12">
+    <p class="text15">CAMINHOS PARA A ABOLIÇÃO</p>
+</div>
+
+<p class="text16">A abolição da escravidão no Brasil foi um processo lento e gradual, impulsionado por pressões internas e externas, como:</p>
+
+<div class="caminhos-abolicao">
+    <div class="item-abolicionista">
+        <div class="number-circle">1</div>
+        <span class="highlight2">Movimentos abolicionistas:</span> Figuras como Joaquim Nabuco, José do Patrocínio e Luiz Gama foram cruciais para a articulação do movimento pela abolição, atuando em frentes jurídicas, políticas e populares.
+    </div>
+    <div class="item-abolicionista">
+        <div class="number-circle">2</div>
+        <span class="highlight2">Leis Gradualistas:</span> A abolição veio através de uma série de leis, como a Lei Eusébio de Queirós (1850), que proibiu o tráfico de escravizados, a Lei do Ventre Livre (1871), que libertava os filhos de escravizadas nascidos após essa data, e a Lei dos Sexagenários (1885), que libertava escravizados com mais de 60 anos.
+    </div>
+    <div class="item-abolicionista">
+        <div class="number-circle">3</div>
+        <span class="highlight2">Lei Áurea:</span> Finalmente, em 13 de maio de 1888, a Princesa Isabel assinou a Lei Áurea, abolindo formalmente a escravidão no Brasil.
+    </div>
+</div>
     <img src="../../../Resources/images/ABOLIÇÃO1.jpg">
 
     <p>IMPACTOS PÓS-ABOLIÇÃO</p>
