@@ -1,0 +1,134 @@
+.body{
+    max-width: 1200px;
+}
+/* Container das imagens */
+.image-row {
+    display: flex;
+    justify-content: space-between; /* Distribui o espaço entre as imagens */
+    align-items: center;
+    margin: 20px auto;
+    max-width: 1200px; /* Limita a largura máxima do container */
+    padding: 20px;
+    margin-left: 200px;
+}
+
+/* Imagens individuais */
+.image-row img {
+    width: 700vh; /* Largura fixa para todas as imagens */
+    height: 50vh; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Garante que a imagem se ajuste ao tamanho sem distorção */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves para destaque */
+    padding: 10px;
+}
+
+/* Ajuste para telas menores */
+@media (max-width: 768px) {
+    .image-row {
+        flex-direction: column; /* Coloca as imagens em coluna em telas pequenas */
+        align-items: center;
+    }
+
+    .image-row img {
+        width: 80%; /* Em telas pequenas, as imagens ocupam 80% da largura */
+        height: auto; /* A altura se ajusta proporcionalmente */
+        margin-bottom: 20px; /* Espaçamento entre as imagens na vertical */
+    }
+}
+.cultura1 {
+    display: flex;
+    align-items: center;      /* Alinha o conteúdo no centro verticalmente */
+    justify-content: center;  /* Centraliza o conteúdo dentro do container */
+    gap: 20px;                /* Espaço entre a imagem e o texto */
+    padding: 20px;            /* Espaçamento interno */
+    border-radius: 10px;      /* Bordas arredondadas */
+    width: 80%;               /* Define 80% da largura da tela */
+    max-width: 1200px;        /* Limita a largura máxima */
+    margin: 0 auto;           /* Centraliza o container horizontalmente na tela */
+
+}
+
+.cultura1 img {
+    width: 200px; /* Tamanho da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.cultura1 p {
+    flex: 1;                /* Faz o parágrafo ocupar o espaço restante */
+    text-align: justify;     /* Alinha o texto de forma justificada */
+}
+
+/* Estilos do container */
+.cont1{
+    margin: 0 auto; /* Centraliza o container horizontalmente */
+    background-color: #A3DBE4; /* Fundo azul claro */
+    padding: 20px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
+}
+.cont2{
+    margin: 0 auto; /* Centraliza o container horizontalmente */
+    padding: 20px; /* Espaçamento interno */
+    
+}
+
+/* Ajuste de responsividade */
+@media (max-width: 768px) {
+    .container {
+        width: 95%; /* Em telas menores, ocupa 95% da largura */
+    }
+}
+.tamanho{
+    max-width: 60%;
+    margin-top: 20px;
+    
+} 
+ 
+.top{
+    margin-top: -2.5%;
+    margin-left: -2.3%;
+    background-color: #A3DBE4; /* Fundo azul claro */
+    padding: 20px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
+    width: 100.2%;
+    text-align: center;
+   margin: 0 auto;
+    }
+    .container {
+        display: flex;
+        flex-direction: column; /* Coloca a imagem e a caixa inferior em coluna */
+        align-items: center; /* Centraliza os itens horizontalmente */
+        margin: 20px auto;
+        width: 80%; /* Ajuste conforme necessário */
+    }
+    
+    .image-box {
+        display: flex;
+        justify-content: space-between; /* Espaça a imagem e a caixa à direita */
+        width: 60%; /* A largura do container de imagem e caixa de texto */
+        margin-bottom: 20px; /* Espaço abaixo da imagem */
+    }
+    
+    .image-box img {
+        width: 50%; /* Define a largura da imagem */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+    
+    .text-right {
+        width: 45%; /* Define a largura da caixa de texto à direita */
+        margin-left: 20px; /* Espaço entre a imagem e a caixa de texto */
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 8px;
+        text-align: justify;
+    }
+    
+    .text-below {
+        background-color: #6FC3D0;
+        padding: 10px;
+        border-radius: 80px;
+        text-align: justify;
+        margin-top: -50px;
+        margin-left: -500px;
+        width: 25%; /* Ocupa toda a largura do container */
+        height: 25px
+    }
+    

@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Botões CRUD</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/sociologia.css/poderes.css">
 </head>
 <body>
     
@@ -20,17 +21,30 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
+<head class="body"> 
 
     <a href="../../materias/sociologia.php" class="button-back">VOLTAR</a>
     
-    <p>O poder político nas democracias é essencialmente a vontade da maioria através do governante. Existe poder político nas ditaduras, visto que a força em si é apenas uma das condições e não a causa essencial, portanto, num governo totalitário o ato de coerção é aplicado sem visar o bem público.</p>
+    <p class="cont1 tamanho">O poder político nas democracias é essencialmente a vontade da maioria através do governante. Existe poder político nas ditaduras, visto que a força em si é apenas uma das condições e não a causa essencial, portanto, num governo totalitário o ato de coerção é aplicado sem visar o bem público.</p>
+    <div class="cultura1 tamanho">
+        <img src="../../../Resources/images/poderes1.jpg">
     <p>A política, especialmente no brasil, tem sido vilipendiada. O desprezo por esta atividade humana é tamanho que quando alguém se propõe a debater ou simplesmente mencionar a política como algo inerente ao convívio humano, é vítima, no mínimo, de olhares. Para as pessoas comuns, política virou sinônimo de práticas ruins: malvadeza, corrupção, simulação e dissimulação, enganação. Há no senso comum, uma intolerância com esta complexa atividade da qual, paradoxalmente, é dela a responsabilidade pela condução das atividades do Estado que tanto interferem na vida dos indivíduos.</p>
-    <img src="../../../Resources/images/poderes1.jpg">
-    
-    <p>DEFINIÇÃO DE PODER</p>
-    <p>No sentido geral, poder é a capacidade de um indivíduo ou grupo influenciar as ações, pensamentos ou decisões de outros. Esse conceito perpassa as relações sociais cotidianas, mas é na política que ele ganha sua expressão mais visível e estruturada.</p>
-    <p>Max Weber, um dos sociólogos fundadores da ciência política moderna, define poder como a probabilidade de um agente impor sua vontade em uma relação social, mesmo contra resistências. Essa definição destaca a dimensão coercitiva e hierárquica do poder.</p>
-    <img src="../../../Resources/images/poderes2.jpg">
+    </div>
+    <p class="top tamanho">DEFINIÇÃO DE PODER</p>
+    <div class="cont2 tamanho">
+        <p>No sentido geral, poder é a capacidade de um indivíduo ou grupo influenciar as ações, pensamentos ou decisões de outros. Esse conceito perpassa as relações sociais cotidianas, mas é na política que ele ganha sua expressão mais visível e estruturada.</p>
+        </div>
+        <div class="container">
+    <div class="image-box">
+    <img src="../../../Resources/images/poderes2.jpg" alt="Imagem de Exemplo">
+        <div class="text-right">
+        <p>Max Weber, um dos sociólogos fundadores da ciência política moderna, define poder como a probabilidade de um agente impor sua vontade em uma relação social, mesmo contra resistências. Essa definição destaca a dimensão coercitiva e hierárquica do poder.</p>
+        </div>
+    </div>
+    <div class="text-below">
+        <p >Max Weber</p>
+    </div>
+</div>
 
     <p>Michel Foucault, por outro lado, amplia o conceito ao argumentar que o poder não se limita à repressão, mas é também produtivo, exercido em todos os níveis da sociedade. Para ele, o poder circula em redes e se manifesta nas instituições, nas práticas discursivas e nas normas sociais.</p>
     <img src="../../../Resources/images/poderes3.jpg">
@@ -144,5 +158,6 @@
             opacity: 0.7;
         }
     </style>
+    </head>
 </body>
 </html>
