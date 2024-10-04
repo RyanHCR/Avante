@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/idademedia.css">
 </head>
-<body>
+<br>
     
 <header class="header">
     <div class="left-buttons">
@@ -60,10 +60,13 @@
          <li>Fortalecimento das monarquias.</li> <li>Crescimento populacional e urbano. </li> <li>Desenvolvimento do comércio e as Cruzadas.</li></p>
     </div>
 </div>
-    <p>SOCIEDADE MEDIEVAL</p>
+<br></br>
+<div class="box4">
+    <p class="text7">SOCIEDADE MEDIEVAL</p>
+</div>
+<img src="../../../Resources/images/piramide1.jpg">
+    <p class="text8">A sociedade medieval era estamental, ou seja, não possibilitava a ascensão social. No topo da pirâmide estava o clero, logo abaixo vinha a nobreza, e na base estavam os servos, os únicos que trabalhavam e sustentavam as classes de cima. A agricultura tornou-se a principal atividade econômica. A sociedade medieval era marcada pela hierarquia e pelo sistema feudal, no qual a relação entre senhores e vassalos dominava a organização social. Ela era dividida principalmente em três estamentos:</p>
 
-    <p>A sociedade medieval era estamental, ou seja, não possibilitava a ascensão social. No topo da pirâmide estava o clero, logo abaixo vinha a nobreza, e na base estavam os servos, os únicos que trabalhavam e sustentavam as classes de cima. A agricultura tornou-se a principal atividade econômica. A sociedade medieval era marcada pela hierarquia e pelo sistema feudal, no qual a relação entre senhores e vassalos dominava a organização social. Ela era dividida principalmente em três estamentos:</p>
-    <img src="../../../Resources/images/piramide1.jpg">
     <p>Clero: Responsável pela vida religiosa e espiritual, tinha grande influência política e social.</p>
     <p>Nobreza: Proprietários de terras que detinham poder militar e econômico.</p>
     <p>Camponeses: A maior parte da população, vivendo sob a tutela dos senhores feudais e trabalhando nas terras em troca de proteção.</p>
