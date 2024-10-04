@@ -20,20 +20,22 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
-
+<div class="sub-header">
+    <p>ECONOMIA</p>
+</div>
     <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
+    
     <div class="texto1">A economia é a ciência que estuda como as sociedades produzem, distribuem e consomem bens e serviços. Ela está presente em praticamente todos os aspectos da nossa vida, influenciando desde o preço do pão até as grandes decisões sobre investimentos, políticas públicas e o desenvolvimento de países. Para quem estuda Humanas, compreender a economia é fundamental para entender o funcionamento da sociedade e suas dinâmicas políticas, sociais e culturais.</div>
 
     <div class="texto2">O QUE É ECONOMIA?</div>
     <div class="texto3">A economia lida com a gestão dos recursos escassos, ou seja, recursos limitados diante das infinitas necessidades e desejos humanos. O principal objetivo dessa ciência é estudar a alocação desses recursos para otimizar o bem-estar social. Dentro da economia, podemos identificar dois grandes ramos:</div>
     <div class="imagem1"><img src="../../../Resources/images/economia1s.jpg"></div>
 
-    <div class="texto4">1. Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? <br><br>Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?
-    2. Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?</div>
+    <div class="texto4">1. Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? <br><br>2.Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?
+     Microeconomia: Foca no comportamento dos agentes individuais, como consumidores, empresas e trabalhadores. Ela estuda como as pessoas e as empresas tomam decisões de consumo, produção e investimento, bem como a formação dos preços no mercado. Exemplos de perguntas microeconômicas incluem: Por que um produto é mais caro que outro? Como as empresas decidem o quanto produzir? Macroeconomia: Estuda a economia como um todo, analisando grandes indicadores como o Produto Interno Bruto (PIB), inflação, taxa de desemprego e política monetária. Ela se concentra em fenômenos globais, como crescimento econômico, ciclos de recessão, desemprego em massa e o papel do governo em estabilizar a economia. Exemplos de perguntas macroeconômicas incluem: O que causa a inflação? Como o governo pode estimular o crescimento econômico?</div>
     
     <div class="texto5">OS FATORES DE PRODUÇÃO</div>
-    <div class="imagem2"><img src="../../../Resources/images/bora .png"></div>
-    <div class="imagem2"><img src="../../../Resources/images/bora2.png"></div>
+    <div class="imagem2"><img src="../../../Resources/images/boraa.png"></div>
 
     <div class="texto6">Cada sociedade adota um sistema econômico para organizar a produção e distribuição <br>de bens e serviços. Os principais sistemas são:</div>
     <div class="imagem3"><img src="../../../Resources/images/bora3..png"></div>
@@ -61,7 +63,7 @@
     Com a globalização, as empresas multinacionais se espalharam pelo mundo, produzindo em diferentes países para reduzir custos e aumentar seus mercados. A China, por exemplo, se tornou a "fábrica do mundo", exportando produtos para todos os continentes.<br><br>
     Ao mesmo tempo, a globalização criou desafios, como o aumento da concorrência internacional, a maior vulnerabilidade a crises econômicas globais (como a crise financeira de 2008) e a desigualdade entre países ricos e pobres.</div>
     <div class="barra3">-</div>
-    <div class="imagem4"><img src="../../../Resources/images/bora4.png"></div>
+    <div class="imagem4"><img src="../../../Resources/images/boradnv.png"></div>
 
 
     

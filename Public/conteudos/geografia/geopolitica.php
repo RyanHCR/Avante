@@ -21,10 +21,12 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
-
+<div class="sub-header">
+    <p>GEOPOLITICA</p>
+</div>
 <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
 
-<div class="texto1">Geopolítica é uma área do conhecimento que se dedica ao estudo das relações de poder entre Estados e territórios, bem como a forma como se organizam no<br> sistema-mundo.</div>
+<div class="texto1">Geopolítica é uma área do conhecimento que se dedica ao estudo das relações de poder entre Estados e territórios, bem como a forma como se organizam no sistema-mundo.</div>
 <div class="texto2">A geopolítica é um campo de estudo interdisciplinar que examina como fatores geográficos, econômicos e políticos influenciam as relações de poder entre as nações. Esse conceito vai além da simples análise territorial, focando nas estratégias que os países adotam para manter sua soberania, garantir acesso a recursos e se posicionar no cenário internacional. Ao estudar geopolítica, entendemos os motivos por trás de conflitos, alianças e disputas por recursos que moldam o mundo atual.</div>
 
 <div class="imagem1"><img src="../../../Resources/images/geopolitica1.jpg"></div>
@@ -65,12 +67,7 @@
 <div class="tabela3">Crise Migratória e Refugiados: Conflitos como a guerra na Síria e instabilidades políticas na Venezuela criaram crises migratórias, forçando países a lidar com questões humanitárias e segurança de fronteiras.</div>
 </div>
 <div class="imagem4"><img src="../../../Resources/images/geopolitica4.jpg"></div>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+   <br><br><br><br><br><br><br>
     <style>
 
         .button-back {

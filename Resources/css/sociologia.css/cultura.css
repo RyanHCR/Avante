@@ -1,0 +1,209 @@
+.body{
+    max-width: 1200px;
+}
+/* Container das imagens */
+.image-row {
+    display: flex;
+    justify-content: space-between; /* Distribui o espaço entre as imagens */
+    align-items: center;
+    margin: 20px auto;
+    max-width: 1200px; /* Limita a largura máxima do container */
+    padding: 20px;
+    margin-left: 200px;
+}
+
+/* Imagens individuais */
+.image-row img {
+    width: 700vh; /* Largura fixa para todas as imagens */
+    height: 50vh; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Garante que a imagem se ajuste ao tamanho sem distorção */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves para destaque */
+    padding: 10px;
+}
+
+/* Ajuste para telas menores */
+@media (max-width: 768px) {
+    .image-row {
+        flex-direction: column; /* Coloca as imagens em coluna em telas pequenas */
+        align-items: center;
+    }
+
+    .image-row img {
+        width: 80%; /* Em telas pequenas, as imagens ocupam 80% da largura */
+        height: auto; /* A altura se ajusta proporcionalmente */
+        margin-bottom: 20px; /* Espaçamento entre as imagens na vertical */
+    }
+}
+.cultura1 {
+    display: flex;
+    align-items: center;      /* Alinha o conteúdo no centro verticalmente */
+    justify-content: center;  /* Centraliza o conteúdo dentro do container */
+    gap: 20px;                /* Espaço entre a imagem e o texto */
+    padding: 20px;            /* Espaçamento interno */
+    border-radius: 10px;      /* Bordas arredondadas */
+    width: 80%;               /* Define 80% da largura da tela */
+    max-width: 1200px;        /* Limita a largura máxima */
+    margin: 0 auto;           /* Centraliza o container horizontalmente na tela */
+
+}
+
+.cultura1 img {
+    width: 200px; /* Tamanho da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.cultura1 p {
+    flex: 1;                /* Faz o parágrafo ocupar o espaço restante */
+    text-align: justify;     /* Alinha o texto de forma justificada */
+}
+
+
+
+
+/* Estilos do container */
+.cont1{
+    margin: 0 auto; /* Centraliza o container horizontalmente */
+    background-color: #A3DBE4; /* Fundo azul claro */
+    padding: 20px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
+}
+
+/* Ajuste de responsividade */
+@media (max-width: 768px) {
+    .container {
+        width: 95%; /* Em telas menores, ocupa 95% da largura */
+    }
+}
+.tamanho{
+    max-width: 60%;
+    margin-top: 20px;
+    
+}
+.tamanho2{
+    width: 60%;
+    margin-top: 20px;
+    
+}
+.tamanho3{
+    max-width: 60%;
+    margin-top: 100px;
+    
+}
+.cont2{
+    
+    display: flex;
+    align-items: center;      /* Alinha o conteúdo no centro verticalmente */
+    justify-content: center;  /* Centraliza o conteúdo dentro do container */
+    gap: 20px;                /* Espaço entre a imagem e o texto */
+    padding: 20px;            /* Espaçamento interno */
+    margin: 0 auto;           /* Centraliza o container horizontalmente na tela */
+    flex-direction: column;
+    align-items: flex-start;
+    border:1px solid #2F91A0;
+}
+    .top{
+    margin-top: -2.5%;
+    margin-left: -2.3%;
+    background-color: #A3DBE4; /* Fundo azul claro */
+    padding: 20px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
+    width: 100.2%;
+    text-align: center;
+    }
+
+
+.cont3 {
+    width: 60%;
+    height: 50%;
+    gap: 20px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 1em;
+    background-image: url(../../images/cultura2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+  }
+  
+  .img {
+   
+    display: block; /* Remove o espaço embaixo da imagem */
+    margin-left: 220px;
+    width: 1200px;
+  }
+  .cont4{
+    margin: 0 auto; /* Centraliza o container horizontalmente */
+    background-color: #A3DBE4; /* Fundo azul claro */
+    padding: 10px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
+    text-align: center;
+    font-size: 20px;
+  }
+  .container-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colunas */
+    margin: 60px auto; /* Centraliza o container */
+    width: 80%; /* Ajuste conforme necessário */
+    justify-items: center;
+}
+
+.text-box {
+    position: relative; /* Para posicionar o círculo com o número */
+    border: 1px solid #ccc;
+    padding: 10px 30px; /* Ajuste para criar espaço no topo para o número */
+    text-align: center;
+    background-color: #DEFAFF;
+    border-radius: 35px;
+}
+
+.number-circle {
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: #6FC3D0;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text-box2 {
+    position: relative; /* Para posicionar o círculo com o número */
+    border: 1px solid #ccc;
+    padding: 10px 30px; /* Ajuste para criar espaço no topo para o número */
+    text-align: center;
+    background-color: #DEFAFF;
+    border-radius: 35px;
+}
+
+.number-circle2 {
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: #6FC3D0;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .container-grid {
+        grid-template-columns: 1fr; /* Empilha as caixas no mobile */
+    }
+}
+.final{
+    margin-top: 20px;
+    padding: 30px;
+}

@@ -21,7 +21,9 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
-
+<div class="sub-header">
+    <p>GLOBALIZAÇÃO</p>
+</div>
     <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
     <div class="texto1">A globalização é um processo que envolve a crescente interdependência e integração entre as nações, facilitada pelo avanço das tecnologias de comunicação, transporte, economia e relações culturais. Essa integração afeta todos os aspectos da vida contemporânea, como economia, política, cultura e até o meio ambiente.</div>
 
@@ -35,7 +37,7 @@
     <span class="bold"> 4. Tecnológica:</span>A globalização tecnológica é, talvez, a mais visível no nosso cotidiano. A internet, os smartphones, os sistemas de transporte rápido e as novas formas de produção tecnológica aproximaram sociedades e mudaram a forma como nos comunicamos e trabalhamos. O surgimento de grandes plataformas de tecnologia, como Google, Facebook e Amazon, acelerou a troca de informações e bens ao redor do mundo.</div>
 
     <div class="texto5">AS ETAPAS DA GLOBALIZAÇÃO</div>
-    <div class="texto6">Embora a globalização tenha se intensificado nas últimas décadas, suas raízes são muito mais antigas. <br>Podemos identificar três grandes ondas de globalização:</div>
+    <div class="texto6">Embora a globalização tenha se intensificado nas últimas décadas, suas raízes são <br>muito mais antigas.Podemos identificar três grandes ondas de globalização:</div>
     <div class="numero1">1</div>
     <div class="texto7"> <span class="bold">Primeira Onda (Séculos XV a XIX):</span> Iniciada com as Grandes Navegações e o colonialismo europeu, essa fase envolveu a expansão comercial da Europa para outras partes do mundo, como as Américas, África e Ásia. Isso trouxe profundas transformações econômicas e culturais, criando as bases do comércio internacional.</div>
     <div class="numero2">2</div>
@@ -50,9 +52,9 @@
     <span class="bold">Meio Ambiente: </span>A globalização está diretamente ligada ao aumento do consumo e da produção industrial, o que gera mais poluição e intensifica os problemas ambientais. Além disso, o transporte global de mercadorias aumenta as emissões de gases de efeito estufa. A busca por recursos naturais, como petróleo e minerais, também pode gerar devastação ambiental. Um exemplo disso é a extração de petróleo em áreas sensíveis, como o Ártico e a Amazônia.<br><br>
     <span class="bold">Trabalho:</span>Com a globalização, as cadeias produtivas se fragmentaram, criando o conceito de "divisão internacional do trabalho". Países industrializados tendem a concentrar-se em atividades de pesquisa e inovação, enquanto países em desenvolvimento concentram-se na produção de bens de consumo de baixo valor agregado. Isso pode resultar em exploração da mão de obra, especialmente em países mais pobres.</div>
     <div class="imagem2"><img src="../../../Resources/images/bora5.png"></div>
-    <div class="imagem3"><img src="../../../Resources/images/bora6.png"></div>
+    <div class="imagem3"><img src="../../../Resources/images/vaii.png"></div>
 
-
+<br><br><br><br><br><br>
     <style>
 
         .button-back {
