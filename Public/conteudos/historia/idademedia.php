@@ -2,8 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>IDADE MÉDIA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/historia/idademedia.css">
 </head>
 <body>
     
@@ -20,22 +21,45 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
+
 <div class="sub-header">
     <p>IDADE MÉDIA</p>
 </div>
 
     <a href="../../materias/historia.php" class="button-back">VOLTAR</a>
-    <p>A Idade Média é o nome do período da história localizado entre os anos 476 e 1453. A nomeação “Idade Média” é utilizada pelos historiadores dentro de uma periodização que engloba quatro idades: Antiga, Média, Moderna e Contemporânea.</p>
-    <p>A Idade Média, período que se estendeu aproximadamente entre os séculos V e XV, é uma fase histórica que desperta grande interesse por sua complexidade e influência no desenvolvimento da sociedade ocidental.</p>
-    <img src="../../../Resources/images/images1.jpg">
+    <div class="box1">
+    <p class="text1">A Idade Média é o nome do período da história localizado entre os anos 476 e 1453. A nomeação “Idade Média” é utilizada pelos historiadores dentro de uma periodização que engloba quatro idades: Antiga, Média, Moderna e Contemporânea.</p>
+    </div>
+    <br><br>
+    <div class="container1">
+    
+    <p class="text3">A Idade Média, período que se estendeu aproximadamente entre os séculos V e XV, é uma fase histórica que desperta grande interesse por sua complexidade e influência no desenvolvimento da sociedade ocidental.</p>
+   
+    <img src="../../../Resources/images/images1.jpg" class="image-right">  
+    
+    </div>
+    <br> <br>
+    <hr class="hr1">
 
-    <p>CONTEXTO HISTÓRICO</p>
-    <p>A Idade Média começou após a queda do Império Romano do Ocidente (476 d.C.) e se estendeu até o início da Idade Moderna, com a chegada de eventos marcantes como a Renascença e as Grandes Navegações.</p>
+    <div class="box3">
+    <p class="text5">CONTEXTO HISTÓRICO</p>
+    </div>  
     
-    <p>DIVISÕES DA IDADE MÉDIA:</p>
-    <p>Alta Idade Média (séculos V a X): Invasões bárbaras e formação dos reinos germânicos. Ascensão do Feudalismo e da Igreja Católica. Ocorreu uma descentralização do poder político.</p>
-    <p>Baixa Idade Média (séculos XI a XV): Fortalecimento das monarquias. Crescimento populacional e urbano. Desenvolvimento do comércio e as Cruzadas.</p>
+    <p class="text6">A Idade Média começou após a queda do Império Romano do Ocidente (476 d.C.) e se estendeu até o início da Idade Moderna, com a chegada de eventos marcantes como a Renascença e as Grandes Navegações.</p>
     
+    <div class="box103">
+        <p class="text102">DIVISÕES DA IDADE MÉDIA:</p></div>
+        <br>
+<div class="boxes">
+        <div class="box104">
+    <p class="text">Alta Idade Média (séculos V a X): 
+        <li>Invasões bárbaras e formação dos reinos germânicos.</li> <li>Ascensão do Feudalismo e da Igreja Católica.</li><li>Ocorreu uma descentralização do poder político.</li></p>
+    </div>
+    <div class="box105">
+    <p class="text">Baixa Idade Média (séculos XI a XV):
+         <li>Fortalecimento das monarquias.</li> <li>Crescimento populacional e urbano. </li> <li>Desenvolvimento do comércio e as Cruzadas.</li></p>
+    </div>
+</div>
     <p>SOCIEDADE MEDIEVAL</p>
 
     <p>A sociedade medieval era estamental, ou seja, não possibilitava a ascensão social. No topo da pirâmide estava o clero, logo abaixo vinha a nobreza, e na base estavam os servos, os únicos que trabalhavam e sustentavam as classes de cima. A agricultura tornou-se a principal atividade econômica. A sociedade medieval era marcada pela hierarquia e pelo sistema feudal, no qual a relação entre senhores e vassalos dominava a organização social. Ela era dividida principalmente em três estamentos:</p>

@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>ESCRAVIDÃO</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/escravidao.css">
 </head>
