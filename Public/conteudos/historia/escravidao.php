@@ -163,25 +163,62 @@
         <span class="highlight2">Lei Áurea:</span> Finalmente, em 13 de maio de 1888, a Princesa Isabel assinou a Lei Áurea, abolindo formalmente a escravidão no Brasil.
     </div>
 </div>
-    <img src="../../../Resources/images/ABOLIÇÃO1.jpg">
 
-    <p>IMPACTOS PÓS-ABOLIÇÃO</p>
-    <p>A abolição da escravidão, embora significativa, não trouxe inclusão social para os negros. Sem políticas públicas de integração, muitos ex-escravizados foram marginalizados e forçados a viver em condições de pobreza.</p>
+<div class="box11-container">
+    <hr class="hr7">
+    <img class="image-center2" src="../../../Resources/images/ABOLIÇÃO1.jpg">
+    <hr class="hr8">
+</div>
+<br>
+<br>
+<br>
+<hr class="hrX">
+
+<div class="box12">
+    <p class="text15">IMPACTOS PÓS-ABOLIÇÃO</p>
+</div>
+    <p class="text17">A abolição da escravidão, embora significativa, não trouxe inclusão social para os negros. Sem políticas públicas de integração, muitos ex-escravizados foram marginalizados e forçados a viver em condições de pobreza.</p>
     
-    <p>RACISMO ESTRUTURAL</p>
-    <p>O preconceito racial e a discriminação foram incorporados à sociedade brasileira, resultando em desigualdades que perduram até os dias atuais.</p>
 
-    <p>MOVIMENTOS NEGROS</p>
-    <p>Ao longo do século XX, os movimentos negros lutaram por reconhecimento e igualdade de direitos, culminando em marcos como o Dia da Consciência Negra, celebrado em 20 de novembro, em homenagem a Zumbi dos Palmares.</p>
+    <div class="container">
+  <div class="background-div">O preconceito racial e a discriminação foram incorporados à sociedade brasileira, resultando em desigualdades que perduram até os dias atuais.</div>
+  <div class="overlay-div">RACISMO ESTRUTURAL</div>
+  <div class="background-div2">Ao longo do século XX, os movimentos negros lutaram por reconhecimento e igualdade de direitos, culminando em marcos como o Dia da Consciência Negra, celebrado em 20 de novembro, em homenagem a Zumbi dos Palmares.</div>
+  <div class="overlay-div2">MOVIMENTOS NEGROS</div>
+</div>
+
+<div class="box5-container">
+    <hr class="hr9">
+    <div class="box13">
+        <p class="text10">LEGADOS DA ESCRAVIDÃO NO BRASIL CONTEMPORÂNEO</p>
+    </div>
+    <hr class="hr10">
+</div>
     
-    <p>LEGADOS DA ESCRAVIDÃO NO BRASIL COMTEMPORÂNEO</p>
-    <p>A herança da escravidão no Brasil ainda é evidente em várias áreas:</p>
+    <p class="text18">A herança da escravidão no Brasil ainda é evidente em várias áreas:</p>
 
-    <img src="../../../Resources/images/DESIGUALDADE1.jpg">
-    <p>Desigualdade Social: A população negra, em sua maioria, ainda ocupa posições sociais e econômicas desfavorecidas, com menor acesso à educação, saúde e empregos qualificados.</p>
+    <div class="fathercontainer">
+    <div class="image-container">
+        <img class="finalimage1" src="../../../Resources/images/DESIGUALDADE1.jpg">
+        <div class="finaltext1">Desigualdade Social: A população negra, em sua maioria, ainda ocupa posições sociais e econômicas desfavorecidas, com menor acesso à educação, saúde e empregos qualificados.</div>
+    </div>
 
-    <img src="../../../Resources/images/CULTURA1.jpg">
-    <p>Cultura: Apesar da marginalização, a cultura afro-brasileira é uma das mais ricas e dinâmicas do país, influenciando áreas como a música, a culinária e as artes.</p>
+    <div class="rectangle-container">
+        <div class="rectangle"></div>
+        <div class="rectangle2"></div>
+    </div>
+
+    <div class="image-container">
+        <img class="finalimage2" src="../../../Resources/images/CULTURA1.jpg">
+        <div class="finaltext2">Cultura: Apesar da marginalização, a cultura afro-brasileira é uma das mais ricas e dinâmicas do país, influenciando áreas como a música, a culinária e as artes.</div>
+    </div>
+</div>
+
+
+
+
+    <img >
+    <p></p>
     <style>
 
         .button-back {
