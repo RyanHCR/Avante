@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/idademedia.css">
 </head>
-<br>
+<body>
     
 <header class="header">
     <div class="left-buttons">

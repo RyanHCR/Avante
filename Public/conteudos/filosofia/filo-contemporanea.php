@@ -1,9 +1,10 @@
-<html lang="pt-BR">
+<lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FILOSOFIA COMTEMPORÂNEA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/contemporanea.css">
 </head>
 <body>
     
@@ -21,20 +22,53 @@
     </div>
 </header>
 
+<div class="sub-header">
+    <p>FILOSOFIA COMTEMPORÂNEA</p>
+</div>
+
     <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
 
-    <p>A filosofia contemporânea é o ramo da filosofia que se desenvolveu a partir do final do século XIX até os dias atuais. Ela reflete as grandes transformações políticas, sociais, científicas e culturais do mundo moderno e aborda questões que emergiram com a industrialização, a globalização, as guerras mundiais, e o avanço da ciência e da tecnologia. Diferentemente de períodos anteriores, a filosofia contemporânea é marcada por uma grande diversidade de correntes e por uma pluralidade de temas, desde questões existenciais até análises sobre a sociedade, o poder e a linguagem.</p>
+    <div class="box1">
+    <p class="text1">A filosofia contemporânea é o ramo da filosofia que se desenvolveu a partir do final do século XIX até os dias atuais. Ela reflete as grandes transformações políticas, sociais, científicas e culturais do mundo moderno e aborda questões que emergiram com a industrialização, a globalização, as guerras mundiais, e o avanço da ciência e da tecnologia. Diferentemente de períodos anteriores, a filosofia contemporânea é marcada por uma grande diversidade de correntes e por uma pluralidade de temas, desde questões existenciais até análises sobre a sociedade, o poder e a linguagem.</p>
+    </div>
+<br></br>
 
-    <P>A filosofia contemporânea é o ramo da filosofia que se desenvolveu a partir do final do século XIX até os dias atuais. Ela reflete as grandes transformações políticas, sociais, científicas e culturais do mundo moderno e aborda questões que emergiram com a industrialização, a globalização, as guerras mundiais, e o avanço da ciência e da tecnologia. Diferentemente de períodos anteriores, a filosofia contemporânea é marcada por uma grande diversidade de correntes e por uma pluralidade de temas, desde questões existenciais até análises sobre a sociedade, o poder e a linguagem.</P>
+    <div class="box7-container">
+    <div class="box7">
+        <p>PRINCIPAIS CARACTERÍSTICAS DA FILOSOFIA COMTEMPÔRANEA</p>
+    </div>
+    <hr class="hr6">
+</div>
+    
+<div class="circle-container">
+    <div class="circle1">1</div>
+    <div class="circle2">2</div>
+    <div class="circle3">3</div>
+</div>
 
-    <p>PRINCIPAIS CARACTERÍSTICAS DA FILOSOFIA COMTEMPÔRANEA</p>
+<div class="box-container">
+    <div class="box8">
+        <p><b>Diversidade de temas e correntes: </b> A filosofia contemporânea não é dominada por uma única escola de pensamento. Em vez disso, há uma grande variedade de correntes filosóficas que abordam desde questões éticas e políticas até questões sobre a linguagem, a mente e a subjetividade.</p>
+    </div>
+    <div class="box9">
+        <p><b>Interdisciplinaridade: </b>Muitos filósofos contemporâneos dialogam com outras áreas do conhecimento, como a sociologia, psicologia, linguística, e ciência política, o que leva a uma abordagem mais ampla e integrada dos problemas filosóficos.</p>
+    </div>
+    <div class="box10">
+        <p><b>Crítica à modernidade: </b>Grande parte dos filósofos contemporâneos dedica-se à crítica das bases da modernidade, questionando noções como progresso, racionalidade e o sujeito autônomo.</p>
+    </div>
+</div>
 
-    <p>Diversidade de temas e correntes: A filosofia contemporânea não é dominada por uma única escola de pensamento. Em vez disso, há uma grande variedade de correntes filosóficas que abordam desde questões éticas e políticas até questões sobre a linguagem, a mente e a subjetividade.</p>
-    <p>Interdisciplinaridade: Muitos filósofos contemporâneos dialogam com outras áreas do conhecimento, como a sociologia, psicologia, linguística, e ciência política, o que leva a uma abordagem mais ampla e integrada dos problemas filosóficos.</p>
-    <p>Crítica à modernidade: Grande parte dos filósofos contemporâneos dedica-se à crítica das bases da modernidade, questionando noções como progresso, racionalidade e o sujeito autônomo.</p>
-    <img src="../../../Resources/images/contemporanea1.jpg">
+<div class="box11-container">
+    <hr class="hr7">
+    <img class="image-center2" src="../../../Resources/images/contemporanea1.jpg">
+    <hr class="hr8">
+</div>
 
-    <p>CORRENTES PRINCIPAIS DA FILOSOFIA CONTEMPÔRANEA</p>
+<div class="box2">
+    <p class="text2">CORRENTES PRINCIPAIS DA FILOSOFIA CONTEMPÔRANEA</p>
+    </div>
+
+    
 
     <p>1. Existencialismo</p>
     <p>O existencialismo é uma corrente filosófica que surgiu na primeira metade do século XX e está associada a pensadores como Jean-Paul Sartre, Simone de Beauvoir, Albert Camus e, em certa medida, Martin Heidegger. A principal preocupação do existencialismo é a condição humana, em especial a liberdade, a angústia e a busca de sentido em um mundo que, segundo esses filósofos, é desprovido de propósito intrínseco.</p>
