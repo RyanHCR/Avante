@@ -20,7 +20,9 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
-
+<div class="sub-header">
+    <p>REGIONALIZAÇÃO</p>
+</div>
     <a href="../../materias/geografia.php" class="button-back">VOLTAR</a>
 
     <div class="texto1">
@@ -72,9 +74,7 @@
     <div class="linha">-</div> <!-- Linha colorida -->
     <div class="texto10">DESAFIOS DA REGIONALIZAÇÃO NO BRASIL</div>
     <div class="texto18">Apesar de ser uma ferramenta útil para o entendimento do território brasileiro, a regionalização enfrenta desafios. A diversidade interna das regiões é um desses obstáculos. Por exemplo, dentro da Região Nordeste, existem grandes contrastes entre o litoral e o sertão, tanto em termos econômicos quanto climáticos. Além disso, a integração entre as regiões continua sendo uma questão a ser melhorada, especialmente nas áreas mais isoladas, como a Região Norte.<br><br> Outro desafio é a aplicação de políticas públicas que contemplem as especificidades de cada área. Em muitos casos, as políticas são pensadas de forma geral e podem não atender às necessidades específicas de certas regiões, agravando as desigualdades regionais.</div>
-    <p></p>
-    <p></p>
-    <p></p>
+  <br><br><br><br>
 
     <style>
 

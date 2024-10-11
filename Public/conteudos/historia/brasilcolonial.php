@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BRASIL COLONIAL</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/historia/brasilcolonial.css">
 </head>
 <body>
     
@@ -22,10 +23,18 @@
 </header>
 
     <a href="../../materias/historia.php" class="button-back">VOLTAR</a>
-    <p>O período colonial brasileiro, que se estende de 1500 a 1822, foi uma fase marcante da história do Brasil. Ele abrange desde o "descobrimento" pelos portugueses até a independência do país, passando pela construção de uma sociedade colonial baseada na exploração de recursos naturais, escravidão, e formação cultural.</p>
+    <div class="box1">
+    <p class="text1">O período colonial brasileiro, que se estende de 1500 a 1822, foi uma fase marcante da história do Brasil. Ele abrange desde o "descobrimento" pelos portugueses até a independência do país, passando pela construção de uma sociedade colonial baseada na exploração de recursos naturais, escravidão, e formação cultural.</p>
+    </div>
     
-    <p>A CHEGADA DOS PORTUGUESES (1500)</p>
-    <p>A história do Brasil colonial começa oficialmente em 22 de abril de 1500, quando a esquadra comandada por Pedro Álvares Cabral chegou à costa brasileira. Embora o "descobrimento" seja uma questão controversa, dado que o território já era habitado por milhões de indígenas, foi a partir desse marco que o Brasil entrou no radar das potências europeias.</p>
+
+    <hr class="hr2"> 
+
+<div class="box3">
+    <p class="text2">A CHEGADA DOS PORTUGUESES (1500)</p>
+    </div>
+
+    <p class="texto1">A história do Brasil colonial começa oficialmente em 22 de abril de 1500, quando a esquadra comandada por Pedro Álvares Cabral chegou à costa brasileira. Embora o "descobrimento" seja uma questão controversa, dado que o território já era habitado por milhões de indígenas, foi a partir desse marco que o Brasil entrou no radar das potências europeias.</p>
     <img src="../../../Resources/images/navegações1.jpg">
 
     <p>OBJETIVO INICIAL DOS PORTUGUESES:</p>
