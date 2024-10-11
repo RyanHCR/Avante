@@ -1,0 +1,1067 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff; /* Cor de fundo opcional */
+    font-family: Arial, sans-serif;
+}
+
+
+p{
+    font-size:22px;
+    line-height: 29.05px;
+}
+
+.box1 {
+    background-color: #B5F5FF;
+    height: 150px;
+    width: 1100px;
+    margin-left: 220px;
+}
+
+.text1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: -50px;
+    margin-left: 12px;
+}
+
+.sub-header {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 180px;
+    background-color: #6FC3D0;
+    border-bottom: 1px solid #A3DBE4;
+    height: 35px;
+    align-self: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
+    font-weight: bold;
+}
+
+.box2 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 1100px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box202{
+    background-color: #B5F5FF;
+    height: 10px;
+    width: 1100px;
+    margin-left: 220px;
+    position:relative;
+    top:10px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text2 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 23px;
+}
+
+.hr1 {
+    border: 2px solid #6FC3D0;
+    width: 650px;
+    margin-right: 215px;
+}
+
+.hr2 {
+    border: 2px solid #6FC3D0;
+    width: 650px;
+    margin-left: 215px;
+}
+
+.text3 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+    margin-left: 660px;
+    width: 670px;
+}
+
+.text4 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.image-left {
+    float: left;
+    width: 340px;
+    height: 280px;
+    margin-left: 270px;
+}
+
+.box3{
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 400px;
+    margin-left: 900;
+    margin-top: -50px;
+}
+
+.text5{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.05px;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 1070px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 15px;
+    padding-left: 3px;
+}
+
+.text6{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    top:100px;
+    margin-left: -10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 11px;
+}
+
+.image-right{
+    float:right;
+    margin-right: 220px;
+    margin-top:-40px;
+}
+
+.text8{
+    width: 470px;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.text9{
+    width: 1125px;
+    margin-left: 230px;
+
+}
+
+.text10{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.box5-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: space-between; /* Espaça igualmente os elementos */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box5 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+}
+
+.hr4 {
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-left: 30px;
+}
+
+.hr3{
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-right: 30px;
+}
+
+.image-center{
+    margin-top: 40px;
+    position:relative;
+    left:215px
+}
+
+.text11{
+    width: 1106;
+    position: relative;
+    margin: 20px auto;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 11px;
+}
+
+.box6 {
+    width: 1006px; /* Tamanho da caixa */
+    margin: 20px auto;
+    padding: 20px; /* Espaçamento interno */
+    background-color:#DEFAFF;
+    border: 6px solid #6FC3D0; /* Bordas finas e discretas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+
+}
+
+.text12 {
+    font-size: 24px; /* Tamanho da fonte maior para o título */
+    color: #000000; /* Cor do texto */
+    margin-bottom: 10px; /* Espaçamento entre o título e o parágrafo */
+    text-align: center; /* Centraliza o título */
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.text13 {
+    font-size: 18px; /* Tamanho do texto */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    color: #000000; /* Cor do texto secundário */
+    text-align: justify; /* Alinha o texto justificadamente */
+    width: 700px;
+    margin: 20px auto;
+}
+
+.box7-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box7 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr5 {
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-left: 215px;
+}
+
+.hr6{
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-right: 215px;
+}
+
+.text14{
+    position: relative;
+    margin-left: 265px;
+}
+
+.circle-container {
+    display: flex; /* Alinha os círculos em linha */
+    justify-content: space-around; /* Espaço igual entre os círculos */
+    align-items: center; /* Alinha os círculos verticalmente */
+    margin-top: 50px; /* Espaço no topo */
+}
+
+.circle1 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-left: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+.circle2 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+    
+}
+
+.circle3 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-right: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+
+.box-container {
+    display: flex; 
+    align-items: center; 
+    margin-top: 50px; 
+    margin: 20px auto;
+    margin-left: 190px;
+    gap: 20px;
+    font-size: 22px;
+}
+
+.box8, .box9, .box10 {
+    background-color: #DEFAFF;
+    height: 190px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+.title {
+    margin: 0; /* Remove margem do título */
+    font-weight: bold; /* Estiliza o título */
+    margin-bottom: 10px; /* Espaço entre o título e o texto */
+}
+
+.box11-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-top: 13px;
+    gap:30px;
+}
+
+.image-center11 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr7 {
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr8{
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+.text14{
+    width:1100px;
+    margin: 20px auto;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff; /* Cor de fundo opcional */
+    font-family: Arial, sans-serif;
+}
+
+
+p{
+    font-size:22px;
+    line-height: 29.05px;
+}
+
+.box1 {
+    background-color: #B5F5FF;
+    height: 150px;
+    width: 1100px;
+    margin-left: 220px;
+}
+
+.text1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: -50px;
+    margin-left: 12px;
+}
+
+.sub-header {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 180px;
+    background-color: #6FC3D0;
+    border-bottom: 1px solid #A3DBE4;
+    height: 35px;
+    align-self: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
+    font-weight: bold;
+}
+
+.box2 {
+    background-color: #2F91A0;
+    height: 10px;
+    width: 955px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 75px; /* Valor negativo para subir */
+    margin-left: 290px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+.box22 {
+    background-color: #2F91A0;
+    height: 10px;
+    width: 955px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: -1765px; /* Valor negativo para subir */
+    margin-left: 290px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+.box222 {
+    background-color: #2F91A0;
+    height: 5px;
+    width: 208px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 88px; /* Valor negativo para subir */
+    margin-left: 295px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+.box123 {
+    background: #6FC3D0;
+    height: 5px;
+    width: 208px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 95px; /* Valor negativo para subir */
+    margin-left: 295px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+.box2223 {
+    background-color: #2F91A0;
+    height: 5px;
+    width: 208px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 235px; /* Valor negativo para subir */
+    margin-left: 295px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+.box1234 {
+    background: #6FC3D0;
+    height: 5px;
+    width: 208px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 220px; /* Valor negativo para subir */
+    margin-left: 295px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.text2 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 23px;
+}
+
+.hr1 {
+    border: 2px solid #6FC3D0;
+    width: 650px;
+    margin-right: 215px;
+}
+
+.hr2 {
+    border: 2px solid #6FC3D0;
+    width: 650px;
+    margin-left: 215px;
+}
+
+.text3 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+    margin-left: 660px;
+    width: 670px;
+}
+
+.text4 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.image-left {
+    float: left;
+    width: 340px;
+    height: 280px;
+    margin-left: 270px;
+}
+
+.box3{
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 400px;
+    position: relative;
+    top: 30px; /* Valor negativo para subir */
+    right: -500; /* Mover para o canto direito */
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center
+}
+
+.text5{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.05px;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 1070px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 15px;
+    padding-left: 3px;
+}
+
+.text6{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 260px;
+    width: 1070px;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 500px;
+    position: relative;
+    top: -350px; /* Valor negativo para subir */
+    left: -10   0; /* Mover para o canto esquerdo */
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box40{
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 500px;
+    position: relative;
+    top: -350px; /* Valor negativo para subir */
+    left: 495; /* Mover para o canto esquerdo */
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7 {
+    font-size: 14px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top:-500px;
+    width:-600px;
+    max-width: -50%; /* ajusta o tamanho da imagem */
+    margin-right: 20px; /* espaço entre a imagem e o texto */
+}
+
+
+.alonne{
+    font-size: 14px;
+    display:flex;
+    float:right;
+    margin-right: 1000px;
+    margin-top:-40px;
+    max-width: 40%; /* ajusta o tamanho da imagem */
+    margin-right: 20px; /* espaço entre a imagem e o texto */
+}
+
+.text8{
+    width: 470px;
+    margin-left: -10px;
+    margin-top: 50px;
+}
+
+.text9{
+    width: 470px;
+    margin-left: 1000px;
+    margin-top: 30px;
+
+}
+
+.text10{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.box5-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: space-between; /* Espaça igualmente os elementos */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box5 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+}
+
+.hr4 {
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-left: 30px;
+}
+
+.hr3{
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-right: 30px;
+}
+
+.image-center{
+    margin-top: 40px;
+    position:relative;
+    left:215px
+}
+
+.text11{
+    width: 1106;
+    position: relative;
+    margin: 20px auto;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: -500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    top: 25px;
+    margin-left: 450px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text7{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 11px;
+}
+
+.box6 {
+    width: 1006px; /* Tamanho da caixa */
+    margin: 20px auto;
+    padding: 20px; /* Espaçamento interno */
+    background-color:#DEFAFF;
+    border: 6px solid #6FC3D0; /* Bordas finas e discretas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+
+}
+
+.text12 {
+    font-size: 24px; /* Tamanho da fonte maior para o título */
+    color: #000000; /* Cor do texto */
+    margin-bottom: 10px; /* Espaçamento entre o título e o parágrafo */
+    text-align: center; /* Centraliza o título */
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.text13 {
+    font-size: 18px; /* Tamanho do texto */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    color: #000000; /* Cor do texto secundário */
+    text-align: justify; /* Alinha o texto justificadamente */
+    width: 700px;
+    margin: 20px auto;
+}
+
+.box7-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+
+.box7 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr5 {
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-left: 215px;
+}
+
+.hr6{
+    width: 250px;
+    height: 60px;
+    background-color: #2F91A0;
+    margin-right: 215px;
+}
+
+.text14{
+    position: relative;
+    margin-left: 265px;
+}
+
+.circle-container {
+    display: flex; /* Alinha os círculos em linha */
+    justify-content: space-around; /* Espaço igual entre os círculos */
+    align-items: center; /* Alinha os círculos verticalmente */
+    margin-top: 50px; /* Espaço no topo */
+}
+
+.circle1 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-left: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+.circle2 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+    
+}
+
+.circle3 {
+    width: 75px; /* Largura do círculo */
+    height: 75px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-right: 200px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+
+
+.box-container {
+    display: flex; 
+    align-items: center; 
+    margin-top: 50px; 
+    margin: 20px auto;
+    margin-left: 190px;
+    gap: 20px;
+    font-size: 22px;
+}
+
+.box8, .box9, .box10 {
+    background-color: #B5F5FF;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+
+.box88 {
+    background-color: #B5F5FF;
+;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+
+.box888{
+    background-color: #B5F5FF;
+;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+.box414{
+    background-color: #B5F5FF;
+;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+.box243{
+    background-color: #B5F5FF;
+;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+
+
+.box2432{
+    background-color: #B5F5FF;
+;
+    height: 190px;
+    width:1200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+   margin-left: 120;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title {
+    margin: 0; /* Remove margem do título */
+    font-weight: bold; /* Estiliza o título */
+    margin-bottom: 10px; /* Espaço entre o título e o texto */
+}
+
+.box11-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-top: 13px;
+    gap:30px;
+}
+
+.image-center11 {
+    background-color: #B5F5FF;
+    height: 60px;
+    width: 530px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.hr7 {
+    width: 50px;
+    height: 250px;
+    position: relative;
+    background-color:  #1C5A63;
+    position:relative;
+    top: -280px; /* Valor negativo para subir */
+    margin-left: 380px;/* Diminua o valor para mover mais para a esquerda */
+}
+
+.hr8{
+    width: 50px;
+    height: 250px;
+    position: relative;
+    background-color:  #1C5A63;
+    position:relative;
+    top: -280px; /* Valor negativo para subir */
+    margin-left: 380px;/* Diminua o valor para mover mais para a esquerda */
+    top: -585px; /* Valor negativo para subir */
+    margin-left: 1100px; /* Diminua o valor para mover mais para a esquerda */
+    
+    
+
+}
+.hr22{
+    width: 1px;
+    height: 300px;
+    background-color: #6FC3D0;
+    margin-left: 815px;
+    
+
+}
+
+.text14{
+    width:1100px;
+    margin: 20px auto;
+}
+
+.hr30{
+    width: 60px;
+    height: 250px;
+    background-color:  #6FC3D0;
+    position: relative;
+    top: -5px; /* Valor negativo para subir */
+    margin-left: 1165px; /* Diminua o valor para mover mais para a esquerda */
+}
+    .hr31 {
+        width: 60px;
+        height: 250px;
+        position: relative;
+        background-color:   #6FC3D0;
+        position: relative;
+        top: -1155px; /* Valor negativo para subir */
+        margin-left: 285px;
+    }
+    
+
+
+
