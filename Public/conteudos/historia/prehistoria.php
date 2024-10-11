@@ -63,7 +63,60 @@ Características: Este período é uma fase de transição entre o Paleolítico 
 Características: Caracteriza-se pelo desenvolvimento da agricultura, domesticação de animais e o surgimento de assentamentos permanentes. O homem passou de uma vida nômade para uma vida agrícola, criando as primeiras aldeias e, eventualmente, cidades. Também surgiram avanços na cerâmica, tecelagem e construção.</p></div>
 <img class="image2" src="../../../Resources/images/neolítico2.png">
 </div>
+<hr class="hrX1">
+<div class="box11-container">
+<hr class="hr7">
+    <img class= "image-center11" src="../../../Resources/images/neolitico.jpg">
+<hr class="hr8">
+    </div>
+    <hr class="hrX1">
+    <div class="box5">
+    <p class="text6">O Neolítico, também conhecido como Idade da Pedra Polida, é um período pré-histórico que se estende aproximadamente entre 10.000 a.C. e 3.000 a.C. É caracterizado por profundas transformações na forma como as sociedades humanas viviam e interagiam com o meio ambiente.</p>
+    </div>
+<br>
+    <div class="box5-container">
+    <hr class="hr3">
+    <div class="box6">
+        <p class="text10">Principais Características do Neolítico:</p>
+    </div>
 
+    <hr class="hr4">
+
+</div>
+<br><br>
+<div class="custom-box-container">
+        <div class="custom-box custom-box1">
+            <span class="circle1">1</span>
+            <p class="textodaora"><b>Agricultura e domesticação de animais:</b> As pessoas passaram de caçadores-coletores para agricultores, cultivando plantas como trigo, cevada e lentilhas, e domesticando animais como ovelhas, cabras e bovinos. Essa mudança levou à sedentarização, já que as pessoas começaram a formar assentamentos fixos.</p>
+        </div>
+        <div class="custom-box custom-box2">
+            <span class="circle1">2</span>
+            <p class="textodaora"><b>Ferramentas de pedra polida:</b> O desenvolvimento de novas técnicas de fabricação de ferramentas de pedra, como a polimento, resultou em utensílios mais eficazes e duráveis, como machados e facas, usados para agricultura e construção.</p>
+        </div>
+        <div class="custom-box custom-box3">
+            <span class="circle1">3</span>
+            <p class="textodaora"><b>Sedentarismo e construção de aldeias:</b> Com a agricultura, as pessoas começaram a construir moradias permanentes, formando as primeiras aldeias. Essas comunidades geralmente eram próximas a rios ou áreas férteis, o que facilitava o cultivo e o acesso à água.</p>
+        </div>
+        <div class="custom-box custom-box4">
+            <span class="circle1">4</span>
+            <p class="textodaora"><b>Artesanato e cerâmica:</b> O período Neolítico também é marcado pela produção de cerâmica, usada para armazenar alimentos e água. A tecelagem também começou a se desenvolver, com a fabricação de tecidos a partir de fibras vegetais e animais.</p>
+        </div>
+        <div class="custom-box custom-box5">
+            <span class="circle1">5</span>
+            <p class="textodaora"><b>Religião e rituais:</b> Durante o Neolítico, surgiram práticas religiosas mais organizadas. Monumentos megalíticos, como Stonehenge, foram construídos, possivelmente com funções religiosas ou astronômicas. Também há evidências de práticas funerárias mais elaboradas.</p>
+        </div>
+        <div class="custom-box custom-box6">
+            <span class="circle1">6</span>
+            <p class="textodaora"><b>Hierarquização social:</b> À medida que as sociedades se tornaram mais complexas, começaram a surgir hierarquias sociais, com a divisão do trabalho, possivelmente com líderes ou classes sociais que controlavam a terra e os recursos.</p>
+        </div>
+    </div>
+    <div class="container">
+    <div class="caixa1"><p class="textoincrivel">Essas inovações no Neolítico lançaram as bases</p></div>
+    <div class="caixa1"><p class="textoincrivel">para o surgimento de civilizações mais complexas</p></div>
+    <div class="caixa1"><p class="textoincrivel">na Idade dos Metais, que veio a seguir.</p></div>
+</div>
+<img class="seta" src="../../../Resources/images/setinhamuitofoda.png">
+    
     <style>
 
         .button-back {
