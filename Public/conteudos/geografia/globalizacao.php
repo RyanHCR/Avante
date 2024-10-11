@@ -52,8 +52,16 @@
     <span class="bold">Meio Ambiente: </span>A globalização está diretamente ligada ao aumento do consumo e da produção industrial, o que gera mais poluição e intensifica os problemas ambientais. Além disso, o transporte global de mercadorias aumenta as emissões de gases de efeito estufa. A busca por recursos naturais, como petróleo e minerais, também pode gerar devastação ambiental. Um exemplo disso é a extração de petróleo em áreas sensíveis, como o Ártico e a Amazônia.<br><br>
     <span class="bold">Trabalho:</span>Com a globalização, as cadeias produtivas se fragmentaram, criando o conceito de "divisão internacional do trabalho". Países industrializados tendem a concentrar-se em atividades de pesquisa e inovação, enquanto países em desenvolvimento concentram-se na produção de bens de consumo de baixo valor agregado. Isso pode resultar em exploração da mão de obra, especialmente em países mais pobres.</div>
     <div class="imagem2"><img src="../../../Resources/images/bora5.png"></div>
-    <div class="imagem3"><img src="../../../Resources/images/vaii.png"></div>
-
+    <div class="texto12">A GLOBALIZAÇÃO E SEUS DESAFIOS</div>
+    <div class="texto13">Em um mundo em constante mudança, a economia enfrenta desafios complexos, como:</div>
+    <div class="texto13"><span class="bold"> &#9679; Desigualdade Econômica:</span> Apesar de ter gerado crescimento econômico, a globalização <br>também aprofundou a desigualdade entre países e dentro dos próprios países. As <br>nações mais ricas geralmente têm mais recursos para investir em inovações <br>tecnológicas e em educação, o que lhes dá uma vantagem competitiva sobre as <br>economias menos desenvolvidas. Por outro lado, dentro dos países, a globalização tem<br> beneficiado as elites e grandes corporações, enquanto muitas vezes deixa os<br> trabalhadores em situações precárias.</div>
+    <div class="texto25"><span class="bold"> &#9679; Soberania Nacional:</span> À medida que as economias se tornam mais interligadas, os governos perdem um pouco de sua capacidade de controlar suas políticas econômicas e sociais. A imposição de regras por instituições financeiras globais, como o FMI, ou por acordos comerciais, pode limitar a capacidade dos países de tomarem decisões autônomas.</div>
+    <div class="imagem11"><img src="../../../Resources/images/economia6.jpg"></div>
+    <div class="texto25"><span class="bold"> &#9679; Crise Migratória:</span> A globalização facilitou a mobilidade de pessoas, tanto para buscar melhores oportunidades quanto para fugir de crises e conflitos. No entanto, a migração em massa também tem gerado tensões, especialmente em países que enfrentam dificuldades para integrar grandes fluxos de imigrantes. A Europa, por exemplo, vive uma crise migratória devido à chegada de milhões de refugiados do Oriente Médio e da África, fugindo de guerras e instabilidade.</div>
+    <div class="imagem12"><img src="../../../Resources/images/economia7.jpg"></div>
+    <div class="texto26"><span class="bold"> &#9679; Nacionalismo e Protecionismo: </span>Em resposta aos efeitos negativos da globalização, como a perda de empregos em certos setores e o aumento da desigualdade, muitos países começaram a adotar políticas mais nacionalistas e protecionistas, como o aumento de tarifas e barreiras comerciais. O Brexit, a saída do Reino Unido da União Europeia, e as políticas econômicas protecionistas de países como os Estados Unidos durante o governo de Donald Trump são exemplos desse movimento.</div>
+    <div class="imagem16"><img src="../../../Resources/images/economia8.jpg"></div>
+    
 <br><br><br><br><br><br>
     <style>
 
