@@ -54,7 +54,7 @@
 
 .numero1 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
-    color: white; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
     height: 35px;
@@ -86,7 +86,7 @@
 
 .numero2 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
-    color: white; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
     height: 35px;
@@ -115,7 +115,7 @@
 
 .numero3 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
-    color: white; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
     height: 35px;
@@ -143,7 +143,7 @@
 
 .numero4 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
-    color: white; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
     height: 35px;
@@ -171,7 +171,7 @@
 
 .numero5 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
-    color: white; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
     height: 35px;

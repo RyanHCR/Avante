@@ -195,8 +195,8 @@
     font-size: 20px;
 }
 .imagem2 img{
-    margin-left:23%;
-    margin-top: 3%;
+    margin-left:27%;
+    margin-top: -28.5%;
 }
 .imagem3 img {
      width: 740px;
@@ -298,4 +298,21 @@
     width: 380px;
     height: 310px;
     margin-top: -15%;
+}
+.barra4{
+    background-color: #2F91A0;
+    height: 400px;
+    width: 70px;
+    margin-left:345px;
+    margin-top:3%;
+    color:#2F91A0 ;
+}
+.barra5{
+    background-color: #2F91A0;
+    height: 400px;
+    width: 70px;
+    margin-left:1143px;
+    margin-top:-26%;
+    color:#2F91A0 ;
+
 }
