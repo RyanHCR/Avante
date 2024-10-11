@@ -168,10 +168,10 @@
 <div class="box31">
     <p class="text52">PARA ESTUDAR</p>
 </div>
-    <p>Feudalismo: Entenda a dinâmica econômica e social deste sistema.</p>
-    <p>Papel da Igreja: Analise a influência da Igreja Católica na sociedade medieval.</p>
-    <p>Cruzadas: Estude suas causas, desdobramentos e consequências.</p>
-    <p>Crises do século XIV: Saiba mais sobre os impactos da Peste Negra e das revoltas camponesas.</p>
+    <div class="line1"><img src="../../../Resources/images/SETA 5.png"><p>Feudalismo: Entenda a dinâmica econômica e social deste sistema.</p></div>
+    <div class="line2"><img src="../../../Resources/images/SETA 5.png"><p>Papel da Igreja: Analise a influência da Igreja Católica na sociedade medieval.</p></div>
+    <div class="line3"><img src="../../../Resources/images/SETA 5.png"><p>Cruzadas: Estude suas causas, desdobramentos e consequências.</p></div>
+    <div class="line4"><img src="../../../Resources/images/SETA 5.png"><p>Crises do século XIV: Saiba mais sobre os impactos da Peste Negra e das revoltas camponesas.</p></div>
 
     <style>
 
