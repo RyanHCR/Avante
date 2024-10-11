@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 .texto1 {
     background-color: #B5F5FF; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -9,6 +10,7 @@
     margin-left: 25%;
     font-size: 20px;
 }
+
 .imagem1 img{
     width: 260px;
     height: 260px;
@@ -26,16 +28,19 @@
     font-family: "Inter", sans-serif;
     font-size: 20px;
 }
+
 .texto3 {
     background-color: #B5F5FF; /* Cor de fundo do quadrado */
-    color:#1C5A63; /* Cor do texto */
+    color: #1C5A63; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     text-align: center;
     margin-left: 48%;
     width: 27%;
     margin-top: 3%;
     font-size: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Corrigido para sombra visível */
 }
+
 .texto4 {
     background-color: white; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -46,6 +51,7 @@
     font-family: "Inter", sans-serif;
     margin-top: 1%; font-size: 20px;
 }
+
 .numero1 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
     color: white; /* Cor do texto */
@@ -60,9 +66,11 @@
     border: 0.4px solid black;
     margin-top: 60px;
 }
+
 .bold {
     font-weight: bold; /* Aplica o negrito */
 }
+
 .texto5 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -75,8 +83,9 @@
     border: 0.2px solid black;
     font-size: 20px;
 }
+
 .numero2 {
-    background-color:#DEFAFF; /* Cor de fundo do quadrado */
+    background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: white; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
@@ -90,6 +99,7 @@
     margin-top: 20px;
     font-weight: bold;
 }
+
 .texto6 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -102,8 +112,9 @@
     border: 0.2px solid black;
     font-size: 20px;
 }
+
 .numero3 {
-    background-color:#6FC3D0; /* Cor de fundo do quadrado */
+    background-color: #6FC3D0; /* Cor de fundo do quadrado */
     color: white; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
@@ -116,6 +127,7 @@
     border: 0.4px solid black;
     margin-top: 20px;
 }
+
 .texto7 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -128,8 +140,9 @@
     border: 0.2px solid black;
     font-size: 20px;
 }
-.numero4{
-    background-color:#DEFAFF; /* Cor de fundo do quadrado */
+
+.numero4 {
+    background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: white; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
@@ -142,6 +155,7 @@
     border: 0.4px solid black;
     margin-top: 20px;
 }
+
 .texto8 {
     background-color: #6FC3D0; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -154,8 +168,9 @@
     border: 0.2px solid black;
     font-size: 20px;
 }
-.numero5{
-    background-color:#6FC3D0; /* Cor de fundo do quadrado */
+
+.numero5 {
+    background-color: #6FC3D0; /* Cor de fundo do quadrado */
     color: white; /* Cor do texto */
     padding: 2px; /* Espaçamento interno */
     width: 35px;
@@ -168,7 +183,8 @@
     border: 0.4px solid black;
     margin-top: 55px;
 }
-.texto9{
+
+.texto9 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
     padding: 20px; /* Espaçamento interno */
@@ -180,72 +196,82 @@
     border: 0.2px solid black;
     font-size: 20px;
 }
+
 .linha {
     height: 2px; /* Altura da linha */
     background-color: #6FC3D0; /* Cor da linha */
     margin: 10px 0; /* Espaço acima e abaixo da linha */
-    color:white;
+    color: white;
     margin-top: 5%;
     width: 110%;
     margin-left: -5%;
 }
-.texto10{
+
+.texto10 {
     background-color: #B5F5FF; /* Cor de fundo do quadrado */
-    color:#1C5A63; /* Cor do texto */
+    color: #1C5A63; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     text-align: center;
     width: 80%;
     margin-top: 7%;
     font-weight: bold;
     font-size: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Corrigido para sombra visível */
 }
-.texto11{
+
+.texto11 {
     background-color: white; /* Cor de fundo do quadrado */
-    color:black; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     width: 40%;
     margin-top: 7%;
     font-size: 20px;
 }
-.imagem2 img{
+
+.imagem2 img {
     width: 260px;
     height: 260px;
     margin-left: 53%;
     margin-top: -300px;
 }
-.imagem3 img{
+
+.imagem3 img {
     width: 350px;
     height: 350px;
     margin-left: -2%;
     margin-top: -80%;
 }
-.texto12{
+
+.texto12 {
     background-color: white; /* Cor de fundo do quadrado */
-    color:black; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     width: 40%;
     margin-top: 7%;
     margin-left: 55%;
     font-size: 20px;
 }
+
 .texto13 {
     background-color: white; /* Cor de fundo do quadrado */
-    color:black; /* Cor do texto */
+    color: black; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     width: 50%;
     margin-top: 7%;
     margin-left: 3%;
     font-size: 20px;
 }
+
 .imagem4 img {
     width: 380px;
     height: 290px;
     margin-left: 53%;
     margin-top: -100px;
 }
-.texto14{
+
+.texto14 {
     background-color: #B5F5FF; /* Cor de fundo do quadrado */
-    color:#1C5A63; /* Cor do texto */
+    color: #1C5A63; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     text-align: center;
     width: 70%;
@@ -253,7 +279,9 @@
     font-weight: bold;
     margin-left: 230px;
     font-size: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Corrigido para sombra visível */
 }
+
 .texto15 {
     background-color: white; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -262,41 +290,47 @@
     height: 370px;
     font-size: 20px;
 }
+
 .linha2 {
     height: 2px; /* Altura da linha */
     background-color: #6FC3D0; /* Cor da linha */
     margin: 10px 0; /* Espaço acima e abaixo da linha */
-    color:white;
+    color: white;
     margin-top: 5%;
     width: 80%;
     margin-left: -20px;
 }
-.texto16{
+
+.texto16 {
     background-color: #B5F5FF; /* Cor de fundo do quadrado */
-    color:#1C5A63; /* Cor do texto */
+    color: #1C5A63; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     text-align: center;
     width: 400%;
     margin-top: 5%;
     font-weight: bold;
     font-size: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Corrigido para sombra visível */
 }
+
 .linha3 {
     height: 2px; /* Altura da linha */
     background-color: #6FC3D0; /* Cor da linha */
     margin: 10px 0; /* Espaço acima e abaixo da linha */
-    color:white;
+    color: white;
     margin-top: 5%;
     width: 80%;
 }
-.texto17{
+
+.texto17 {
     background-color: white; /* Cor de fundo do quadrado */
-    color:#000000; /* Cor do texto */
+    color: #000000; /* Cor do texto */
     padding: 4px; /* Espaçamento interno */
     width: 100%;
     margin-top: 5%;
     font-size: 20px;
 }
+
 .texto18 {
     background-color: #DEFAFF; /* Cor de fundo do quadrado */
     color: black; /* Cor do texto */
@@ -310,6 +344,7 @@
     margin-left: -4%;
     font-size: 20px;
 }
+
 .sub-header {  
     display: flex;
     align-items: center;
@@ -321,6 +356,7 @@
     align-self: center;
     color: white;
     font-size: 23px;
-    text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Corrigido para sombra visível */
     font-weight: bold;
 }
+
