@@ -27,13 +27,13 @@
         <a href="../conteudos/filosofia/filo-medieval.php" class="button button-dois">FILOSOFIA MEDIEVAL</a>
         <a href="../conteudos/filosofia/filo-moderna.php" class="button button-tres">FILOSOFIA MODERNA</a>
         <a href="../conteudos/filosofia/filo-contemporanea.php" class="button button-quatro">FILOSOFIA CONTEMPORÂNEA</a>
-    </div>
+        </div>
     <style>
         .container {
             display: flex;
             flex-direction: column;
-            gap: 35px; /* Espaço entre os botões */
-            width: 1000px; /* Largura dos botões + margem */
+            gap: 35px;
+            width: 1000px;
             text-align: center;
             font-family:'Roboto', sans-serif;
             margin-top:-40px;

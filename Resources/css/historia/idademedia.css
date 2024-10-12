@@ -23,7 +23,7 @@ p{
 .text1 {
     font-size: 20px;
     font-weight: bold;
-    padding: 15px;
+    padding: 30px;
     margin-top: -50px;
     margin-left: 12px;
 }
@@ -68,7 +68,7 @@ p{
 .hr1 {
     border: 2px solid #6FC3D0;
     width: 487px;
-    margin-right: 170px;
+    margin-right: 273px;
 }
 
 .hr2 {
@@ -88,7 +88,7 @@ p{
     line-height: 29.05px;
     text-align: left;
     margin-right: 30px;
-    width: 670px;
+    width: 470px;
     margin-top: 70px;
 }
 
@@ -127,17 +127,16 @@ p{
     background-color: #B5F5FF;
     height: 63px;
     width: 519px;
-    margin-left: 100px;
+    margin-left: 220px;
     margin-top: -50px;
 }
 .box31{
     background-color: #B5F5FF;
     height: 63px;
     width: 400px;
-    margin-left: 100px;
+    margin-left: 215px;
     margin-top: 20px;
 }
-
 
 .text5{
     font-size: 18px;
@@ -150,7 +149,9 @@ p{
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
     padding-top: 15px;
     padding-left: 95px;
+    margin-right: 20px;
 }
+
 .text51{
     font-size: 18px;
     font-weight: 500;
@@ -176,12 +177,28 @@ p{
     padding-left: 130px;
 }
 
+.line1{
+    display: flex;
+    margin-left: 225px;
+}
+.line2{
+    display: flex;
+    margin-left: 225px;
+}
+.line3{
+    display: flex;
+    margin-left: 225px;
+}
+.line4{
+    display: flex;
+    margin-left: 225px;
+}
 
 .text6{
     font-size: 22px;
     font-weight: 500;
     line-height: 29.05px;
-    margin-left: 162px;
+    margin-left: 240px;
     width: 1070px;
 }
 .text61{
@@ -228,7 +245,7 @@ p{
     background-color: #B5F5FF;
     height: 50px;
     width: 500px;
-    margin-left: 700px;
+    margin-left: 800px;
     margin-top: 70px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
@@ -277,8 +294,7 @@ p{
 }
 .text82{
     width: 470px;
-    margin-left: 30px;
-    
+    margin-left: 130px;
     
 }
 .image-left{
@@ -338,7 +354,7 @@ p{
 .boxes{
     display:flex;
     justify-content: center;
-    justify-content: space-evenly;
+    gap:100px;
 }
 
 .box5-container {
