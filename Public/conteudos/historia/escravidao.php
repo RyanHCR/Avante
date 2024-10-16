@@ -5,6 +5,7 @@
     <title>ESCRAVIDÃO</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/escravidao.css">
+    <link rel="icon" type="image/png" href="../../Resources/images/astroneer2.png">
 </head>
 <body>
     

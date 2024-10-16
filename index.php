@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página inicial</title>
+    <title>Cursinho Avante</title>
     <link rel="stylesheet" href="Resources/css/index.css">
+    <link rel="icon" type="image/png" href="Resources/images/astroneer2.png">
     <script src="Resources/js/animation.js"></script>
 </head>
 <body>

@@ -7,8 +7,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
-p{
-    font-size:22px;
+p {
+    font-size: 22px;
     line-height: 29.05px;
 }
 
@@ -53,15 +53,83 @@ p{
     background-color: #B5F5FF;
     height: 60px;
     width: 470px;
-    margin-left: 850;
+    margin-left: 850px; /* Adicionei 'px' aqui */
     margin-top: -50px;
 }
 
-.text2{
+.text2 {
     padding: 15px;
 }
 
-.texto1{
+.texto1 {
     width: 1190px;
     margin-left: 200px;
+}
+
+/* Novas estilizações para o layout solicitado */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.image-div {
+    width: 60%;
+    position: relative;
+}
+
+.image-div img {
+    width: 200%;
+    margin-left: 135px;
+    height: auto;
+    display: block;
+}
+
+.text-boxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px; /* Espaçamento entre as divs */
+}
+
+.text-box1 {
+    margin-bottom: 10px; /* Espaçamento entre as caixas de texto */
+}
+
+.title1 {
+    background-color: #B5F5FF;
+    padding: 5px;
+    text-align: center;
+    width: 225px;
+    height:50px;
+    font-size:20px;
+}
+
+.colored-div{
+    height: 100px;
+    width: 1300px;
+    background-color: #B5F5FF;
+    margin-left: 200px;
+}
+
+.imageminsana{
+    height: 500px;
+    width: 500px;
+}
+
+.title2 {
+    background-color: #B5F5FF;
+    padding: 5px;
+    text-align: center;
+    width: 225px;
+    height:50px;
+    font-size:20px;
+}
+
+.texto2{
+width: 300px;
+}
+
+.texto3{
+    width: 300px;
 }

@@ -5,6 +5,7 @@
     <title>Botões CRUD</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/prehistoria.css">
+    <link rel="icon" type="image/png" href="../../Resources/images/astroneer2.png">
 </head>
 <p>
     
