@@ -79,6 +79,16 @@ p{
     text-align: left;
     margin-left: 660px;
     width: 670px;
+    margin-top: 30px;
+}
+.text31 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+    margin-left: 60px;
+    width: 478px;
+    height: 170px;
 }
 
 .text4 {
@@ -162,11 +172,29 @@ p{
     height: 550;
     width: 500px;
 }
+.image-right3{
+    margin-right: 300px;
+    margin-top: 40px;
+    height: 349px;
+    width: 315px;
+}
+.container1 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .text8{
     width: 470px;
     margin-left: 230px;
     margin-top: 40px;
+}
+.text82{
+    width: 470px;
+    margin-left: 130px;
+    
 }
 
 .text9{
@@ -288,6 +316,7 @@ p{
     justify-content: center;
 }
 
+
 .text7{
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
@@ -305,11 +334,11 @@ p{
 }
 
 .text12 {
+    
+    text-align: center;
     font-size: 24px; 
-    color: #000000; 
+    color: #1C5A63; 
     margin-bottom: 10px; 
-    text-align: center; 
-    text-transform: uppercase; 
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
 }
 
@@ -578,13 +607,11 @@ li{
 
 .box12 {
     background-color: #B5F5FF;
-    height: 50px;
-    width: 500px;
-    margin-left: 232px;
+    height: 78px;
+    width: 562px;
+    margin-left: 642px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
+   text-align: center;
 }
 
 .text15 {

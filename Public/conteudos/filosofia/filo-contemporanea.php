@@ -141,13 +141,24 @@
     </div>
 
     <p class="text11">A filosofia política contemporânea é dominada por discussões em torno da justiça, da igualdade e dos direitos humanos. Um dos maiores expoentes desse campo é John Rawls, com sua obra Uma Teoria da Justiça, onde ele propõe o "véu da ignorância" como um método para pensar princípios de justiça social. Outro importante filósofo contemporâneo é Michel Foucault, que se dedicou a estudar as formas de poder e como elas operam na sociedade moderna.</p>
-    <p>Rawls propõe uma sociedade baseada em princípios de equidade e justiça, onde as instituições sociais devem garantir a igualdade de oportunidades e a proteção dos menos favorecidos.</p>
-    <img src="../../../Resources/images/contemporanea5.jpg">
 
-    <p>Foucault analisa o poder de forma descentralizada, mostrando como ele permeia todas as relações sociais e instituições, desde as prisões até as escolas e os hospitais.</p>
-    <img src="../../../Resources/images/contemporanea6.jpg">
+    <div>
+    <img src="../../../Resources/images/contemporanea5.jpg" class="image-left">
+    <p class="text3"> <b>Rawls</b> propõe uma sociedade baseada em princípios de equidade e justiça, onde as instituições sociais devem garantir a igualdade de oportunidades e a proteção dos menos favorecidos.</p>
+    </div>
+  
+    <div class="container1">
+    
+    <p class="text31"><b>Foucault</b> analisa o poder de forma descentralizada, mostrando como ele permeia todas as relações sociais e instituições, desde as prisões até as escolas e os hospitais.</p>
+   <img class="image-right3" src="../../../Resources/images/contemporanea6.jpg">  
+    </div>
+    <br><br><br><br><br><br>
+    <hr class="hrX">
 
-    <p>A FILOSOFIA CONTEMPORÂNEA E OS DESAFIOS ATUAIS</p>
+    <div class="box12">
+    <p class="text12">A FILOSOFIA CONTEMPORÂNEA E OS DESAFIOS ATUAIS</p>
+</div>
+    
     <p>A filosofia contemporânea continua a evoluir, enfrentando os desafios do século XXI, como as mudanças climáticas, as desigualdades globais, as transformações tecnológicas e as questões éticas relacionadas à biotecnologia e à inteligência artificial. Os debates contemporâneos não apenas tratam de questões antigas sob novas perspectivas, mas também introduzem problemas inéditos, que exigem novos modos de pensar e agir.</p>
     <p>Além disso, a ética contemporânea tem se debruçado sobre questões como a proteção dos direitos humanos em escala global, o respeito às diferenças culturais e o combate às opressões estruturais, como o racismo, o sexismo e a homofobia.</p>
 
