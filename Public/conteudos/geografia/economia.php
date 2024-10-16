@@ -36,7 +36,13 @@
     
     <div class="texto5">OS FATORES DE PRODUÇÃO</div>
     <div class="texto6">Para entender o funcionamento da economia, é importante conhecer os fatores de <br> produção, ou seja, os recursos necessários para produzir bens e serviços. São eles:</div>
+    
+    <div class="container1">
+    <div class="divisao1">-</div>
     <div class="texto15">TERRA</div>
+    <div class="divisao2">-</div>
+    </div>
+
     <div class="texto6">Refere-se aos recursos naturais, como solo, água, florestas, minérios e energia. Sem <br> esses recursos, não há como produzir alimentos, matérias-primas ou gerar energia.</div>
     <div class="linha1">-</div>
     <div class="texto15">TRABALHO</div>
@@ -60,6 +66,7 @@
     <div class="texto22">ECONOMIA MISTA</div>
     <div class="texto23"> A maioria dos países adota um sistema econômico misto, no qual coexistem setores de mercado livre e setores controlados pelo governo. O Brasil, por exemplo, tem uma economia mista, com empresas privadas e estatais, e o governo intervém na economia por meio de políticas fiscais e monetárias.</div>
     <div class="imagem10"><img src="../../../Resources/images/economia4.jpg"></div>
+
     <div class="texto7">-</div>
 
     <div class="texto8">O PAPEL DO GOVERNO NA ECONOMIA</div>
@@ -67,7 +74,10 @@
     &#9679;Política Fiscal: Diz respeito à maneira como o governo arrecada e gasta recursos. Através da política fiscal, o governo coleta impostos e decide como investir em áreas como saúde, educação e infraestrutura. O objetivo é promover o crescimento econômico, redistribuir renda e fornecer bens públicos essenciais.<br><br>
     &#9679;Política Monetária: Controlada pelos bancos centrais, essa política regula a quantidade de dinheiro em circulação e as taxas de juros, influenciando o nível de consumo, investimento e a inflação. O Banco Central do Brasil, por exemplo, ajusta as taxas de juros para controlar a inflação e estimular ou desacelerar a economia.<br><br>
     &#9679;Regulação e Legislação: O governo também estabelece regras para garantir que o mercado funcione de maneira justa e eficiente. Isso inclui leis trabalhistas, normas ambientais e regulamentações de setores estratégicos como telecomunicações e energia.</div>
-    <div class="imagem5"><img src="../../../Resources/images/bora7.png"></div>
+    <div class="barra4">-</div>
+    <div class="imagem5"><img src="../../../Resources/images/economia5.jpg"></div>
+    <div class="barra5">-</div>
+   
 
     <div class="texto10">INDICADORES ECONÔMICOS</div>
     <div class="texto11">Para medir o desempenho da economia, os economistas utilizam diversos indicadores. Alguns dos mais importantes são:</div>

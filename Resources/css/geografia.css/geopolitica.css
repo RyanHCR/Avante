@@ -36,6 +36,8 @@
     font-weight: bold;
     margin-left:25%;
     font-size: 20px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
+
 }
 .texto4{
     background-color: white; /* Cor de fundo do quadrado */
@@ -63,6 +65,7 @@
     width: 27%;
     margin-top: 6%;
     font-size: 20px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
 }
 .texto6{
     background-color: white; /* Cor de fundo do quadrado */
@@ -84,6 +87,7 @@
     font-weight: bold;
     margin-left:25%;
     font-size: 20px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
 }
 .texto8{
     background-color: white; /* Cor de fundo do quadrado */
@@ -104,6 +108,7 @@
     width: 27%;
     margin-top: 3%;
     font-size: 20px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
 }
 .texto10{
     background-color: white; /* Cor de fundo do quadrado */
@@ -141,6 +146,7 @@
     font-weight: bold;
     margin-left: 35%;
     font-size: 20px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
 }
 .linha2 {
     height: 2px; /* Altura da linha */
