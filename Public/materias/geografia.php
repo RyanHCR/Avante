@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conteúdos de geografia</title>
     <link rel="stylesheet" href="../../Resources/css/index.css">
+    <link rel="icon" type="image/png" href="../../Resources/images/astroneer2.png">
 </head>
 <body>
     

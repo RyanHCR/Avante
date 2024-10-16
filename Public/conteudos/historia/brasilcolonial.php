@@ -5,6 +5,7 @@
     <title>BRASIL COLONIAL</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/brasilcolonial.css">
+    <link rel="icon" type="image/png" href="../../Resources/images/astroneer2.png">
 </head>
 <body>
     
@@ -33,9 +34,26 @@
 <div class="box3">
     <p class="text2">A CHEGADA DOS PORTUGUESES (1500)</p>
     </div>
-
     <p class="texto1">A história do Brasil colonial começa oficialmente em 22 de abril de 1500, quando a esquadra comandada por Pedro Álvares Cabral chegou à costa brasileira. Embora o "descobrimento" seja uma questão controversa, dado que o território já era habitado por milhões de indígenas, foi a partir desse marco que o Brasil entrou no radar das potências europeias.</p>
-    <img src="../../../Resources/images/navegações1.jpg">
+    <div class="container">
+    <container class="bb">
+    <div class="image-div">
+        <img class="imageminsana" src="../../../Resources/images/navegações1.jpg" alt="Imagem Grande">
+    </div>
+    
+    <div class="colored-div"></div>
+    </container>
+    <div class="text-boxes">
+        <div class="text-box1">
+            <div class="title1">OBJETIVO INICIAL DOS PORTUGUESES:</div>
+            <p class="texto2">Exploração de riquezas naturais, como o pau-brasil, que seria a primeira grande fonte de riqueza explorada pelos colonizadores.</p>
+        </div>
+        <div class="text-box2">
+            <div class="title2">INTERESSES EUROPEUS:</div>
+            <p class="texto3"> A rota para as Índias e o comércio de especiarias eram os grandes objetivos econômicos dos portugueses. A exploração do Brasil, inicialmente, era secundária, mas isso mudou com o tempo.</p>
+        </div>
+    </div>
+</div>
 
     <p>OBJETIVO INICIAL DOS PORTUGUESES:</p>
     <p>Exploração de riquezas naturais, como o pau-brasil, que seria a primeira grande fonte de riqueza explorada pelos colonizadores.</p>
