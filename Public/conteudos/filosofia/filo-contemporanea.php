@@ -5,6 +5,7 @@
     <title>FILOSOFIA COMTEMPORÂNEA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/filosofia/contemporanea.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
     
@@ -95,9 +96,11 @@
     <p class="text61">2. Pragmatismo</p>
     </div>
     
+    
     <p class="text11">O pragmatismo é uma corrente filosófica de origem americana, surgida no final do século XIX com filósofos como Charles Sanders Peirce, William James e John Dewey. Essa corrente é caracterizada pela ideia de que o valor da verdade está ligado à sua utilidade prática e às suas consequências.</p>
     
-    <p>Para os pragmatistas, o foco da filosofia deve ser nas ações e nos resultados que as ideias produzem, em vez de buscar verdades absolutas. John Dewey também aplicou o pragmatismo à educação, defendendo uma abordagem mais democrática e experimental.</p>
+    <img class="img1" src="../../../Resources/images/SETA 5.png">
+    <p class="text00"><b>Para os pragmatistas, o foco da filosofia deve ser nas ações e nos resultados que as ideias produzem, em vez de buscar verdades absolutas. John Dewey também aplicou o pragmatismo à educação, defendendo uma abordagem mais democrática e experimental.</b></p>
     
     <br><br><br><br>
     <hr class="hrX">
@@ -118,8 +121,14 @@
     <p class="text61">4. Filosofia Continental</p>
     </div>
     <p class="text11">O termo "filosofia continental" é usado para se referir a uma série de tradições filosóficas que se desenvolveram na Europa continental, especialmente na França e na Alemanha. Dentre essas tradições, destacam-se o estruturalismo, o pós-estruturalismo e a fenomenologia.</p>
-    <p>A fenomenologia, desenvolvida por Edmund Husserl e posteriormente expandida por Martin Heidegger e Maurice Merleau-Ponty, foca na experiência subjetiva, tentando descrever os fenômenos tal como eles são vividos.</p>
-    <p>O estruturalismo e o pós-estruturalismo, liderados por pensadores como Michel Foucault, Jacques Derrida e Roland Barthes, questionam as noções tradicionais de poder, identidade e conhecimento, mostrando como essas categorias são historicamente construídas e moldadas pelas estruturas sociais e culturais.</p>
+
+<div class="borda">
+    <img class="img2" src="../../../Resources/images/SETA 5.png">
+    <p class="text01">A fenomenologia, desenvolvida por Edmund Husserl e posteriormente expandida por Martin Heidegger e Maurice Merleau-Ponty, foca na experiência subjetiva, tentando descrever os fenômenos tal como eles são vividos.</p>
+    
+    <img class="img2" src="../../../Resources/images/SETA 5.png">
+    <p class="text01">O estruturalismo e o pós-estruturalismo, liderados por pensadores como Michel Foucault, Jacques Derrida e Roland Barthes, questionam as noções tradicionais de poder, identidade e conhecimento, mostrando como essas categorias são historicamente construídas e moldadas pelas estruturas sociais e culturais.</p>
+</div> 
 
     <br><br><br><br>
     <hr class="hrX">
@@ -130,8 +139,14 @@
     
     <p class="text11">A Teoria Crítica surgiu na primeira metade do século XX, especialmente ligada à Escola de Frankfurt, com pensadores como Theodor Adorno, Max Horkheimer, Herbert Marcuse e, posteriormente, Jürgen Habermas. A Teoria Crítica se propõe a entender e criticar as estruturas de poder e dominação na sociedade contemporânea, especialmente no contexto do capitalismo e da sociedade de massas.</p>
 
-    <p>Adorno e Horkheimer, em sua obra Dialética do Esclarecimento, argumentam que a razão, ao invés de libertar a humanidade, acabou sendo instrumentalizada, contribuindo para formas de controle e opressão.</p>
-    <p>Habermas, um dos últimos grandes teóricos da Escola de Frankfurt, focou no conceito de ação comunicativa e na ideia de uma esfera pública democrática, onde o discurso racional poderia promover a emancipação social.</p>
+    <div class="boxes">
+    <div class="box81">
+        <p><b>Adorno e Horkheimer</b>, em sua obra Dialética do Esclarecimento, argumentam que a razão, ao invés de libertar a humanidade, acabou sendo instrumentalizada, contribuindo para formas de controle e opressão.</p>
+    </div>
+    <div class="box91">
+        <p><b>Habermas: </b>, um dos últimos grandes teóricos da Escola de Frankfurt, focou no conceito de ação comunicativa e na ideia de uma esfera pública democrática, onde o discurso racional poderia promover a emancipação social.</p>
+    </div>
+</div>
 
     <br><br><br><br>
     <hr class="hrX">
@@ -141,17 +156,31 @@
     </div>
 
     <p class="text11">A filosofia política contemporânea é dominada por discussões em torno da justiça, da igualdade e dos direitos humanos. Um dos maiores expoentes desse campo é John Rawls, com sua obra Uma Teoria da Justiça, onde ele propõe o "véu da ignorância" como um método para pensar princípios de justiça social. Outro importante filósofo contemporâneo é Michel Foucault, que se dedicou a estudar as formas de poder e como elas operam na sociedade moderna.</p>
-    <p>Rawls propõe uma sociedade baseada em princípios de equidade e justiça, onde as instituições sociais devem garantir a igualdade de oportunidades e a proteção dos menos favorecidos.</p>
-    <img src="../../../Resources/images/contemporanea5.jpg">
 
-    <p>Foucault analisa o poder de forma descentralizada, mostrando como ele permeia todas as relações sociais e instituições, desde as prisões até as escolas e os hospitais.</p>
-    <img src="../../../Resources/images/contemporanea6.jpg">
+    <div>
+    <img src="../../../Resources/images/contemporanea5.jpg" class="image-left">
+    <p class="text3"> <b>Rawls</b> propõe uma sociedade baseada em princípios de equidade e justiça, onde as instituições sociais devem garantir a igualdade de oportunidades e a proteção dos menos favorecidos.</p>
+    </div>
+  
+    <div class="container1">
+    
+    <p class="text31"><b>Foucault</b> analisa o poder de forma descentralizada, mostrando como ele permeia todas as relações sociais e instituições, desde as prisões até as escolas e os hospitais.</p>
+   <img class="image-right3" src="../../../Resources/images/contemporanea6.jpg">  
+    </div>
+    <br><br><br><br><br><br>
+    <hr class="hrX">
 
-    <p>A FILOSOFIA CONTEMPORÂNEA E OS DESAFIOS ATUAIS</p>
-    <p>A filosofia contemporânea continua a evoluir, enfrentando os desafios do século XXI, como as mudanças climáticas, as desigualdades globais, as transformações tecnológicas e as questões éticas relacionadas à biotecnologia e à inteligência artificial. Os debates contemporâneos não apenas tratam de questões antigas sob novas perspectivas, mas também introduzem problemas inéditos, que exigem novos modos de pensar e agir.</p>
-    <p>Além disso, a ética contemporânea tem se debruçado sobre questões como a proteção dos direitos humanos em escala global, o respeito às diferenças culturais e o combate às opressões estruturais, como o racismo, o sexismo e a homofobia.</p>
+    <div class="box12">
+    <p class="text12">A FILOSOFIA CONTEMPORÂNEA E OS DESAFIOS ATUAIS</p>
+</div>
+    
 
-
+        <br><br>
+    <div class="texto12">
+        <p>A filosofia contemporânea continua a evoluir, enfrentando os desafios do século XXI, como as mudanças climáticas, as desigualdades globais, as transformações tecnológicas e as questões éticas relacionadas à biotecnologia e à inteligência artificial. Os debates contemporâneos não apenas tratam de questões antigas sob novas perspectivas, mas também introduzem problemas inéditos, que exigem novos modos de pensar e agir.</p><br><br>
+        <p>Além disso, a ética contemporânea tem se debruçado sobre questões como a proteção dos direitos humanos em escala global, o respeito às diferenças culturais e o combate às opressões estruturais, como o racismo, o sexismo e a homofobia.</p><br><br>
+    </div>
+    <footer><br></br></footer>
     
     <style>
 

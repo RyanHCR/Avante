@@ -4,6 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FILOSOFIA MODERNA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/filosofia/moderna.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
     
@@ -20,11 +22,24 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
+<div class="sub-header">
+    <p>FILOSOFIA MODERNA</p>
+</div>
 
     <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
-    <p>A Filosofia Moderna caracteriza-se, principalmente, por uma guinada ao Humanismo, iniciada no Renascentismo, e pela valorização incondicional à razão trazida à luz pelo ceticismo e pela descoberta de que o ser humano independe de instâncias racionais metafísicas, como Deus, para descobrir o seu intelecto.</p>
     
-    <img src="../../../Resources/images/moderna1.jpeg">
+    <div class="box1">
+    <p class="text1">A Filosofia Moderna caracteriza-se, principalmente, por uma guinada ao Humanismo, iniciada no Renascentismo, e pela valorização incondicional à razão trazida à luz pelo ceticismo e pela descoberta de que o ser humano independe de instâncias racionais metafísicas, como Deus, para descobrir o seu intelecto.</p>
+    </div>
+
+<br><br>
+
+    <div class="container1">
+    <img class="img1" src="../../../Resources/images/moderna1.jpeg"> 
+
+    <p class="text3">A filosofia moderna começa no século XV quando tem início a Idade Moderna. Ela permanece até o século XVIII, com a chegada da Idade Contemporânea. Ela marca uma transição do pensamento medieval, fundamentado na fé e nas relações entre os homens e Deus, para o pensamento antropocêntrico, marca da modernidade, que eleva a humanidade a um novo status como o grande objeto de estudo.</p> 
+    </div>
+    
     <p>A filosofia moderna começa no século XV quando tem início a Idade Moderna. Ela permanece até o século XVIII, com a chegada da Idade Contemporânea. Ela marca uma transição do pensamento medieval, fundamentado na fé e nas relações entre os homens e Deus, para o pensamento antropocêntrico, marca da modernidade, que eleva a humanidade a um novo status como o grande objeto de estudo.</p>
     <img src="../../../Resources/images/moderna2.jpeg">
 
