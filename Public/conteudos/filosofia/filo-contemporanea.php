@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FILOSOFIA COMTEMPORÂNEA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
-    <link rel="stylesheet" href="../../../Resources/css/contemporanea.css">
+    <link rel="stylesheet" href="../../../Resources/css/filosofia/contemporanea.css">
 </head>
 <body>
     

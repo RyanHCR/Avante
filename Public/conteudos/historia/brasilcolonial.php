@@ -54,29 +54,70 @@
         </div>
     </div>
 </div>
+<div class="container4">
+<div class="box4">
+    <p class="texto4">O ENCONTRO COM OS INDÍGENAS:</p>
+    </div>
+    <div class="justifiedtext">Cabral e sua tripulação foram recebidos pelos povos indígenas, que já habitavam o território brasileiro há milhares de anos. Esses primeiros contatos, inicialmente amigáveis, tornaram-se, ao longo do tempo, cada vez mais conflituosos.</div>
+</div>
+<hr class="hrX">
 
-    <p>OBJETIVO INICIAL DOS PORTUGUESES:</p>
-    <p>Exploração de riquezas naturais, como o pau-brasil, que seria a primeira grande fonte de riqueza explorada pelos colonizadores.</p>
-    
-    <p>INTERESSES EUROPEUS:</p>
-    <p>A rota para as Índias e o comércio de especiarias eram os grandes objetivos econômicos dos portugueses. A exploração do Brasil, inicialmente, era secundária, mas isso mudou com o tempo.</p>
+<br><br><br>
+<div class="box7-container">
+    <div class="box7">
+        <p>O PAPEL DOS INDÍGENAS NO BRASIL COLONIAL</p>
+    </div>
+    <hr class="hr6">
+</div>
 
-    <p>O ENCONTRO COM OS INDÍGENAS</p>
-    <p>Cabral e sua tripulação foram recebidos pelos povos indígenas, que já habitavam o território brasileiro há milhares de anos. Esses primeiros contatos, inicialmente amigáveis, tornaram-se, ao longo do tempo, cada vez mais conflituosos.</p>
+    <p class="aaa">Antes da chegada dos europeus, estima-se que havia cerca de 2 a 5 milhões de indígenas vivendo no atual território brasileiro, pertencentes a diversos grupos étnicos, com culturas, línguas e modos de vida variados. Os principais grupos eram os Tupi-Guarani, Jê, Arawak e Karib.</p>
 
-    <p>O PAPEL DOS INDÍGENAS NO BRASIL COLONIAL</p>
-    <p>Antes da chegada dos europeus, estima-se que havia cerca de 2 a 5 milhões de indígenas vivendo no atual território brasileiro, pertencentes a diversos grupos étnicos, com culturas, línguas e modos de vida variados. Os principais grupos eram os Tupi-Guarani, Jê, Arawak e Karib.</p>
+    <hr class="hrX">
+    <br><br>
+    <div class="box5">
+    <p class="texto5">ORGANIZAÇÃO SOCIAL E CULTURA INDÍGENA</p>
+    </div>
 
-    <p>ORGANIZAÇÃO SOCIAL E CULTURA INDÍGENA</p>
-    <p>Os povos indígenas no Brasil apresentavam uma diversidade impressionante de modos de vida, que iam desde sociedades mais sedentárias e agrícolas até grupos nômades e caçadores-coletores.</p>
+    <p class="justifiedtext2">Os povos indígenas no Brasil apresentavam uma diversidade impressionante de modos de vida, que iam desde sociedades mais sedentárias e agrícolas até grupos nômades e caçadores-coletores.</p>
 
-    <p>DIVERSIDADE CULTURAL INDÍGENA</p>
-    <p>Diferentes grupos possuíam línguas, tradições, rituais e formas de organização próprias. Os Tupi-Guarani, por exemplo, eram agricultores e viviam próximos ao litoral, enquanto os grupos Jê eram mais móveis e caçadores.</p>
-    <img src="../../../Resources/images/navegações2.jpg">
+<div class="flexbox">
+    <img class="navegacoes" src="../../../Resources/images/navegações2.jpg">
+    <div class="containerbacana">
+    <div class="box6">
+    <p class="texto6">DIVERSIDADE CULTURAL INDÍGENA</p>
+    </div>
+    <p class="texto7">Diferentes grupos possuíam línguas, tradições, rituais e formas de organização próprias. Os Tupi-Guarani, por exemplo, eram agricultores e viviam próximos ao litoral, enquanto os grupos Jê eram mais móveis e caçadores.</p>
+    <hr class="hrX1">
+    </div>
+</div>
 
-    <p>RELIGIÃO E COSMOVISÃO</p>
-    <p>A espiritualidade indígena era baseada em uma relação profunda com a natureza. Eles acreditavam em seres espirituais que habitavam os elementos naturais, como florestas, rios e animais.</p>
-    <img src="../../../Resources/images/navegações3.jpg">
+<div class="flexbox">
+
+    <div class="containerbacana2">
+    <div class="box6">
+    <p class="texto6">RELIGIÃO E COSMOVISÃO</p>
+    </div>
+    <p class="texto7">A espiritualidade indígena era baseada em uma relação profunda com a natureza. Eles acreditavam em seres espirituais que habitavam os elementos naturais, como florestas, rios e animais.</p>
+    <hr class="hrX1">
+    </div>
+    <img class="navegacoes2" src="../../../Resources/images/navegações3.jpg">
+</div>
+
+<div class="flexbox">
+    <img class="navegacoes" src="../../../Resources/images/navegações4.jpg">
+    <div class="containerbacana">
+    <div class="box6">
+    <p class="texto6">ECONOMIA INDÍGENA</p>
+    </div>
+    <p class="texto7">Os indígenas praticavam uma economia de subsistência, baseada na agricultura (especialmente mandioca, milho e batata-doce), pesca, caça e coleta.</p>
+    <hr class="hrX1">
+</div>
+</div>
+<div class="block"></div>   
+
+<div class="box8">
+    <p class="text8">CONTEXTO HISTÓRICO</p>
+    </div>
 
     <p>ECONOMIA INDÍGENA</p>
     <p>Os indígenas praticavam uma economia de subsistência, baseada na agricultura (especialmente mandioca, milho e batata-doce), pesca, caça e coleta.</p>

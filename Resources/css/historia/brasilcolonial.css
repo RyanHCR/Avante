@@ -79,17 +79,18 @@ p {
 }
 
 .image-div img {
-    width: 200%;
-    margin-left: 135px;
-    height: auto;
+    width: 900px;
+    margin-left: 170px;
+    height: 450px;
     display: block;
+    margin-top: -25px;
 }
 
 .text-boxes {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 20px; /* Espaçamento entre as divs */
+    margin-right: 100px;
 }
 
 .text-box1 {
@@ -106,15 +107,16 @@ p {
 }
 
 .colored-div{
-    height: 100px;
-    width: 1300px;
-    background-color: #B5F5FF;
-    margin-left: 200px;
+    height: 150px;
+    width: 900px;
+    background-color: #2F91A0;
+    margin-left: 170px;
+    margin-top: 50px;
 }
 
 .imageminsana{
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
 }
 
 .title2 {
@@ -132,4 +134,176 @@ width: 300px;
 
 .texto3{
     width: 300px;
+}
+
+.box4 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 400px;
+    margin-left: 190px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.texto4 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    padding-bottom:5px;
+    margin-top: 10px;
+}
+
+.container4{
+    display: flex;
+}
+
+.justifiedtext{
+    font-size: 20px;
+    width: 800px;
+    margin-left: 10px;
+}
+
+.hrX{
+    width: 1106;
+    position: relative;
+    border: 2px solid #6FC3D0;
+    margin-left: 215px;
+    top:20px;
+}
+
+.box7-container {
+    display: flex;
+    align-items: center; 
+    width: 100%; 
+    margin-left: 37px;
+}
+
+.box7 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 544px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-left: 180PX;
+}
+
+.hr6{
+    width: 544px;
+    height: 70px;
+    background-color: #2F91A0;
+    margin-right: 250px;
+}
+
+.aaa{
+    width: 1100px;
+    margin-left: 225px;
+}
+
+.box5 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 520px;
+    margin-left: 520px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.texto5{
+    font-size: 20px;
+    padding-bottom:5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+.justifiedtext2{
+    width: 1100px;
+    margin-left: 220;
+}
+
+.box6 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 520px;
+    margin-left: 30px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+}
+
+.texto6{
+    font-size: 20px;
+    padding-bottom:5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.texto7{
+    padding-bottom:5px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.hrX1{
+    width: 550;
+    position: relative;
+    border: 2px solid #6FC3D0;
+    top:20px;
+    margin-left:27px;
+}
+
+.containerbacana{
+    margin-right: 200px;
+    margin-top: 50;
+}   
+
+.flexbox{
+    display: flex;
+}
+
+.navegacoes{
+    margin-left: 220px;
+}
+
+.containerbacana2{
+    margin-left: 200px;
+    margin-top: 50;
+}   
+
+.block{
+    width: 1106;
+    height: 50px;
+    background-color: #2F91A0;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.box8 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 1120px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.text8 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 23px;
 }
