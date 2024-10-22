@@ -2,16 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BRASIL COLONIAL</title>
+    <title>Brasil colonial</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/brasilcolonial.css">
-    <link rel="icon" type="image/png" href="../../Resources/images/astroneer2.png">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
     
 <header class="header">
     <div class="left-buttons">
-        <a href="../../materias/historia.php"><button class="nav-button">HISTÓRIA</button></a>
+    <a href="historia.php"><button class="nav-button"style="color:#356A72">HISTÓRIA</button></a>
         <a href="../../materias/geografia.php"><button class="nav-button">GEOGRAFIA</button></a>
     </div>
     <div class="logo-container">
@@ -22,6 +22,10 @@
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
+
+<div class="sub-header">
+    <p>BRASIL COLONIAL</p>
+</div>
 
     <a href="../../materias/historia.php" class="button-back">VOLTAR</a>
     <div class="box1">
@@ -119,38 +123,80 @@
     <p class="text8">CONTEXTO HISTÓRICO</p>
     </div>
 
-    <p>ECONOMIA INDÍGENA</p>
-    <p>Os indígenas praticavam uma economia de subsistência, baseada na agricultura (especialmente mandioca, milho e batata-doce), pesca, caça e coleta.</p>
-    <img src="../../../Resources/images/navegações4.jpg">
+    <p class="justifiedtext3">Com a chegada dos portugueses e a colonização do Brasil, a relação entre indígenas e colonizadores rapidamente se deteriorou. Os indígenas foram submetidos a processos de escravização, expropriação de terras e imposição da cultura europeia, particularmente do cristianismo.</p>
+<br><br>
+    <div class="overlay-div">ESCRAVIDÃO INDÍGENA</div>
+    <div class="item-abolicionista">
+        <div class="number-circle">1</div>
+        <span class="highlight2">Nos primeiros anos da colonização, os indígenas foram amplamente explorados como mão de obra escrava. A resistência indígena era constante, levando à fuga e à formação de aldeias em locais remotos.
+    </div>
+    <div class="box11-container">
+<hr class="hr7">
+<img class="imagecenter"src="../../../Resources/images/navegações5.jpg">
+<hr class="hr8">
+    </div>
+    <br><br><br>
 
-    <p>CONTEXTO HISTÓRICO</p>
-    <p>Com a chegada dos portugueses e a colonização do Brasil, a relação entre indígenas e colonizadores rapidamente se deteriorou. Os indígenas foram submetidos a processos de escravização, expropriação de terras e imposição da cultura europeia, particularmente do cristianismo.</p>
+    <div class="overlay-div2">O PACTO COM OS JESUÍTAS</div>
+    <div class="item-abolicionista">
+        <div class="number-circle">2</div>
+        <span class="highlight2">No início, as tentativas de escravização foram acompanhadas pela chegada de missionários jesuítas, que viam os indígenas como "almas a serem salvas". Eles fundaram missões, ou aldeamentos, onde tentavam converter os indígenas ao catolicismo e ensinar costumes europeus para também controlar e "civilizar" os nativos. Os jesuítas, no entanto, também protegiam os indígenas da escravização direta por colonos,transformando seu modo de vida e suas práticas culturais.
+    </div>
+    <div class="box11-container">
+<hr class="hr9">
+<img class="imagecenter"src="../../../Resources/images/navegações6.jpg">
+<hr class="hr10">
+    </div>
+<br><br><br>
 
-    <p>ESCRAVIDÃO INDÍGENA:</p>
-    <p>1. Nos primeiros anos da colonização, os indígenas foram amplamente explorados como mão de obra escrava. A resistência indígena era constante, levando à fuga e à formação de aldeias em locais remotos.</p>
-    <img src="../../../Resources/images/navegações5.jpg">
+    <div class="overlay-div2">DOENÇAS</div>
+    <div class="item-abolicionista">
+        <div class="number-circle">3</div>
+        <span class="highlight2">A chegada dos europeus trouxe também novas doenças, como varíola, gripe e sarampo, que dizimaram grande parte da população indígena, já que os nativos não possuíam imunidade contra esses males.
+    </div>
+    <div class="box11-container">
+<hr class="hr11">
+<img class="imagecenter"src="../../../Resources/images/navegações7.jpg">
+<hr class="hr12">
+    </div>
+    <hr class="hrX">
+    <div class="box9">
+    <p class="texto9">RESISTÊNCIA E REVOLTAS INDÍGENAS</p>
+    </div>
 
-    <p>O PACTO COM OS JESUÍTAS</p>
-    <p>2. No início, as tentativas de escravização foram acompanhadas pela chegada de missionários jesuítas, que viam os indígenas como "almas a serem salvas". Eles fundaram missões, ou aldeamentos, onde tentavam converter os indígenas ao catolicismo e ensinar costumes europeus para também controlar e "civilizar" os nativos. Os jesuítas, no entanto, também protegiam os indígenas da escravização direta por colonos,transformando seu modo de vida e suas práticas culturais.</p>
-    <img src="../../../Resources/images/navegações6.jpg">
+    <p class="justifiedtext2">Os povos indígenas não aceitaram passivamente a colonização. Ao longo do período colonial, muitas tribos resistiram à invasão de suas terras e à tentativa de escravização. Essa resistência assumiu várias formas, desde fugas até confrontos violentos.</p>
 
-    <p>DOENÇAS</p>
-    <p>3. A chegada dos europeus trouxe também novas doenças, como varíola, gripe e sarampo, que dizimaram grande parte da população indígena, já que os nativos não possuíam imunidade contra esses males.</p>
-    <img src="../../../Resources/images/navegações7.jpg">
+<div class="divinsana">
+<div>
+    <div class="box10">
+    <p class="texto10">GUERRAS DE RESISTÊNCIA</p>
+    </div>
+    <div class="block13">
+        <p class="a13">Ao longo de todo o período colonial, diversas tribos entraram em conflito com os colonizadores, como os Tupinambás e os Aimorés. A Confederação dos Tamoios (1554-1567) é um dos exemplos mais conhecidos de resistência organizada contra os portugueses no litoral sudeste do Brasil.</p>
+    </div>
+    </div>
+    <div class="block2">
+    <div class="box10">
+    <p class="texto10">ALIANÇAS INDÍGENAS</p>
+    </div>
+    <div class="block22">
+        <p class="a22">Em muitos casos, os indígenas formaram alianças com os colonizadores, geralmente para lutar contra tribos rivais. Essas alianças eram estratégicas para ambos os lados, especialmente durante as invasões francesas e holandesas no Brasil.</p>
+        </div>
+</div>
+</div>
 
-    <p>RESISTÊNCIA E REVOLTAS INDÍGENAS</p>
-    <p>Os povos indígenas não aceitaram passivamente a colonização. Ao longo do período colonial, muitas tribos resistiram à invasão de suas terras e à tentativa de escravização. Essa resistência assumiu várias formas, desde fugas até confrontos violentos.</p>
 
-    <p>GUERRAS DE RESISTÊNCIA</p>
-    <p>Ao longo de todo o período colonial, diversas tribos entraram em conflito com os colonizadores, como os Tupinambás e os Aimorés. A Confederação dos Tamoios (1554-1567) é um dos exemplos mais conhecidos de resistência organizada contra os portugueses no litoral sudeste do Brasil.</p>
-
-    <p>ALIANÇAS INDÍGENAS</p>
-    <p>Em muitos casos, os indígenas formaram alianças com os colonizadores, geralmente para lutar contra tribos rivais. Essas alianças eram estratégicas para ambos os lados, especialmente durante as invasões francesas e holandesas no Brasil.</p>
-
-    <p>QUILOMBOS E SOCIEDADE DE REFÚGIO</p>
-    <p>Em áreas mais remotas, como a Amazônia, muitos grupos indígenas conseguiram se isolar e resistir de maneira mais efetiva ao avanço colonial, preservando seus modos de vida.</p>
+    <div class="block3">
+    <div class="box101">
+    <p class="texto10">QUILOMBOS E SOCIEDADES DE REFÚGIO</p>
+    </div>
+    <div class="block33"><p class="a33">Em áreas mais remotas, como a Amazônia, muitos grupos indígenas conseguiram se isolar e resistir de maneira mais efetiva ao avanço colonial, preservando seus modos de vida.</p>
+    </div>
+    </div>
+    </div>
     <img src="../../../Resources/images/navegações8.jpg">
-
+</div>
+</div>
     <p>A COLONIZAÇÃO E O SISTEMA DE CAPITANIAS HEREDITÁRIAS (1530 - 1549)</p>
     <p>A colonização do Brasil de forma sistemática só começou na década de 1530, quando a Coroa Portuguesa passou a enfrentar ameaças estrangeiras (franceses e holandeses) e percebeu o potencial econômico do território.</p>
     <p>Capitanias Hereditárias: Em 1534, o rei Dom João III dividiu o Brasil em 15 capitanias, que foram entregues a nobres e fidalgos portugueses. O sistema falhou em grande parte, exceto pelas capitanias de São Vicente e Pernambuco.</p>
@@ -210,16 +256,6 @@
     <p>PRINCIPAIS HERANÇAS:</p>
     <p>Diversidade Cultural: A influência indígena na cultura, língua e tradições do Brasil moderno é imensa, apesar dos esforços coloniais de apagamento cultural.</p>
     <p>Resistência e Resiliência Indígena: Apesar da violência sofrida, os povos indígenas continuam a lutar por seus direitos e pela preservação de suas culturas e terras.</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
 
     <style>
 

@@ -294,8 +294,8 @@ width: 300px;
 .box8 {
     background-color: #B5F5FF;
     height: 70px;
-    width: 1120px;
-    margin-left: 220px;
+    width: 1105px;
+    margin-left: 201px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
@@ -305,5 +305,241 @@ width: 300px;
 .text8 {
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
-    padding-top: 23px;
+    padding-top: 20px;
+}
+
+.justifiedtext3{
+    width: 1100px;
+    margin-left: 220;
+}
+
+.item-abolicionista {
+    background-color: #DEFAFF;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 60px; 
+    border: 1px solid #B5F5FF;
+    width: 1000px;
+    font-size: 22px;
+    margin-left: 220px;
+}
+
+.number-circle {
+    background-color: #6FC3D0;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border:1px solid #000000;
+    text-shadow: 1px 1px 1px black, -1px 1px 0px black, 1px -1px 0px black, -1px -1px 0px black;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    font-size: 20px;
+}
+
+.highlight2 {
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.overlay-div {
+    border-radius: 30px;
+    border: 2px solid;
+    background-color: #6FC3D0;
+    margin-left: 300px;
+    top:39px;
+    font-size: 23px;
+    width: 315px;
+    height:50px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-content: center;
+  }
+
+  .overlay-div2 {
+    border-radius: 30px;
+    border: 2px solid;
+    background-color: #6FC3D0;
+    margin-left: 300px;
+    top:39px;
+    font-size: 23px;
+    width: 350px;
+    height:50px;
+    text-shadow: rgb(103, 103, 103) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-content: center;
+  }
+
+  .box11-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-top: 13px;
+    gap:30px;
+}
+
+.image-center {
+    background-color: #B5F5FF;
+    height: 339px;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.hr7 {
+    width: 150px;
+    height: 470px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr8{
+    width: 150px;
+    height: 470px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+.hr9{
+    width: 150px;
+    height: 500px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr10{
+    width: 150px;
+    height: 500px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+.hr11{
+    width: 150px;
+    height: 430px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr12{
+    width: 150px;
+    height: 430px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+.box9 {
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 400px;
+    margin-left: 920px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.texto9 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    padding-top: 10px;
+    margin-top:50px
+}
+
+.block12{
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 400px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.block21{
+    background-color: #2F91A0;
+    height:40px;
+}
+
+.block32{
+    background-color: #2F91A0;
+    height:40px;
+}
+
+.box10 {
+    background-color: #2F91A0;
+    height: 50px;
+    width: 480px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.texto10 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    padding-top: 10px;
+    margin-top:50px;
+    color: white;
+}
+
+
+.block13{
+    background-color: #B5F5FF;
+    border-radius: 30px;
+    height:260px;
+    width:500px;
+    padding:30px
+}
+
+
+.block22{
+    background-color: #B5F5FF;
+    border-radius: 30px;
+    height:260px;
+    width:500px;
+    padding:30px
+}
+
+.block33{
+    background-color: #B5F5FF;
+    border-radius: 30px;
+    height:180px;
+    width:500px;
+    padding:30px;
+    margin-left: 490px;
+    display: flex;
+}
+
+.divinsana{
+    display:flex ;
+    margin-left: 200px;
+    gap:20px
+}
+
+.box101 {
+    background-color: #2F91A0;
+    height: 50px;
+    width: 480px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 530px;
 }

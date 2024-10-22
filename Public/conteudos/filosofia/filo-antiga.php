@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FILOSOFIA ANTIGA</title>
+    <title>Filosofia antiga</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/filosofia/filosoantiga.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 
 <body>
@@ -20,7 +21,7 @@
         </div>
         <div class="right-buttons">
             <a href="../../materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
-            <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
+            <a href="filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
         </div>
     </header>
 
@@ -28,7 +29,7 @@
         <p>FILOSOFIA ANTIGA </p>
     </div>
 
-    <a href="../../materias/historia.php" class="button-back">VOLTAR</a> <br><br><br>
+    <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a> <br><br><br>
     <div class="box1">
         <p class="text1">A Filosofia Antiga corresponde ao período do surgimento da filosofia grega no século VII
             a.C. Ela surge da necessidade de explicar o mundo de um novo modo. Os filósofos buscam encontrar respostas

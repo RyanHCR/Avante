@@ -2,8 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>Sociólogos brasileiros</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
     
@@ -16,11 +17,13 @@
         <img src="../../../Resources/images/logo.jpeg" alt="Logo" class="logo">
     </div>
     <div class="right-buttons">
-        <a href="../../materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
+    <a href="sociologia.php"><button class="nav-button"style="color:#356A72">SOCIOLOGIA</button></a>
         <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
     </div>
 </header>
-
+<div class="sub-header">
+    <p>SOCIÓLOGOS BRASILEIROS</p>
+</div>
     <a href="../../materias/sociologia.php" class="button-back">VOLTAR</a>
     <p>Gilberto Freyre, Caio Prado Júnior e Sérgio Buarque de Holanda deram forma científica à Sociologia brasileira. Amparados, respectivamente, nas obras de Franz Boas, Karl Marx e Max Weber, tornaram-se decisivos para os rumos da Sociologia no país.</p>
 
