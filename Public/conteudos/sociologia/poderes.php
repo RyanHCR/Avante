@@ -20,7 +20,7 @@
             <img src="../../../Resources/images/logo.jpeg" alt="Logo" class="logo">
         </div>
         <div class="right-buttons">
-        <a href="sociologia.php"><button class="nav-button"style="color:#356A72">SOCIOLOGIA</button></a>
+        <a href="../../materias/sociologia.php"><button class="nav-button"style="color:#356A72">SOCIOLOGIA</button></a>
             <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
         </div>
     </header>

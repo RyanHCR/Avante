@@ -21,7 +21,7 @@
         </div>
         <div class="right-buttons">
             <a href="../../materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
-            <a href="filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
+            <a href="../../materias/filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
         </div>
     </header>
 
