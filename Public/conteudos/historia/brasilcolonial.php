@@ -143,10 +143,11 @@
         <span class="highlight2">No início, as tentativas de escravização foram acompanhadas pela chegada de missionários jesuítas, que viam os indígenas como "almas a serem salvas". Eles fundaram missões, ou aldeamentos, onde tentavam converter os indígenas ao catolicismo e ensinar costumes europeus para também controlar e "civilizar" os nativos. Os jesuítas, no entanto, também protegiam os indígenas da escravização direta por colonos,transformando seu modo de vida e suas práticas culturais.
     </div>
     <div class="box11-container">
-<hr class="hr9">
+<hr class="hr11">
 <img class="imagecenter"src="../../../Resources/images/navegações6.jpg">
-<hr class="hr10">
+<hr class="hr12">
     </div>
+    
 <br><br><br>
 
     <div class="overlay-div2">DOENÇAS</div>
@@ -282,12 +283,20 @@
 
     <p class="justifiedtext2">A escravidão foi a base da economia e da sociedade colonial. Estima-se que cerca de 4,9 milhões de africanos tenham sido trazidos para o Brasil entre os séculos XVI e XIX, somando-se à exploração da mão de obra indígena nos primeiros anos.</p>
 
-    <div class="border">
-    <p>Tráfico Negreiro e Escravidão Indígena:</p><p> Embora o tráfico de africanos tenha predominado, durante os primeiros anos de colonização, muitos indígenas foram escravizados e forçados a trabalhar nos engenhos e na extração de pau-brasil. Os indígenas que não conseguiam escapar dessa realidade enfrentavam condições de trabalho exaustivas, semelhantes às impostas aos africanos mais tarde.</p>
-    <p style="background-color:#B5F5FF"> Condições de Vida e Resistência:</p><p> A resistência indígena se manifestava através de fugas, rebeliões e a formação de quilombos e outras formas de sociedades alternativas.</p>
+<div class="border">
+    <p class="text64"><span class="highlight">Tráfico Negreiro e Escravidão Indígena:</span>Embora o tráfico de africanos tenha predominado, durante os primeiros anos de colonização, muitos indígenas foram escravizados e forçados a trabalhar nos engenhos e na extração de pau-brasil. Os indígenas que não conseguiam escapar dessa realidade enfrentavam condições de trabalho exaustivas, semelhantes às impostas aos africanos mais tarde.</p>
+    <p class="text65"><span class="highlight">Condições de Vida e Resistência:</span>A resistência indígena se manifestava através de fugas, rebeliões e a formação de quilombos e outras formas de sociedades alternativas.</p>
 </div>
-    <p>CICLO DO OURO (SÉCULO XVIII)</p>
-    <p>No final do século XVII, o Brasil entrou em uma nova fase de exploração econômica com a descoberta de ouro em Minas Gerais. O ciclo do ouro marcou profundamente a economia, a política e a sociedade colonial.</p>
+<br><br><br>
+<div class="flexbox">
+
+<div class="box30">
+    <p class="text51">CICLO DO OURO (SÉCULO XVIII)</p>
+</div>
+
+</div>
+
+    No final do século XVII, o Brasil entrou em uma nova fase de exploração econômica com a descoberta de ouro em Minas Gerais. O ciclo do ouro marcou profundamente a economia, a política e a sociedade colonial.</p>
 
     <p>Exploração Aurífera e Impacto Indígena: A corrida pelo ouro também afetou as populações indígenas que viviam nas regiões mineradoras, muitas vezes deslocadas ou exterminadas pelas incursões coloniais.</p>
     <p>A Coroa Portuguesa cobrava impostos pesados sobre a produção de ouro, especialmente o "quinto", que correspondia a 20% do ouro extraído.</p>
