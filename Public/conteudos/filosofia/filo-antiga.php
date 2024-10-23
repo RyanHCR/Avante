@@ -103,8 +103,7 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
     <div class="box3">
 
         <p class="text7">SÓCRATES (469–399 a.C.)</p>
-        <hr class="hr9  ">
-        <hr class="hr9  ">
+       
    
     <p class="text8">Foco: A virtude e o conhecimento. Sócrates é famoso por sua máxima "Só sei que nada sei" e
         pelo uso da maiêutica, um método de questionamento para atingir o conhecimento.
@@ -113,15 +112,15 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
  </div>
 
-<hr class="hr22">
+
 
     <div class="box4">
 
 <p class="text7">PRÉ-SOCRÁTICOS</p>
         
-<hr class="hr9  ">
 
-    
+
+<div class="hr30">
 
     <p class="text8">Foco: Esses primeiros filósofos buscavam explicações naturais para a origem do universo
         (cosmogonia) e a natureza das coisas.
@@ -194,19 +193,13 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 </body>
 </html>
+
   <img class="image-center2" src="../../../Resources/images/antiga2.jpeg">
   <div class="box2"></div>
   <br>
-  <hr class="hr7  ">
-  <br>
-  <hr class="hr30  ">
+
   <br>
   
-    <br>
-    <hr class="hr8  ">
-    <br>
-    <hr class="hr31 ">
-    <br>
     <div class="box22"></div>
   
   
@@ -352,15 +345,11 @@ Ceticismo: Defendido por Pirro de Élis, argumentava que o conhecimento absoluto
 
   <div class="box2"></div>
   <br>
-  <hr class="hr7  ">
-  <br>
-  <hr class="hr30  ">
+
   <br>
     <img class="image-center2" src="../../../Resources/images/antiga7.jpeg">
     <br>
-    <hr class="hr8  ">
-    <br>
-    <hr class="hr31 ">
+    
     <br>
     <div class="box22"></div>
   

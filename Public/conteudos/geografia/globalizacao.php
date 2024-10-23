@@ -59,11 +59,11 @@
     <div class="texto13">Em um mundo em constante mudança, a economia enfrenta desafios complexos, como:</div>
     <div class="texto13"><span class="bold"> &#9679; Desigualdade Econômica:</span> Apesar de ter gerado crescimento econômico, a globalização <br>também aprofundou a desigualdade entre países e dentro dos próprios países. As <br>nações mais ricas geralmente têm mais recursos para investir em inovações <br>tecnológicas e em educação, o que lhes dá uma vantagem competitiva sobre as <br>economias menos desenvolvidas. Por outro lado, dentro dos países, a globalização tem<br> beneficiado as elites e grandes corporações, enquanto muitas vezes deixa os<br> trabalhadores em situações precárias.</div>
     <div class="texto25"><span class="bold"> &#9679; Soberania Nacional:</span> À medida que as economias se tornam mais interligadas, os governos perdem um pouco de sua capacidade de controlar suas políticas econômicas e sociais. A imposição de regras por instituições financeiras globais, como o FMI, ou por acordos comerciais, pode limitar a capacidade dos países de tomarem decisões autônomas.</div>
-    <div class="imagem11"><img src="../../../Resources/images/economia6.jpg"></div>
+    <div class="imagem11"><img src="../../../Resources/images/globalizacao3.jpg"></div>
     <div class="texto25"><span class="bold"> &#9679; Crise Migratória:</span> A globalização facilitou a mobilidade de pessoas, tanto para buscar melhores oportunidades quanto para fugir de crises e conflitos. No entanto, a migração em massa também tem gerado tensões, especialmente em países que enfrentam dificuldades para integrar grandes fluxos de imigrantes. A Europa, por exemplo, vive uma crise migratória devido à chegada de milhões de refugiados do Oriente Médio e da África, fugindo de guerras e instabilidade.</div>
-    <div class="imagem12"><img src="../../../Resources/images/economia7.jpg"></div>
+    <div class="imagem12"><img src="../../../Resources/images/globalizacao4.jpg"></div>
     <div class="texto26"><span class="bold"> &#9679; Nacionalismo e Protecionismo: </span>Em resposta aos efeitos negativos da globalização, como a perda de empregos em certos setores e o aumento da desigualdade, muitos países começaram a adotar políticas mais nacionalistas e protecionistas, como o aumento de tarifas e barreiras comerciais. O Brexit, a saída do Reino Unido da União Europeia, e as políticas econômicas protecionistas de países como os Estados Unidos durante o governo de Donald Trump são exemplos desse movimento.</div>
-    <div class="imagem16"><img src="../../../Resources/images/economia8.jpg"></div>
+    <div class="imagem16"><img src="../../../Resources/images/globalizacao5.jpg"></div>
     
 <br><br><br><br><br><br>
     <style>

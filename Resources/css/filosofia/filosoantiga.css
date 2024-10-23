@@ -496,31 +496,28 @@ p{
 }
 
 .hr7 {
-    width: 50px;
-    height: 395px;
-    position: relative;
-    background-color:  #1C5A63;
-    position:relative;
-    top: -435px; /* Valor negativo para subir */
-    margin-left: 380px;/* Diminua o valor para mover mais para a esquerda */
+    .hr7 { 
+        width: 250px;
+        height: 366px;
+        background-color: #6FC3D0;
+        margin-left: 215px;
+    
 }
 
 .hr8{
-    width: 50px;
-    height: 400px;
-    background-color:  #1C5A63;
-    position: relative;
-    top: -1325px; /* Valor negativo para subir */
-    margin-left: 1100px; /* Diminua o valor para mover mais para a esquerda */
-    
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+  
     
 
 }
 .hr22{
-    width: 1px;
-    height: 300px;
+    width: 250px;
+    height: 366px;
     background-color: #6FC3D0;
-    margin-left: 815px;
+    margin-left: 215px;
     
 
 }
@@ -531,19 +528,18 @@ p{
 }
 
 .hr30{
-    width: 80px;
-    height: 400px;
-    background-color:  #6FC3D0;
-    position: relative;
-    top: -875px; /* Valor negativo para subir */
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+    top: 100px; /* Valor negativo para subir */
     margin-left: 1165px; /* Diminua o valor para mover mais para a esquerda */
 }
     .hr31 {
-        width: 80px;
-        height: 400px;
-        position: relative;
-        background-color:   #6FC3D0;
-        position: relative;
+        width: 250px;
+        height: 366px;
+        background-color: #6FC3D0;
+        margin-left: 215px;
         top: -1760; /* Valor negativo para subir */
         margin-left: 285px;
     }
