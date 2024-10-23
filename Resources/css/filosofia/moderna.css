@@ -92,7 +92,33 @@ p{
     margin-top: -40px;
     margin-left: 380px;
 }
-
+.text9{
+    font-size: 24px;
+    color:#1C5A63;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-top: -40px;
+    line-height: 29.05px;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 1070px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.text10 {
+    background-color: #DEFAFF; /* Cor de fundo do quadrado */
+    color: black; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    width: 891px;
+    height: 143px;
+    border-radius: 38px;
+    font-family: "Inter", sans-serif;
+    border: 20px solid #6FC3D0;
+    margin-top: -10px;
+    font-size: 20px;
+    margin-left: 250px;
+}
 
 .img1 {
     width: 482px;
@@ -192,4 +218,48 @@ p{
     height: 140px; /* Mantém a proporção da imagem */
     margin-left: 900px;
     margin-top: -170px;
+}
+/* Container das imagens */
+.image-row {
+    display: flex;
+    justify-content: space-between; /* Distribui o espaço entre as imagens */
+    align-items: center;
+    margin: 10px auto;
+    max-width: 1200px; /* Limita a largura máxima do container */
+}
+
+/* Imagens individuais */
+.image-row img {
+    width: 379px; /* Largura fixa para todas as imagens */
+    height: 491px; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Garante que a imagem se ajuste ao tamanho sem distorção */
+    padding: 10px;
+}
+.hr9 {
+    border: 2px solid #6FC3D0;
+    width: 702px;
+    margin-right: 100px;
+}
+.box30{
+    background-color: #B5F5FF;
+    height: 78px;
+    width: 562px;
+    margin-left: 87px;
+    margin-top: -50px;
+}
+.line1{
+    display: flex;
+    margin-left: 100px;
+}
+.line2{
+    display: flex;
+    margin-left: 100px;
+}
+.line3{
+    display: flex;
+    margin-left: 100px;
+}
+.line4{
+    display: flex;
+    margin-left: 100px;
 }
