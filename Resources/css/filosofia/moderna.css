@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.sub-header {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 180px;
+    background-color: #6FC3D0;
+    border-bottom: 1px solid #A3DBE4;
+    height: 35px;
+    align-self: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
+    font-weight: bold;
+}
+
+p{
+    font-size:22px;
+    line-height: 29.05px;
+}
+
+.box1 {
+    background-color: #B5F5FF;
+    height: 140px;
+    width: 1079px;
+    margin-left: 220px;
+    margin-top: -50px;
+}
+
+.text1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: -50px;
+    margin-left: 12px;
+    
+}
+.text2{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    margin-left: 60px;
+    width: 1070px;
+}
+.text3 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: left;
+    margin-left: 60px;
+    width: 670px;
+}
+.text4 {
+    color:#356A72;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    padding-top: 20px;
+}
+.text5 {
+    color:#356A72;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-top: -40px;
+    margin-left: 350px;
+}
+.text6 {
+    color:#356A72;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-top: -40px;
+    margin-left: 360px;
+}
+.text7 {
+    color:#356A72;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-top: -40px;
+    margin-left: 350px;
+}
+.text8 {
+    color:#356A72;
+    font-weight: bold;
+    text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    margin-top: -40px;
+    margin-left: 380px;
+}
+
+
+.img1 {
+    width: 482px;
+    height: 306px;
+    margin-left: 100px;
+}
+.container1 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.image-center{
+    margin-top: 100px;
+    position:relative;
+    left:215px;
+    border:5px solid #2F91A0;
+}
+.box50 {
+    background-color: #6FC3D0;
+    height: 109px;
+    width: 1151px;
+    margin-left: 145px;
+    border-radius: 60px;
+    margin-top:50px; 
+    display: flex;
+    align-items: center;
+}
+.box2 {
+    background-color: #B5F5FF;
+    height: 76px;
+    width: 1079px;
+    margin-left: 220px;
+    margin-top: 50px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.circle1 {
+    width: 65px; /* Largura do círculo */
+    height: 65px; /* Altura do círculo */
+    background-color: #6FC3D0; /* Cor de fundo (azul) */
+    border-radius: 50%; /* Torna o div um círculo */
+    display: flex; /* Torna o conteúdo interno flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    font-size: 40px; /* Tamanho da fonte para os números */
+    color: white; /* Cor do texto */
+    font-weight: bold; /* Negrito */
+    margin-left: -120px;
+    border:2px solid #000000;
+    text-shadow: 2px 2px 0px black, -2px 2px 0px black, 2px -2px 0px black, -2px -2px 0px black;
+}
+.custom-box-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    gap: 20px; /* Espaçamento entre as caixas */
+}
+.custom-box {
+    background-color: #DEFAFF; /* Cor da caixa */
+    height: 310px; /* Altura da caixa */
+    width: 1040px; /* Largura da caixa */
+    border-radius: 60px;
+    padding: 20px;
+    position: relative;
+    box-shadow: rgb(111, 111, 111) 0.0em 0.1em 0.1em;
+}
+.textodaora{
+   font-size: 24px;
+}
+.textoincrivel {
+    font-weight: bold;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    line-height: normal; 
+}
+.container {
+    display: flex;
+    flex-direction: column; 
+    gap: 6px; 
+    margin-top: 50px;
+    margin-right: 270px;
+}
+.caixa1 {
+    background-color: #B5F5FF;
+    width: 480px;
+    height: 30px;
+    display: flex; 
+    align-items: center; 
+    padding: 0 10px; 
+}
+.seta {
+    align-self: flex-end; /* Alinha a seta à direita do contêiner */
+    margin-top: 10px; /* Espaçamento entre o texto e a seta */
+    width: 140px; /* Ajuste o tamanho conforme necessário */
+    height: 140px; /* Mantém a proporção da imagem */
+    margin-left: 900px;
+    margin-top: -170px;
+}

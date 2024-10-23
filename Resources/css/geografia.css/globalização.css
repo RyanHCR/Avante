@@ -215,7 +215,7 @@
     align-self: center;
     color: white;
     font-size: 23px;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Sombra ajustada */
+    text-shadow: rgb(50, 50, 50) 0.0em 0.1em 0.1em;
     font-weight: bold;
 }
 .texto12 {

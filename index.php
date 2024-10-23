@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página inicial</title>
+    <title>Cursinho Avante</title>
     <link rel="stylesheet" href="Resources/css/index.css">
+    <link rel="icon" type="image/png" href="Resources/images/astroneer2.png">
     <script src="Resources/js/animation.js"></script>
 </head>
 <body>
@@ -55,15 +56,15 @@
 
 
     <div class="square">
-            <h1 style="margin-left: 69px;margin-top:50px">Sistema completo<br>de conteúdo</h1>
-            <p style="margin-left: 45px;font-size:24px;color:white">No Avante você tem textos didáticos, com explicações detalhadas para te ajudar nos estudos para o Enem e Vestibulares.</p>
+            <h1 style="margin-left: 69px;margin-top:50px;text-align:center">Sistema completo<br>de conteúdo</h1>
+            <p style="margin-left: 45px;font-size:24px;color:white;text-align:center">No Avante você tem textos didáticos, com explicações detalhadas para te ajudar nos estudos para o Enem e Vestibulares.</p>
     </div>
 
 
     <div class="square">
         <div>
-            <h1 style="margin-left: 98px;margin-top:50px">Cronograma<br>60 dias Enem</h1>
-            <p style="margin-left: 60px;font-size:24px;color:white">Conquiste 750+ no Enem,<br> começando a estudar agora<br> com o Avante.</p>
+            <h1 style="margin-left: 98px;margin-top:50px;text-align:center">Cronograma<br>60 dias Enem</h1>
+            <p style="margin-left: 60px;font-size:24px;color:white;text-align:center">Conquiste 750+ no Enem,<br> começando a estudar agora<br> com o Avante.</p>
         </div>
     </div>
 

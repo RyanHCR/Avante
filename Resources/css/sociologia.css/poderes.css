@@ -86,7 +86,7 @@
     margin-top: -2.5%;
     margin-left: -2.3%;
     background-color: #A3DBE4; /* Fundo azul claro */
-    padding: 20px; /* Espaçamento interno */
+    padding: 15px; /* Espaçamento interno */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombras suaves */
     width: 100.2%;
     text-align: center;
@@ -108,27 +108,380 @@
     }
     
     .image-box img {
-        width: 50%; /* Define a largura da imagem */
-        height: auto; /* Mantém a proporção da imagem */
+        width: 40%; /* Define a largura da imagem */
+        height: 30%; /* Mantém a proporção da imagem */
     }
     
     .text-right {
+        display: flex;
         width: 45%; /* Define a largura da caixa de texto à direita */
         margin-left: 20px; /* Espaço entre a imagem e a caixa de texto */
-        background-color: #f9f9f9;
+        background-color: #DEFAFF;
         padding: 20px;
-        border-radius: 8px;
-        text-align: justify;
+        border-radius: 20px;
+        align-items: center;
+        justify-content: center;
+        align-content: center
     }
     
     .text-below {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         background-color: #6FC3D0;
         padding: 10px;
-        border-radius: 80px;
+        border: 2px solid black; /* Define a cor da borda como preta */
+        border-radius: 80px; /* Define a curvatura dos cantos */
         text-align: justify;
         margin-top: -50px;
         margin-left: -500px;
         width: 25%; /* Ocupa toda a largura do container */
-        height: 25px
+        height: 25px;
+       
+
+    }
+    .image-box2 {
+        display: flex;
+        justify-content: space-between; /* Espaça a imagem e a caixa à direita */
+        width: 60%; /* A largura do container de imagem e caixa de texto */
+        margin-bottom: 20px; /* Espaço abaixo da imagem */
+    }
+    
+    .image-box2 img {
+        width: 30%; /* Define a largura da imagem */
+        height: 25%; /* Mantém a proporção da imagem */
+    }
+    .text-right2 {
+        display: flex;
+        width: 45%; /* Define a largura da caixa de texto à direita */
+        margin-left: 20px; /* Espaço entre a imagem e a caixa de texto */
+        background-color: #DEFAFF;
+        padding: 20px;
+        border-radius: 20px;
+        align-items: center;
+        justify-content: center;
+        align-content: center
+    }
+    
+    .text-below2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #6FC3D0;
+        padding: 10px;
+        border: 2px solid black; /* Define a cor da borda como preta */
+        border-radius: 80px; /* Define a curvatura dos cantos */
+        text-align: justify;
+        margin-top: -50px;
+        margin-left: 500px;
+        width: 25%; /* Ocupa toda a largura do container */
+        height: 25px;
+       
+
+    }
+    .body2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f0f0f0; /* cor de fundo para visualizar melhor */
+      }
+      
+      .container3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .box {
+        width: 200px;
+        height: 40px;
+        background-color: #429ea9; /* cor azul */
+        border-radius: 5px;
+        margin: 0 10px; /* espaço entre os elementos */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* sombra para dar o efeito */
+      }
+      
+      .middle-box {
+        width: 400px;
+        height: 40px;
+        background-color: #b3f0ff; /* cor azul clara */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* sombra para o texto */
+      }
+      
+      .middle-box span {
+        font-size: 16px;
+        font-weight: bold;
+        color: black;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* efeito de sombra no texto */
+      }
+      .linha {
+        position: absolute;
+        left: 25%;
+        width: 50%; /* Define o comprimento da linha */
+        height: 2px; /* Define a espessura da linha */
+        background-color: #7bcbd1; /* Cor da linha */
+      
+      }
+      .container-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 3 colunas */
+        margin: 60px auto; /* Centraliza o container */
+        width: 60%; /* Ajuste conforme necessário */
+        justify-items: center;
+    }
+    
+    .text-box {
+        position: relative; /* Para posicionar o círculo com o número */
+        border: 1px solid #ccc;
+        padding: 10px 30px; /* Ajuste para criar espaço no topo para o número */
+        text-align: center;
+        background-color: #DEFAFF;
+        border-radius: 35px;
+    }
+    
+    .number-circle {
+        position: absolute;
+        top: -60px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 40px;
+        background-color: #6FC3D0;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .text-box2 {
+        position: relative; /* Para posicionar o círculo com o número */
+        border: 1px solid #ccc;
+        padding: 10px 30px; /* Ajuste para criar espaço no topo para o número */
+        text-align: center;
+        background-color: #DEFAFF;
+        border-radius: 35px;
+    }
+    
+    .number-circle2 {
+        position: absolute;
+        top: -60px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 40px;
+        background-color: #6FC3D0;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .container-grid2 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 3 colunas */
+        margin: -20px auto; /* Centraliza o container */
+        width: 60%; /* Ajuste conforme necessário */
+        justify-items: center;
+    }
+    .text-box3 {
+        position: relative; /* Para posicionar o círculo com o número */
+        border: 1px solid #ccc;
+        padding: 10px 30px; /* Ajuste para criar espaço no topo para o número */
+        text-align: center;
+        border-radius: 35px;
+    }
+    
+    .number-circle3 {
+        position: absolute;
+        top: -60px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 40px;
+        background-color: #6FC3D0;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    
+    @media (max-width: 768px) {
+        .container-grid {
+            grid-template-columns: 1fr; /* Empilha as caixas no mobile */
+        }
+    }
+    .tamanho3{
+        max-width: 60%;
+        margin-top: 100px;
+        
+    }
+    .middle-box2 span {
+       
+        font-weight: bold;
+        color: black;
+      
+        background-color: #B5F5FF;
+        padding: 15px;
+        margin-left: 80px;
+        margin-top: 20px;
+      }
+      .linha2 {
+        width: 380px; /* Define o comprimento da linha */
+        height: 2px; /* Define a espessura da linha */
+        background-color: #7bcbd1; /* Cor da linha */
+        margin-left: -40px;
+      }
+    .middle-box3 span {
+        
+        font-weight: bold;
+        color: black;
+     
+        background-color: #B5F5FF;
+        padding: 15px;
+        margin-left: -600px;
+        margin-top: 20px;
+      }
+      .linha3 {
+        width: 380px; /* Define o comprimento da linha */
+        height: 2px; /* Define a espessura da linha */
+        background-color: #7bcbd1; /* Cor da linha */
+        margin-left: 80px;
+      }
+   
+     .text{
+        max-width: 60%;
+        margin-top:20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+     }
+     .align{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     }
+     .container3 {
+        display: flex;
+        align-items: center;
+        border: 0px solid #ccc; /* Borda do bloco principal */
+        position: relative;
+        padding: 20px;
+      }
+     .container4 {
+        display: flex;
+        align-items: center;
+        border: 1px solid #ccc; /* Borda do bloco principal */
+        position: relative;
+        padding: 20px;
+      }
+      
+      .tab {
+        background-color: #9bd1e5; /* Cor de fundo da aba */
+        padding: 10px 20px;
+        border-radius: 20px ; /* Canto superior arredondado */
+        position: absolute;
+        top: -20px;
+        left: 20px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+        color: #000;
+      }
+      
+      .content {
+        margin-top: 20px; /* Espaço para a aba não cobrir o texto */
+        line-height: 1.6;
+      }
+    
+    .container5 {
+        max-width: 60%;
+        margin: 0 auto;
+    }
+    
+    .box2 {
+        background-color: #DEFAFF;
+        padding: 20px;
+        border-radius: 40px;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .box2 span {
+        position: absolute;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 40px;
+        background-color: #6FC3D0;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 1%;
+    }
+    
+    .box2 p {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+        margin-left: 8%;
+    }
+    head{
+        font-family: Arial, sans-serif;
+        background-color: #f0f8ff;
+        margin: 0;
+        padding: 20px;
+    }
+    .n {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .container6 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .box3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        width: 300px;
+    }
+    
+    .left-box3 {
+        background-color: #b2ebf2;
+    }
+    
+    .right-box3 {
+        background-color: #00838f;
+    }
+    
+    .p1 {
+        font-size: 14px;
+        font-weight: bold;
+        color: #333;
+        margin: 2px;
     }
     

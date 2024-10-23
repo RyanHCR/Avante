@@ -2,16 +2,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões CRUD</title>
+    <title>Globalização</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/geografia.css/globalização.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
     
 <header class="header">
     <div class="left-buttons">
         <a href="../../materias/historia.php"><button class="nav-button">HISTÓRIA</button></a>
-        <a href="../../materias/geografia.php"><button class="nav-button">GEOGRAFIA</button></a>
+        <a href="../../materias/geografia.php"><button class="nav-button"style="color:#356A72">GEOGRAFIA</button></a>
     </div>
     <div class="logo-container">
         <img src="../../../Resources/images/logo.jpeg" alt="Logo" class="logo">
