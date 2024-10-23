@@ -2,10 +2,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IDADE MÉDIA</title>
+    <title>Idade média</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/historia/idademedia.css">
-    <link rel="icon" type="image/png" href="Resources/images/astroneer2.png">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
     
 <header class="header">
     <div class="left-buttons">
-        <a href="../../materias/historia.php"><button class="nav-button">HISTÓRIA</button></a>
+    <a href="../../materias/historia.php"><button class="nav-button"style="color:#356A72">HISTÓRIA</button></a>
         <a href="../../materias/geografia.php"><button class="nav-button">GEOGRAFIA</button></a>
     </div>
     <div class="logo-container">

@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FILOSOFIA ANTIGA</title>
+    <title>Filosofia antiga</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/filosofia/filosoantiga.css">
+    <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 
 <body>
@@ -20,7 +21,7 @@
         </div>
         <div class="right-buttons">
             <a href="../../materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
-            <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
+            <a href="../../materias/filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
         </div>
     </header>
 
