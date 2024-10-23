@@ -53,7 +53,7 @@
 
 <div class="allone"><br><br><br>
     <img src="../../../Resources/images/medieval1.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-    <br>A filosofia antiga surge com a substituição do saber mítico ao da razão e isso ocorreu com o surgimento da polis grega (cidade-estado).
+    <br><h1>A filosofia antiga surge com a substituição do saber mítico ao da razão e isso ocorreu com o surgimento da polis grega (cidade-estado).
 Essa nova organização grega, foi fundamental para a desmistificação do mundo através da razão e, com isso, as reflexões dos filósofos.
 Mais tarde, as discussões que ocorriam em praça pública juntamente com o poder da palavra e da razão (logos) levaram a criação da democracia.
 </h1> 
@@ -198,16 +198,16 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
     <br><br><br><br><br>
 
 
-
- 
+   
 <div class="box88">
-    <p>1. A relação entre fé e razão: Um dos problemas centrais da filosofia medieval foi a tentativa de conciliar a fé religiosa cristã com a razão filosófica, herdada da tradição grega, principalmente de Platão e Aristóteles.</p>
+ <div class="circle1">1</div>
+    <p>. A relação entre fé e razão: Um dos problemas centrais da filosofia medieval foi a tentativa de conciliar a fé religiosa cristã com a razão filosófica, herdada da tradição grega, principalmente de Platão e Aristóteles.</p>
       
 
 
     </div>
 
-
+    </div>
 
 
 
@@ -223,8 +223,9 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
-    <div class="box888">      
-<p>2. Provas da existência de Deus: Filósofos medievais desenvolveram argumentos racionais para provar a existência de Deus, como o argumento ontológico de Anselmo de Cantuária e as "cinco vias" de Tomás de Aquino.</p>
+    <div class="box888"> 
+    <div class="circle1">2</div>     
+<p> Provas da existência de Deus: Filósofos medievais desenvolveram argumentos racionais para provar a existência de Deus, como o argumento ontológico de Anselmo de Cantuária e as "cinco vias" de Tomás de Aquino.</p>
 
 </div>
 
@@ -237,8 +238,9 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 <div class="box2432">      
+<div class="circle1">3</div>
 
-    <p>3. Natureza da alma: A questão sobre a imortalidade da alma e sua relação com o corpo foi amplamente discutida, especialmente influenciada pela filosofia de Platão e Aristóteles.</p>
+    <p> Natureza da alma: A questão sobre a imortalidade da alma e sua relação com o corpo foi amplamente discutida, especialmente influenciada pela filosofia de Platão e Aristóteles.</p>
 
 
     </div>
@@ -285,7 +287,8 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
     <div class="box243">  
-    <p>4. Teologia: Como grande parte dos filósofos medievais eram clérigos ou teólogos, as questões teológicas eram centrais, como a natureza de Deus, a Trindade e a encarnação de Cristo.</p>
+    <div class="circle1">4</div>
+    <p> Teologia: Como grande parte dos filósofos medievais eram clérigos ou teólogos, as questões teológicas eram centrais, como a natureza de Deus, a Trindade e a encarnação de Cristo.</p>
 
 
 
@@ -336,21 +339,18 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
     <div class="box414">  
-    <p>5. Realismo vs. Nominalismo: Um debate fundamental na filosofia medieval foi sobre a natureza dos universais (conceitos abstratos). Realistas, como Tomás de Aquino, acreditavam que os universais existiam independentemente das coisas particulares. Os nominalistas, como Guilherme de Ockham, argumentavam que os universais eram apenas nomes sem realidade própria.</p>
+    <br> 
+    <div class="circle1">5</div>
+    
+    <p> Realismo vs. Nominalismo: Um debate fundamental na filosofia medieval foi sobre a natureza dos universais (conceitos abstratos). Realistas, como Tomás de Aquino, acreditavam que os universais existiam independentemente das coisas particulares. Os nominalistas, como Guilherme de Ockham, argumentavam que os universais eram apenas nomes sem realidade própria.</p>
     
 
     </div>
 
 
-    <br><br><br><br><br>
 
 
-
-    <br><br><br><br><br> 
-    <br><br><br><br><br> 
-
-
-    </div>
+    </div><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -411,6 +411,8 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 </html>
   <img class="image-center2" src="../../../Resources/images/medieval2.jpeg">
   <div class="box202"></div>
+  <div class="box702"></div>
+  <div class="box21111"></div>
   <br>
   <hr class="hr7  ">
   
@@ -421,6 +423,9 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
     <br>
     <div class="box22"></div>
+    <div class="box707"></div>
+    <div class="box2111"></div>
+
   
   
     
@@ -433,9 +438,6 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
-<br><br><br><br><br> 
-<br><br><br><br><br> 
-<br><br><br><br><br> 
 
 
 
@@ -447,16 +449,16 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
+<div class="box4">      
 
-    <p>PRINCIPAIS FILÓSOFOS MEDIEVAIS</p>
-    <p>Santo Agostinho (354–430)</p>
-    <li>Desenvolveu uma síntese entre o pensamento cristão e a filosofia de Platão.</li>
-    <li>Trabalhou questões como a natureza do mal, a relação entre fé e razão, e a predestinação.</li>
-    <li>Enfatizou a necessidade da graça divina para a salvação, sendo uma figura central na teologia cristã.</li>
+<p>PRINCIPAIS FILÓSOFOS MEDIEVAIS</p>
+</div>
 
 
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
+    
 
 
 
@@ -467,10 +469,22 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
+    <div class="box1000">      
 
 
+    <p> Santo Agostinho (354–430)</p>
 
+<br><br>
+<br>
+<br>
+  
+  
+        
+    <li><h3>Desenvolveu uma síntese entre o pensamento cristão e a filosofia de Platão.</li></h3>
+    <li><h3>Trabalhou questões como a natureza do mal, a relação entre fé e razão, e a predestinação.</li></h3>
+    <li><h3>Enfatizou a necessidade da graça divina para a salvação, sendo uma figura central na teologia cristã.</li></h3>
 
+  </div>
 
 
 
@@ -488,11 +502,6 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
-    <p>São Tomás de Aquino (1225– 1274)</p>
-    <li>Tentou conciliar a razão e a fé, defendendo que ambas são complementares.</li>
-    <li>Formulou as "cinco vias" para demonstrar a existência de Deus, usando argumentos racionais.</li>
-    <li>Desenvolveu uma metafísica baseada na distinção entre essência e existência, e influenciou grandemente a teologia católica</li>
-   
 
 
 
@@ -503,19 +512,64 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
+  <div class="box1001">      
 
 
+<p> São Tomás de Aquino (1225– 1274)</p>
 
+<br><br>
+<br>
+<br>
 
 
+    
+<li><h3>Tentou conciliar a razão e a fé, defendendo que ambas são complementares</li></h3>
+<li><h3>Formulou as "cinco vias" para demonstrar a existência de Deus, usando argumentos racionais.</li></h3>
+<li><h3>Desenvolveu uma metafísica baseada na distinção entre essência e existência, e influenciou grandemente a teologia católica</li></h3>
 
+</div>
 
 
 
 
-    <p>Anselmo de Cantuária (1033–1109)</p>
-    <li>Formulou o argumento ontológico para provar a existência de Deus, que diz que Deus, sendo o ser mais perfeito concebível, deve existir na realidade e não apenas na mente.</li>
-    <li>Defendeu a doutrina da satisfação, onde Cristo, através de seu sacrifício, satisfaz a justiça divina.</li>
+
+
+
+
+
+
+
+
+
+<div class="box1002">      
+
+
+<p>Anselmo de Cantuária (1033–1109) </p>
+
+<br><br>
+<br>
+<br>
+
+
+    
+
+<li><h3>Formulou o argumento ontológico para provar a existência de Deus, que diz que Deus, sendo o ser mais perfeito concebível, deve existir na realidade e não apenas na mente. .</li></h3>
+<li><h3>Defendeu a doutrina da satisfação, onde Cristo, através de seu sacrifício, satisfaz a justiça divina.</li></h3>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
 
