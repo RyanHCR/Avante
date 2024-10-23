@@ -90,7 +90,7 @@
     <div class="box6">
     <p class="texto6">DIVERSIDADE CULTURAL INDÍGENA</p>
     </div>
-    <p class="texto7">Diferentes grupos possuíam línguas, tradições, rituais e formas de organização próprias. Os Tupi-Guarani, por exemplo, eram agricultores e viviam próximos ao litoral, enquanto os grupos Jê eram mais móveis e caçadores.</p>
+    <p class="texto8">Diferentes grupos possuíam línguas, tradições, rituais e formas de organização próprias. Os Tupi-Guarani, por exemplo, eram agricultores e viviam próximos ao litoral, enquanto os grupos Jê eram mais móveis e caçadores.</p>
     <hr class="hrX1">
     </div>
 </div>
@@ -101,7 +101,7 @@
     <div class="box6">
     <p class="texto6">RELIGIÃO E COSMOVISÃO</p>
     </div>
-    <p class="texto7">A espiritualidade indígena era baseada em uma relação profunda com a natureza. Eles acreditavam em seres espirituais que habitavam os elementos naturais, como florestas, rios e animais.</p>
+    <p class="texto8">A espiritualidade indígena era baseada em uma relação profunda com a natureza. Eles acreditavam em seres espirituais que habitavam os elementos naturais, como florestas, rios e animais.</p>
     <hr class="hrX1">
     </div>
     <img class="navegacoes2" src="../../../Resources/images/navegações3.jpg">
@@ -113,7 +113,7 @@
     <div class="box6">
     <p class="texto6">ECONOMIA INDÍGENA</p>
     </div>
-    <p class="texto7">Os indígenas praticavam uma economia de subsistência, baseada na agricultura (especialmente mandioca, milho e batata-doce), pesca, caça e coleta.</p>
+    <p class="texto8">Os indígenas praticavam uma economia de subsistência, baseada na agricultura (especialmente mandioca, milho e batata-doce), pesca, caça e coleta.</p>
     <hr class="hrX1">
 </div>
 </div>
@@ -131,9 +131,9 @@
         <span class="highlight2">Nos primeiros anos da colonização, os indígenas foram amplamente explorados como mão de obra escrava. A resistência indígena era constante, levando à fuga e à formação de aldeias em locais remotos.
     </div>
     <div class="box11-container">
-<hr class="hr7">
+<hr class="hr9">
 <img class="imagecenter"src="../../../Resources/images/navegações5.jpg">
-<hr class="hr8">
+<hr class="hr10">
     </div>
     <br><br><br>
 
@@ -192,39 +192,100 @@
     </div>
     <div class="block33"><p class="a33">Em áreas mais remotas, como a Amazônia, muitos grupos indígenas conseguiram se isolar e resistir de maneira mais efetiva ao avanço colonial, preservando seus modos de vida.</p>
     </div>
+
+    <hr class="hrX2">
+<div class="box11-container">
+<hr class="hr7">
+    <img class= "image-center11" src="../../../Resources/images/navegações8.jpg">
+<hr class="hr8">
+    </div>
+    <hr class="hrX3">
+
+    <div class="box8">
+    <p class="text8">A COLONIZAÇÃO E O SISTEMA DE CAPITANIAS HEREDITÁRIAS (1530 - 1549)</p>
+    </div>
+    <p class="justifiedtext2" style="font-weight:bold">A colonização do Brasil de forma sistemática só começou na década de 1530, quando a Coroa Portuguesa passou a enfrentar ameaças estrangeiras (franceses e holandeses) e percebeu o potencial econômico do território.</p>
+    
+    <div class="caminhos-abolicao">
+    <div class="item-abolicionista">
+        <div class="number-circle">1</div>
+        <span class="highlight2">Capitanias Hereditárias: Em 1534, o rei Dom João III dividiu o Brasil em 15 capitanias, que foram entregues a nobres e fidalgos portugueses. O sistema falhou em grande parte, exceto pelas capitanias de São Vicente e Pernambuco.
+    </div>
+
+    <div class="caminhos-abolicao">
+    <div class="item-abolicionista">
+        <div class="number-circle">2</div>
+        <span class="highlight2">Governo-Geral: Em 1549, a Coroa criou o Governo-Geral, centralizando a administração colonial e designando Tomé de Sousa como primeiro governador-geral. Salvador foi escolhida como capital. Apesar das tentativas de centralização e controle pela Coroa, os conflitos com os povos indígenas continuaram, especialmente nas regiões de expansão colonial, onde a resistência indígena permaneceu significativa.
+    </div>
+
+
+    <div class="block"></div>   
+
+<div class="box8">
+    <p class="text8">ECONOMIA COLONIAL: O CICLO DO AÇÚCAR (SÉCULOS XVI XVII)</p>
+    </div>
+ 
+
+    <div class="flexbox">
+
+    <div class="containerbacana2">
+    <p class="texto7">A produção de açúcar tornou-se a principal atividade econômica do Brasil colonial no século XVI, com o estabelecimento dos engenhos na região nordeste, particularmente em Pernambuco e Bahia.</p>
+    <div class="flexbox2">
+    <div class="box102">
+    <p class="texto20">EM DESTAQUE:</p>
+    </div>
+    <div>
+    <hr class="hrX4">
     </div>
     </div>
-    <img src="../../../Resources/images/navegações8.jpg">
+    </div>
+    <img class="navegacoes2" src="../../../Resources/images/navegações9.jpg">
+</div>
+<div class="flexbox5">
+<img src="../../../Resources/images/navegações10.jpg">
+<div class="caminhos-abolicao">
+<div class="item-abolicionista2">
+    <div class="number-circle">2</div>
+    <div class="box13"><p class="texto13">MONOCULTURA E LATIFÚNDIO:</p></div>
+    <span class="highlight3">O açúcar era produzido em grandes propriedades rurais (latifúndios) e destinava-se quase exclusivamente à exportação.
 </div>
 </div>
-    <p>A COLONIZAÇÃO E O SISTEMA DE CAPITANIAS HEREDITÁRIAS (1530 - 1549)</p>
-    <p>A colonização do Brasil de forma sistemática só começou na década de 1530, quando a Coroa Portuguesa passou a enfrentar ameaças estrangeiras (franceses e holandeses) e percebeu o potencial econômico do território.</p>
-    <p>Capitanias Hereditárias: Em 1534, o rei Dom João III dividiu o Brasil em 15 capitanias, que foram entregues a nobres e fidalgos portugueses. O sistema falhou em grande parte, exceto pelas capitanias de São Vicente e Pernambuco.</p>
-    <p>Governo-Geral: Em 1549, a Coroa criou o Governo-Geral, centralizando a administração colonial e designando Tomé de Sousa como primeiro governador-geral. Salvador foi escolhida como capital. Apesar das tentativas de centralização e controle pela Coroa, os conflitos com os povos indígenas continuaram, especialmente nas regiões de expansão colonial, onde a resistência indígena permaneceu significativa.</p>
+</div>
 
-    <p>ECONOMIA COLONIAL: O CICLO DO AÇÚCAR (SÉCULOS XVI XVII)</p>
-    <p>A produção de açúcar tornou-se a principal atividade econômica do Brasil colonial no século XVI, com o estabelecimento dos engenhos na região nordeste, particularmente em Pernambuco e Bahia.</p>
-    <img src="../../../Resources/images/navegações9.jpg">
+<div class="flexbox5">
+<img src="../../../Resources/images/navegações11.jpg">
+<div class="caminhos-abolicao">
+<div class="item-abolicionista3">
+    <div class="number-circle">2</div>
+    <div class="box13"><p class="texto13">MÃO DE OBRA ESCRAVA:</p></div>
+    <span class="highlight3">Inicialmente, os indígenas foram forçados a trabalhar nos engenhos de açúcar, mas a partir do século XVI, o tráfico de escravos africanos se tornou predominante. Esse movimento também foi uma resposta à crescente resistência e ao número elevado de mortes entre os indígenas devido a doenças e aos maus-tratos.
+</div>
+</div>
+</div>
 
-    <p>EM DESTAQUE:</p>
-    <p>Monocultura e Latifúndio:</p>
-    <p>O açúcar era produzido em grandes propriedades rurais (latifúndios) e destinava-se quase exclusivamente à exportação.</p>
-    <img src="../../../Resources/images/navegações10.jpg">
+<div class="flexbox5">
+<img src="../../../Resources/images/navegações12.jpg">
+<div class="caminhos-abolicao">
+<div class="item-abolicionista4">
+    <div class="number-circle">2</div>
+    <div class="box13"><p class="texto13">SOCIEDADE AÇUCAREIRA:</p></div>
+    <span class="highlight3">Uma sociedade hierarquizada, marcada pela desigualdade social, onde o senhor de engenho ocupava o topo.
+</div>
+</div>
+</div>
 
-    <p>MÃO DE OBRA ESCRAVA</p>
-    <p>Inicialmente, os indígenas foram forçados a trabalhar nos engenhos de açúcar, mas a partir do século XVI, o tráfico de escravos africanos se tornou predominante. Esse movimento também foi uma resposta à crescente resistência e ao número elevado de mortes entre os indígenas devido a doenças e aos maus-tratos.</p>
-    <img src="../../../Resources/images/navegações11.jpg">
 
-    <p>SOCIEDADE AÇUCAREIRA</p>
-    <p>Uma sociedade hierarquizada, marcada pela desigualdade social, onde o senhor de engenho ocupava o topo.</p>
-    <img src="../../../Resources/images/navegações12.jpg">
+<hr class="hr2">
+<div class="box3">
+<p class="text5">A ESCRAVIDÃO NO BRASIL COLONIAL</p>
+</div>
 
-    <p>A ESCRAVIDÃO NO BRASIL COLONIAL</p>
+    <p class="justifiedtext2">A escravidão foi a base da economia e da sociedade colonial. Estima-se que cerca de 4,9 milhões de africanos tenham sido trazidos para o Brasil entre os séculos XVI e XIX, somando-se à exploração da mão de obra indígena nos primeiros anos.</p>
 
-    <p>A escravidão foi a base da economia e da sociedade colonial. Estima-se que cerca de 4,9 milhões de africanos tenham sido trazidos para o Brasil entre os séculos XVI e XIX, somando-se à exploração da mão de obra indígena nos primeiros anos.</p>
-    <p>Tráfico Negreiro e Escravidão Indígena: Embora o tráfico de africanos tenha predominado, durante os primeiros anos de colonização, muitos indígenas foram escravizados e forçados a trabalhar nos engenhos e na extração de pau-brasil. Os indígenas que não conseguiam escapar dessa realidade enfrentavam condições de trabalho exaustivas, semelhantes às impostas aos africanos mais tarde.</p>
-    <p> Condições de Vida e Resistência: A resistência indígena se manifestava através de fugas, rebeliões e a formação de quilombos e outras formas de sociedades alternativas.</p>
-
+    <div class="border">
+    <p>Tráfico Negreiro e Escravidão Indígena:</p><p> Embora o tráfico de africanos tenha predominado, durante os primeiros anos de colonização, muitos indígenas foram escravizados e forçados a trabalhar nos engenhos e na extração de pau-brasil. Os indígenas que não conseguiam escapar dessa realidade enfrentavam condições de trabalho exaustivas, semelhantes às impostas aos africanos mais tarde.</p>
+    <p style="background-color:#B5F5FF"> Condições de Vida e Resistência:</p><p> A resistência indígena se manifestava através de fugas, rebeliões e a formação de quilombos e outras formas de sociedades alternativas.</p>
+</div>
     <p>CICLO DO OURO (SÉCULO XVIII)</p>
     <p>No final do século XVII, o Brasil entrou em uma nova fase de exploração econômica com a descoberta de ouro em Minas Gerais. O ciclo do ouro marcou profundamente a economia, a política e a sociedade colonial.</p>
 
