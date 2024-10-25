@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+p{
+    font-size:22px;
+    line-height: 29.05px;
+}
+
+.box1 {
+    background-color: #B5F5FF;
+    height: 160px;
+    width: 1079px;
+    margin-left: 220px;
+}
+.box2 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 1100px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box3 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 615px;
+    margin-left: 645px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.text1 {
+    height: 116px;
+    width: 970px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 40px;
+    margin-top: -50px;
+    margin-left: 12px;
+}
+.text2 {
+    font-size: 24px;
+    padding-top: 11px;
+    width: 702px;
+    height: 360px;
+    margin-left: 220px;
+    
+}
+.image-right {
+    float:right;
+    margin-right: 210px;
+    margin-top: 40px;
+    height: 261px;
+    width: 357px;
+}
+.text3 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 23px;
+}
+.text4{
+    width: 1116px;
+    position: relative;
+    margin: 20px auto;
+    font-size: 24px;
+    line-height: 29.05px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.image-left {
+    float: left;
+    width: 414px;
+    height: 267px;
+    margin-left: 215px;
+}
+.text5 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 18px;
+}
+.line1{
+    display: flex;
+    margin-left: 225px;
+}
+.line2{
+    display: flex;
+    margin-left: 225px;
+}
+.highlight {
+    background-color: #B5F5FF;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+.seta {
+    float: left;
+}
+.seta2 {
+    float: left;
+}
+.text6 {
+ width: 589px;
+
+}
+.text7 {
+    width: 589px;
+    
+}
+.hrX1{
+    width: 440px;
+    float: left;
+    border: 3px solid #6FC3D0;
+    margin-left: 215px;
+    margin-top: -30px;
+}
