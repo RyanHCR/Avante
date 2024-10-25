@@ -59,6 +59,21 @@
     </div>
 </div>
 
+<div class="flexbox">
+    <img class="image-right2" src="../../../Resources/images/sociologia3.png">
+    <div class="containerbacana">
+    <div class="box4">
+    <p class="text5">DESIGUALDADE SOCIAL</p>
+    </div>
+    <img class="seta" src="../../../Resources/images/SETA 5.png">
+    <div class="line1"><p class="text6"> 
+    A disparidade econômica e social se aprofundou nas últimas décadas, com a concentração de renda nas mãos de poucos e a marginalização de grandes parcelas da população.</p></div>
+    <img class="seta2" src="../../../Resources/images/SETA 5.png">
+    <div class="line2"><p class="text7">
+     A globalização trouxe mudanças nas relações de trabalho, consumo e comunicação, promovendo trocas culturais e econômicas, mas também intensificando desigualdades entre os países e dentro deles.</p></div>
+     <hr class="hrX1">
+    </div>
+</div>
 
 
 
