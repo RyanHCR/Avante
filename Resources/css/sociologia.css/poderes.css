@@ -221,8 +221,8 @@
       }
       .linha {
         position: absolute;
-        left: 25%;
-        width: 50%; /* Define o comprimento da linha */
+        left: 20.5%;
+        width: 60%; /* Define o comprimento da linha */
         height: 2px; /* Define a espessura da linha */
         background-color: #7bcbd1; /* Cor da linha */
       
@@ -327,6 +327,11 @@
         margin-top: 100px;
         
     }
+    .tamanho4{
+        max-width: 40%;
+        margin-top: 100px;
+        
+    }
     .middle-box2 span {
        
         font-weight: bold;
@@ -334,14 +339,16 @@
       
         background-color: #B5F5FF;
         padding: 15px;
-        margin-left: 80px;
+        margin-left: 410px;
         margin-top: 20px;
+        position: relative;
       }
       .linha2 {
         width: 380px; /* Define o comprimento da linha */
         height: 2px; /* Define a espessura da linha */
         background-color: #7bcbd1; /* Cor da linha */
-        margin-left: -40px;
+        margin-left: -300px;
+        position: absolute;
       }
     .middle-box3 span {
         
@@ -485,3 +492,169 @@
         margin: 2px;
     }
     
+    .f {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f4f4f4;
+    }
+    
+    .container7 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .box4 {
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin: 20px;
+        width: 60%;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        position: relative;
+   
+    }
+    .box5 {
+        display: flex;
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin: 20px;
+        width: 60%;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        position: relative;
+        align-items: baseline;
+    }
+    
+    .box4 img {
+        width: 100px;
+        height: auto;
+        float: left;
+        margin-right: 20px;
+    }
+    
+    .box4 .title {
+        font-weight: bold;
+        color: #0080ff;
+        margin-bottom: 10px;
+    }
+    
+    .box4 .content {
+        text-align: justify;
+    }
+    
+    .line-separator {
+        border: 0;
+        height: 1px;
+        background: #6FC3D0;
+       gap: 10px;
+    }
+
+    .line-separator2 {
+        border: 0;
+        height: 8px;
+        background: #2F91A0;
+    }
+    .arrow{
+        background-color: #B5F5FF;
+        padding: 1px;
+        height: 10%;
+
+    }
+    .body3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f0f0f0; /* cor de fundo para visualizar melhor */
+      }
+      
+      .container8 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .box6 {
+        width: 17%;
+        height: 2px;
+        background-color: #6FC3D0; /* cor azul */
+        margin: 0 10px; /* espaço entre os elementos */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* sombra para dar o efeito */
+      }
+      
+      .middle-box6 {
+        width: 400px;
+        height: 40px;
+        background-color: #b3f0ff; /* cor azul clara */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* sombra para o texto */
+      }
+      
+      .middle-box6 span {
+        font-size: 16px;
+        color: black;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* efeito de sombra no texto */
+      }
+      .tamanho5{
+        max-width: 60%;
+        margin-top: 100px;
+        display: flex;
+
+      }
+      .box7 {
+        display: flex;
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin: 20px;
+        width: 60%;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        position: relative;
+        align-items: baseline;
+        flex-direction: column;
+        left: 39vh;
+    }
+      .box8 {
+        display: flex;
+        background-color: white;
+        border: 5px solid #6FC3D0;
+        padding: 15px;
+        margin: 20px;
+        width: 60%;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        position: relative;
+        align-items: baseline;
+        flex-direction: column;
+        left: 39vh;
+    }
+.re{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.alinha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle-box4 span {
+    font-weight: bold;
+    color: black;
+    background-color: #B5F5FF;
+    padding: 15px;
+    margin-left: -457px;
+    margin-top: 20px;
+  }
+  .box9 {
+    display: flex;
+    padding: 15px;
+    margin: 20px;
+    width: 60%;
+    position: relative;
+    align-items: baseline;
+    flex-direction: column;
+    left: 39vh;
+}

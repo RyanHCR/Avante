@@ -154,7 +154,7 @@
         <div class="linha"></div><br>
         <p class="top tamanho">FORMAS DE ESTADO:</p>
         <br>
-        
+
         <head>
             <div class="container5">
                 <div class="box2">
@@ -175,50 +175,161 @@
 
 
 
-</head>
+        </head>
 
-        <p class="n tamanho"><div class="container6">
-    <div class="box3 left-box3">
-        <p class="p1">O QUE É POLÍTICA?</p>
-    </div> 
-    <div class="box3 right-box3"></div>
-</div></p>
-        <p>A política pode ser entendida como a atividade que envolve a busca, a conquista e o exercício do poder. Ela se manifesta em diferentes esferas da vida, desde as relações interpessoais até as decisões de governo.</p>
-        <p>Definição clássica (Aristóteles): A política é a arte de governar a polis (cidade-Estado) e buscar o bem comum.</p>
-        <img src="../../../Resources/images/poderes4.jpg">
-        <p>Definição moderna: A política refere-se à organização e ao exercício do poder em uma sociedade, englobando o funcionamento das instituições e a ação dos governantes e cidadãos.</p>
+        <p class="n tamanho">
+        <div class="container6">
+            <div class="box3 left-box3">
+                <p class="p1">O QUE É POLÍTICA?</p>
+            </div>
+            <div class="box3 right-box3"></div>
+        </div>
+        </p>
+        <div style="display: flex; justify-content: center; align-items: center; max-width: 90%;margin-left: 100px;">
+            <p class="tamanho">A política pode ser entendida como a atividade que envolve a busca, a conquista e o exercício do poder. Ela se manifesta em diferentes esferas da vida, desde as relações interpessoais até as decisões de governo.</p>
+        </div>
 
-        <p>TEORIAS POLÍTICAS:</p>
-        <p>1. Liberalismo: Defende a liberdade individual, a economia de mercado e o Estado limitado.</p>
-        <p>2. Socialismo: Propõe a intervenção do Estado na economia e a igualdade social.</p>
-        <p>3. Conservadorismo: Valoriza a tradição, a ordem e a manutenção das instituições.</p>
-        <p>4. Anarquismo: Rejeita qualquer forma de governo, propondo uma sociedade sem Estado.</p>
+        <head class="f">
+            <div class="container7">
+                <!-- Definição Clássica -->
+                <div class="box4">
+                    <img src="../../../Resources/images/poderes4.jpg" alt="Imagem de Aristóteles">
+                    <p><span> &#10132;</span><span class="arrow">Definição clássica (Aristóteles):</span>A política é a arte de governar a polis (cidade-Estado) e buscar o bem comum.</p>
+                    <br>
+                    <br>
 
-        <p>INSTITUIÇÕES POLÍTICAS:</p>
-        <p>Partidos Políticos: Organizações que articulam interesses sociais e disputam o poder.</p>
-        <p>Sistema Eleitoral: Conjunto de regras que define como os cidadãos escolhem seus representantes.</p>
-        <p>
-            Governos e Administrações Públicas: Estruturas responsáveis pela gestão do Estado.</p>
 
-        <p>RELAÇÕES ENTRA PODER, ESTADO E POLÍTICA</p>
-        <p>Esses três conceitos estão profundamente interligados:</p>
-        <p>Poder: É o elemento que permite ao Estado organizar a sociedade e cumprir suas funções. </p>
-        <p>Estado: É a instituição que organiza o poder em um território, mediando os conflitos sociais e garantindo a ordem.</p>
-        <p>Política: É o processo pelo qual o poder é distribuído e exercido no âmbito do Estado.</p>
+                    <!-- Separador -->
+                    <hr class="line-separator">
+                    <hr class="line-separator2">
+                </div>
+                <!-- Definição Moderna -->
+                <div class="box5">
+                    <span> &#10132;</span>
+                    <p><span class="arrow">Definição moderna:</span> A política refere-se à organização e ao exercício do poder em uma sociedade, englobando o funcionamento das instituições e a ação dos governantes e cidadãos.</p>
+                </div>
+            </div>
+        </head>
+        <body3>
+            <div class="container8">
+                <div class="box6"></div>
+                <div class="middle-box6">
+                    <span>TEORIAS POLÍTICAS:</span>
+                </div>
+                <div class="box6"></div>
+            </div>
+        </body3>
+        <div class="container-grid">
+            <div class="text-box tamanho4">
+                <div class="number-circle">1</div>
+                <p>1. Liberalismo: Defende a liberdade individual, a economia de mercado e o Estado limitado.</p>
 
-        <p>DESAFIOS CONTEMPORÂNEOS</p>
-        <p>Nos dias de hoje, o poder, o Estado e a política enfrentam novos desafios:</p>
-        <p>Globalização: A interdependência econômica e política entre os países enfraquece o papel do Estado-nação.</p>
-        <p>Movimentos Sociais: Grupos que questionam as formas tradicionais de poder e lutam por direitos civis, ambientais e econômicos.</p>
-        <p>Crise da Democracia: O aumento da desconfiança nas instituições políticas e a ascensão de líderes autoritários.</p>
+            </div>
+            <div class="text-box tamanho4">
+                <div class="number-circle">2</div>
+                <p>2. Socialismo: Propõe a intervenção do Estado na economia e a igualdade social.</p>
 
-        <p>REFERÊNCIAS BIBLIOGRÁFICAS E TEÓRICAS</p>
-        <p>WEBER, Max. Economia e Sociedade.</p>
-        <p>FOUCAULT, Michel. Microfísica do Poder.</p>
-        <p>HOBBES, Thomas. Leviatã.</p>
-        <p>LOCKE, John. Segundo Tratado Sobre o Governo.</p>
-        <p>ROUSSEAU, Jean-Jacques. O Contrato Social.</p>
+            </div>
+            <div class="text-box tamanho4">
+                <div class="number-circle">3</div>
+                <p>3. Conservadorismo: Valoriza a tradição, a ordem e a manutenção das instituições.</p>
 
+            </div>
+            <div class="text-box2 tamanho4">
+                <div class="number-circle2">4</div>
+                <p>4. Anarquismo: Rejeita qualquer forma de governo, propondo uma sociedade sem Estado.</p>
+
+            </div>
+        </div>
+        <body3>
+            <div class="container8">
+                <div class="box6"></div>
+                <div class="middle-box6">
+                    <span>INSTITUIÇÕES POLÍTICAS:</span>
+                </div>
+                <div class="box6"></div>
+            </div>
+        </body3>
+        </div>
+        <!-- Definição Moderna -->
+        <div class="box7">
+            <div class="re"><span> &#10132;</span>
+                <p><span class="arrow">Partidos Políticos:</span>Organizações que articulam interesses sociais e disputam o poder.</p>
+            </div>
+            <div class="re"><span> &#10132;</span>
+                <p><span class="arrow">Sistema Eleitoral:</span>Conjunto de regras que define como os cidadãos escolhem seus representantes.</p>
+            </div>
+            <div class="re"><span> &#10132;</span>
+                <p><span class="arrow">Governos e Administrações Públicas:</span>Estruturas responsáveis pela gestão do Estado.</p>
+            </div>
+        </div>
+        <div class="linha"></div><br>
+        <p class="top tamanho">RELAÇÕES ENTRA PODER, ESTADO E POLÍTICA</p>
+
+        <p class="alinha">Esses três conceitos estão profundamente interligados:</p>
+
+        <div class="box8">
+            <div class="re">
+                <p><span class="arrow">Poder:</span>É o elemento que permite ao Estado organizar a sociedade e cumprir suas funções. </p>
+            </div>
+            <div class="re">
+                <p><span class="arrow">Estado:</span>É a instituição que organiza o poder em um território, mediando os conflitos sociais e garantindo a ordem.</p>
+            </div>
+            <div class="re">
+                <p><span class="arrow">Política:</span>É o processo pelo qual o poder é distribuído e exercido no âmbito do Estado.</p>
+            </div>
+        </div>
+        <div class="align">
+            <div class="linha2"></div>
+            <div class="middle-box2">
+                <span>DESAFIOS CONTEMPORÂNEOS</span>
+            </div>
+        </div>
+
+        <p class="alinha">Nos dias de hoje, o poder, o Estado e a política enfrentam novos desafios:</p>
+
+        <div class="container-grid2">
+            <div class="text-box3 tamanho3" style="background-color: #B5F5FF">
+                <p>Globalização: A interdependência econômica e política entre os países enfraquece o papel do Estado-nação.</p>
+            </div>
+
+            <div class="text-box3 tamanho3" style="background-color: #6FC3D0">
+                <p>Movimentos Sociais: Grupos que questionam as formas tradicionais de poder e lutam por direitos civis, ambientais e econômicos.</p>
+            </div>
+
+            <div class="text-box3 tamanho3" style="background-color: #2F91A0">
+                <p>Crise da Democracia: O aumento da desconfiança nas instituições políticas e a ascensão de líderes autoritários.</p>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="linha"></div>
+        <br>
+        <br>
+        <div class="align">
+            <div class="middle-box4">
+                <span>REFERÊNCIAS BIBLIOGRÁFICAS E TEÓRICAS</span>
+            </div>
+        </div>
+
+        <div class="box9">
+            <div class="re">
+                <p><span> &#10132;</span>WEBER, Max. Economia e Sociedade.</p>
+            </div>
+            <div class="re">
+                <p><span> &#10132;</span>FOUCAULT, Michel. Microfísica do Poder.</p>
+            </div>
+            <div class="re">
+                <p><span> &#10132;</span>HOBBES, Thomas. Leviatã.</p>
+            </div>
+            <div class="re">
+                <p><span> &#10132;</span>LOCKE, John. Segundo Tratado Sobre o Governo.</p>
+            </div>
+            <div class="re">
+                <p><span> &#10132;</span>ROUSSEAU, Jean-Jacques. O Contrato Social.</p>
+            </div>
+        </div>
 
         <style>
             .button-back {
