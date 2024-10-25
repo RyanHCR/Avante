@@ -148,7 +148,8 @@
 
     <p class="cont2 tamanho">Esses sociólogos ajudaram a moldar o pensamento sociológico no Brasil e a entender melhor as dinâmicas sociais, políticas e raciais do país.</p>
 
-
+    <div class="final"></div>
+    
     <style>
         .button-back {
             width: 120px;
