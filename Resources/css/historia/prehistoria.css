@@ -52,7 +52,8 @@ p{
 .vertical-line1 {
     border-left: 3px solid #2F91A0; /* Espessura e cor da linha */
     height: 370px; /* Altura da linha */
-    margin-left: 200px; /* Espaço à esquerda */
+    margin-left: 100px; /* Espaço à esquerda */
+    margin-top: 25px;
 }
 
 .vertical-line2 {
@@ -66,7 +67,7 @@ p{
     background-color: #B5F5FF;
     height: 55px;
     width: 500px;
-    margin-left: 220px;
+    margin-left: 270px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
@@ -82,7 +83,7 @@ p{
     background-color: #DEFAFF;
     border-radius: 30px;
     margin-left:50px;
-    margin-top: 40px;
+    margin-top: 70px;
 }
 
 .text3 {

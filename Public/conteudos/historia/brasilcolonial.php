@@ -34,10 +34,10 @@
     
 
     <hr class="hr2"> 
-
 <div class="box3">
     <p class="text2">A CHEGADA DOS PORTUGUESES (1500)</p>
     </div>
+
     <p class="texto1">A história do Brasil colonial começa oficialmente em 22 de abril de 1500, quando a esquadra comandada por Pedro Álvares Cabral chegou à costa brasileira. Embora o "descobrimento" seja uma questão controversa, dado que o território já era habitado por milhões de indígenas, foi a partir desse marco que o Brasil entrou no radar das potências europeias.</p>
     <div class="container">
     <container class="bb">
@@ -125,31 +125,33 @@
 
     <p class="justifiedtext3">Com a chegada dos portugueses e a colonização do Brasil, a relação entre indígenas e colonizadores rapidamente se deteriorou. Os indígenas foram submetidos a processos de escravização, expropriação de terras e imposição da cultura europeia, particularmente do cristianismo.</p>
 <br><br>
+
+<!--1-->
     <div class="overlay-div">ESCRAVIDÃO INDÍGENA</div>
     <div class="item-abolicionista">
         <div class="number-circle">1</div>
         <span class="highlight2">Nos primeiros anos da colonização, os indígenas foram amplamente explorados como mão de obra escrava. A resistência indígena era constante, levando à fuga e à formação de aldeias em locais remotos.
     </div>
     <div class="box11-container">
-<hr class="hr9">
+    <hr class="hr17">
 <img class="imagecenter"src="../../../Resources/images/navegações5.jpg">
-<hr class="hr10">
+<hr class="hr18">
     </div>
     <br><br><br>
-
+<!--2-->
     <div class="overlay-div2">O PACTO COM OS JESUÍTAS</div>
     <div class="item-abolicionista">
         <div class="number-circle">2</div>
         <span class="highlight2">No início, as tentativas de escravização foram acompanhadas pela chegada de missionários jesuítas, que viam os indígenas como "almas a serem salvas". Eles fundaram missões, ou aldeamentos, onde tentavam converter os indígenas ao catolicismo e ensinar costumes europeus para também controlar e "civilizar" os nativos. Os jesuítas, no entanto, também protegiam os indígenas da escravização direta por colonos,transformando seu modo de vida e suas práticas culturais.
     </div>
     <div class="box11-container">
-<hr class="hr11">
+<hr class="hr15">
 <img class="imagecenter"src="../../../Resources/images/navegações6.jpg">
-<hr class="hr12">
+<hr class="hr16">
     </div>
     
 <br><br><br>
-
+<!--3-->
     <div class="overlay-div2">DOENÇAS</div>
     <div class="item-abolicionista">
         <div class="number-circle">3</div>
@@ -206,14 +208,13 @@
     <p class="text8">A COLONIZAÇÃO E O SISTEMA DE CAPITANIAS HEREDITÁRIAS (1530 - 1549)</p>
     </div>
     <p class="justifiedtext2" style="font-weight:bold">A colonização do Brasil de forma sistemática só começou na década de 1530, quando a Coroa Portuguesa passou a enfrentar ameaças estrangeiras (franceses e holandeses) e percebeu o potencial econômico do território.</p>
-    
-    <div class="caminhos-abolicao">
+
     <div class="item-abolicionista">
         <div class="number-circle">1</div>
         <span class="highlight2">Capitanias Hereditárias: Em 1534, o rei Dom João III dividiu o Brasil em 15 capitanias, que foram entregues a nobres e fidalgos portugueses. O sistema falhou em grande parte, exceto pelas capitanias de São Vicente e Pernambuco.
     </div>
 
-    <div class="caminhos-abolicao">
+
     <div class="item-abolicionista">
         <div class="number-circle">2</div>
         <span class="highlight2">Governo-Geral: Em 1549, a Coroa criou o Governo-Geral, centralizando a administração colonial e designando Tomé de Sousa como primeiro governador-geral. Salvador foi escolhida como capital. Apesar das tentativas de centralização e controle pela Coroa, os conflitos com os povos indígenas continuaram, especialmente nas regiões de expansão colonial, onde a resistência indígena permaneceu significativa.
@@ -240,11 +241,10 @@
     </div>
     </div>
     </div>
-    <img class="navegacoes2" src="../../../Resources/images/navegações9.jpg">
+    <img class="navegacoes27" src="../../../Resources/images/navegações9.jpg">
 </div>
 <div class="flexbox5">
 <img src="../../../Resources/images/navegações10.jpg">
-<div class="caminhos-abolicao">
 <div class="item-abolicionista2">
     <div class="number-circle">2</div>
     <div class="box13"><p class="texto13">MONOCULTURA E LATIFÚNDIO:</p></div>
@@ -255,7 +255,6 @@
 
 <div class="flexbox5">
 <img src="../../../Resources/images/navegações11.jpg">
-<div class="caminhos-abolicao">
 <div class="item-abolicionista3">
     <div class="number-circle">2</div>
     <div class="box13"><p class="texto13">MÃO DE OBRA ESCRAVA:</p></div>
@@ -266,7 +265,6 @@
 
 <div class="flexbox5">
 <img src="../../../Resources/images/navegações12.jpg">
-<div class="caminhos-abolicao">
 <div class="item-abolicionista4">
     <div class="number-circle">2</div>
     <div class="box13"><p class="texto13">SOCIEDADE AÇUCAREIRA:</p></div>
@@ -287,45 +285,89 @@
     <p class="text64"><span class="highlight">Tráfico Negreiro e Escravidão Indígena:</span>Embora o tráfico de africanos tenha predominado, durante os primeiros anos de colonização, muitos indígenas foram escravizados e forçados a trabalhar nos engenhos e na extração de pau-brasil. Os indígenas que não conseguiam escapar dessa realidade enfrentavam condições de trabalho exaustivas, semelhantes às impostas aos africanos mais tarde.</p>
     <p class="text65"><span class="highlight">Condições de Vida e Resistência:</span>A resistência indígena se manifestava através de fugas, rebeliões e a formação de quilombos e outras formas de sociedades alternativas.</p>
 </div>
-<br><br><br>
-<div class="flexbox">
 
-<div class="box30">
-    <p class="text51">CICLO DO OURO (SÉCULO XVIII)</p>
-</div>
+<hr class="hr2"> 
+<div class="box3">
+    <p style="text-align:center;padding-top:15px">CICLO DO OURO (SÉCULO XVIII)</p>
+    </div>
 
-</div>
 
-    No final do século XVII, o Brasil entrou em uma nova fase de exploração econômica com a descoberta de ouro em Minas Gerais. O ciclo do ouro marcou profundamente a economia, a política e a sociedade colonial.</p>
+    <p class="justifiedtext2">No final do século XVII, o Brasil entrou em uma nova fase de exploração econômica com a descoberta de ouro em Minas Gerais. O ciclo do ouro marcou profundamente a economia, a política e a sociedade colonial.</p>
 
+    <div class="box-container">
+ <div class="box81">
     <p>Exploração Aurífera e Impacto Indígena: A corrida pelo ouro também afetou as populações indígenas que viviam nas regiões mineradoras, muitas vezes deslocadas ou exterminadas pelas incursões coloniais.</p>
+    </div>
+<div class="box91">
     <p>A Coroa Portuguesa cobrava impostos pesados sobre a produção de ouro, especialmente o "quinto", que correspondia a 20% do ouro extraído.</p>
+    </div>
+</div>
+
+<hr class="hrX">
+
+<br><br>
+
+<div class="box14-container">
+    <hr class="hr13">
+    <div class="box14">
+        <p>A CULTURA NO BRASIL COLONIAL</p>
+    </div>
+    <hr class="hr14">
+</div>
    
-    <p>A CULTURA NO BRASIL COLONIAL</p>
-    <p>A sociedade colonial foi marcada pela mescla de influências indígenas, africanas e europeias, gerando uma rica e diversificada cultura.</p>
-    <p>Legado Cultural Indígena: A influência indígena na cultura brasileira é profunda. No vocabulário, várias palavras do tupi-guarani foram incorporadas ao português falado no Brasil. Além disso, a culinária, o artesanato e as tradições de interação com a natureza também foram influenciadas pelos povos originários.</p>
-    <p>Sincretismo Religioso: A fusão de elementos religiosos africanos e indígenas com o catolicismo criou uma rica tradição sincrética no Brasil.</p>
+    <p class="justifiedtext2">A sociedade colonial foi marcada pela mescla de influências indígenas, africanas e europeias, gerando uma rica e diversificada cultura.</p>
 
-    <p>REBELIÕES E MOVIMENTOS DE RESISTÊNCIA (Século XVIII e XIX)</p>
-    <p>A opressão colonial gerou uma série de revoltas e movimentos de resistência contra o domínio português, alguns dos mais famosos são:</p>
+    <div class="line1"><p style="width:1150px"><span> &#10132;</span>Legado Cultural Indígena: A influência indígena na cultura brasileira é profunda. No vocabulário, várias palavras do tupi-guarani foram incorporadas ao português falado no Brasil. Além disso, a culinária, o artesanato e as tradições de interação com a natureza também foram influenciadas pelos povos originários.</p></div>
+
+
+    <div class="line1"><p style="width:1150px"><span> &#10132;</span> Sincretismo Religioso: A fusão de elementos religiosos africanos e indígenas com o catolicismo criou uma rica tradição sincrética no Brasil.</p></div>
    
-    <p>RESISTÊNCIA INDÍGENA</p>
-    <p>Ao longo de todo o período colonial, os povos indígenas resistiram de diversas formas, desde guerras abertas contra os colonizadores até fugas para territórios mais remotos. Movimentos como a Confederação dos Tamoios e a resistência dos Guaranis nas Missões Jesuíticas são exemplos desse enfrentamento.</p>
+    <hr class="hrX">
 
-    <p>INCONFIDÊNCIA MINEIRA (1789)</p>
-    <p>Um movimento liderado por membros da elite de Minas Gerais, como Tiradentes, que se inspiraram nas ideias iluministas e na Revolução Americana.</p>
-    <img src="../../../Resources/images/navegações13.jpg">
+    <div class="box15">
+    <p class="texto15">REBELIÕES E MOVIMENTOS DE RESISTÊNCIA (Século XVIII e XIX)</p>
+    </div>
+    <p CLASS="justifiedtext2">A opressão colonial gerou uma série de revoltas e movimentos de resistência contra o domínio português, alguns dos mais famosos são:</p>
 
-    <p>A INDEPENDÊNCIA DO BRASIL (1822)</p>
-    <p>O século XIX foi marcado pela crescente insatisfação com o domínio português, culminando com a Independência do Brasil, proclamada por Dom Pedro I em 7 de setembro de 1822.</p>
-    <p>O Papel dos Indígenas no Período da Independência: Apesar da marginalização dos povos indígenas nas discussões políticas, muitos continuaram a resistir às tentativas de integração forçada e ocupação de suas terras, um conflito que se perpetuou após a independência.</p>
-    <img src="../../../Resources/images/navegações14.jpg">
 
-    <p>Conclusão: O Legado do Brasil Colonial e os Povos Indígenas O Brasil colonial deixou um legado profundo e complexo. O sistema escravocrata e a monocultura de exportação moldaram a economia, a estrutura social e a distribuição de terras no país. Para os povos indígenas, o período colonial foi de perda massiva de terras, cultura e vidas, mas também de resistência e resiliência.</p>
+    <div class="container9">
+  <div class="background-div10">Ao longo de todo o período colonial, os povos indígenas resistiram de diversas formas, desde guerras abertas contra os colonizadores até fugas para territórios mais remotos. Movimentos como a Confederação dos Tamoios e a resistência dos Guaranis nas Missões Jesuíticas são exemplos desse enfrentamento.</div>
+  <div class="overlay-div10">RESISTÊNCIA INDÍGENA</div>
+  <div class="background-div20">Um movimento liderado por membros da elite de Minas Gerais, como Tiradentes, que se inspiraram nas ideias iluministas e na Revolução Americana.</div>
+  <div class="overlay-div20">INCONFIDÊNCIA MINEIRA (1789)</div>
+</div>
 
-    <p>PRINCIPAIS HERANÇAS:</p>
-    <p>Diversidade Cultural: A influência indígena na cultura, língua e tradições do Brasil moderno é imensa, apesar dos esforços coloniais de apagamento cultural.</p>
-    <p>Resistência e Resiliência Indígena: Apesar da violência sofrida, os povos indígenas continuam a lutar por seus direitos e pela preservação de suas culturas e terras.</p>
+<div class="box11-container">
+    <hr class="hr19">
+<img class="imagecenter"src="../../../Resources/images/navegações13.jpg">
+<hr class="hr20">
+    </div>
+<br><br><br>
+    <div class="box5-container">
+    <hr class="hr21">
+    <div class="box16">
+        <p class="text10">A INDEPENDÊNCIA DO BRASIL (1822)</p>
+    </div>
+    <hr class="hr22">
+</div>
+    
+    <p class="justifiedtext2">O século XIX foi marcado pela crescente insatisfação com o domínio português, culminando com a Independência do Brasil, proclamada por Dom Pedro I em 7 de setembro de 1822.</p>
+   <div class="flexbox3">
+    <img class="navigations "src="../../../Resources/images/navegações14.jpg">
+    <p class="side">O Papel dos Indígenas no Período da Independência: Apesar da marginalização dos povos indígenas nas discussões políticas, muitos continuaram a resistir às tentativas de integração forçada e ocupação de suas terras, um conflito que se perpetuou após a independência.</p>
+</div>
+
+
+    <p class="justifiedtext2">Conclusão: O Legado do Brasil Colonial e os Povos Indígenas O Brasil colonial deixou um legado profundo e complexo. O sistema escravocrata e a monocultura de exportação moldaram a economia, a estrutura social e a distribuição de terras no país. Para os povos indígenas, o período colonial foi de perda massiva de terras, cultura e vidas, mas também de resistência e resiliência.</p>
+
+    <div class="box15">
+    <p class="texto15">PRINCIPAIS HERANÇAS:</p>
+    </div>
+
+    <div class="line1"><p style="width:1150px"><span> &#10132;</span>Diversidade Cultural: A influência indígena na cultura, língua e tradições do Brasil moderno é imensa, apesar dos esforços coloniais de apagamento cultural.</p></div>
+
+    <div class="line1"><p style="width:1150px"><span> &#10132;</span> Resistência e Resiliência Indígena: Apesar da violência sofrida, os povos indígenas continuam a lutar por seus direitos e pela preservação de suas culturas e terras.</p></div>
+
 
     <style>
 
