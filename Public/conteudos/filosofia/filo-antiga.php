@@ -53,7 +53,7 @@
         }
 
         .image-left {
-            max-width: 40%; /* Ajusta o tamanho da imagem */
+            max-width: 10%; /* Ajusta o tamanho da imagem */
             margin-right: 20px; /* Espaço entre a imagem e o texto */
             float: left; /* Coloca a imagem à esquerda do texto */
         }
@@ -62,12 +62,16 @@
 </head>
 <body>
 
+<title>Texto e Imagem</title>
+</head>
+<body>
+
 <div class="allone"><br><br><br>
     <img src="../../../Resources/images/antiga1.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-    <br>  <h1>A filosofia antiga surge com a substituição do saber mítico ao da razão e isso ocorreu com o surgimento da polis grega (cidade-estado).
-Essa nova organização grega, foi fundamental para a desmistificação do mundo através da razão e, com isso, as reflexões dos filósofos.
-Mais tarde, as discussões que ocorriam em praça pública juntamente com o poder da palavra e da razão (logos) levaram a criação da democracia.
-</h1> 
+    <br>  <p class="text9">Foco: Desenvolveu uma abordagem mais empírica e lógica do conhecimento, divergindo de Platão.
+Obras principais: "Ética a Nicômaco", "Política", "Metafísica".
+Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o homem é um "animal político".</p>
+</h2> 
    
 
 </div>
@@ -100,33 +104,37 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
         </p>
     </div>
     <div>
-    <div class="box3">
+    
 
-        <p class="text7">SÓCRATES (469–399 a.C.)</p>
+    <div class="box4">
+
+<p class="text7">PRÉ-SOCRÁTICOS</p>
+        
+<div class="hr30"></div>
        
    
-    <p class="text8">Foco: A virtude e o conhecimento. Sócrates é famoso por sua máxima "Só sei que nada sei" e
+    <p class="text81">Foco: A virtude e o conhecimento. Sócrates é famoso por sua máxima "Só sei que nada sei" e
         pelo uso da maiêutica, um método de questionamento para atingir o conhecimento.
         Legado: Não deixou escritos; suas ideias foram registradas por discípulos, como Platão. </p>
     <br>
 
  </div>
 
+ <br> <br> <br>
+ <div class="box40>
 
 
-    <div class="box4">
-
-<p class="text7">PRÉ-SOCRÁTICOS</p>
         
 
 
-<div class="hr30">
+         <br> <br> <br>
 
+<p class="text7"></p>
     <p class="text8">Foco: Esses primeiros filósofos buscavam explicações naturais para a origem do universo
         (cosmogonia) e a natureza das coisas.
         Filósofos principais: Tales de Mileto, Anaximandro, Heráclito, Parmênides.
         Ideias centrais: Elementos primordiais (água, fogo, ar, etc.), mudança e permanência no cosmos. </p>
-    </div>
+    
 
    
       
@@ -165,7 +173,7 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
             display: block;
             margin-left: auto;
             margin-right: auto;
-            max-width: 40%; /* Ajuste o tamanho da imagem conforme necessário */
+            max-width: 10%; /* Ajuste o tamanho da imagem conforme necessário */
         }
 
         .allone {
@@ -193,9 +201,19 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 </body>
 </html>
+<br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>  
+<div class="box2"></div>
+<div class="hr352"></div>
+<div class="hr350"></div>
 
   <img class="image-center2" src="../../../Resources/images/antiga2.jpeg">
-  <div class="box2"></div>
+  <div class="hr680"></div>
+  <div class="hr68"></div>
+  <div class="hr681 "></div>
+  
+  <div class="hr101 "></div>
+  <br>  
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
   <br>
 
   <br>
@@ -208,23 +226,31 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 </head>
 <body>  <br>
         <div class="box40">
-        <div class="box222"></div>
-        <div class="box123"></div>
-<p class="text7">PLATÃO (427–347 a.C.)</p>
-<div class="box2223"></div>
-<div class="box1234"></div>
    
 
+  
+<p class="text7">SÓCRATES (469–399 a.C.)</p>
+
+<br>
+<div class="box2223"></div>
+
+<br>
+<div class="box1234"></div>
+   
+  <br>
 
 
-<div class="box11-container"> Foco: Desenvolveu uma abordagem mais empírica e lógica do conhecimento, divergindo de Platão.
-Obras principais: "Ética a Nicômaco", "Política", "Metafísica".
-Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o homem é um "animal político".
-       
-        <img class="image-center2" src="../../../Resources/images/antiga3.jpeg">
+<br>
+
+<di
+
+
+  
+
+<img class="image-center2" src="../../../Resources/images/antiga3.jpeg">
     
      
-    </div>
+    </di>
     <?php
     
    
@@ -248,19 +274,27 @@ Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o ho
 <body>  <br><br><br><br><br><br><br>
 
         <div class="box4">
+        
 
-<p class="text7">ARISTÓTELES (384–322 a.C.)</p>
-
-
-
+<p class="text7">PLATÃO (427–347 a.C.)</p>
 
 
-<div class="box11-container">Foco: Desenvolveu uma abordagem mais empírica e lógica do conhecimento, divergindo de Platão.
-Obras principais: "Ética a Nicômaco", "Política", "Metafísica".
-Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o homem é um "animal político".
-       
-        <img class="image-center2" src="../../../Resources/images/antiga4.jpeg">
-    
+
+</style>
+    <title>Texto e Imagem</title>
+</head>
+<body>
+
+<div class="allone"><br><br><br>
+    <img src="../../../Resources/images/antiga3.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
+    <br>  <p class="text9">&#9679;Foco: A teoria das ideias ou formas, na qual o mundo físico é apenas uma sombra de uma realidade ideal e perfeita.
+        <br>
+&#9679;Obra principal: "A República", onde discute a justiça, o governo ideal e a educação.
+<br>
+&#9679;Conceitos: Dualismo entre corpo e alma, teoria do conhecimento.</p>
+</h2> 
+   
+
      
     </div>  
 
@@ -278,6 +312,113 @@ Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o ho
 
           
         </div>
+
+
+
+  
+        <body>  <br><br><br><br><br><br><br>
+</head>
+<body>  <br><br><br><br><br><br><br>
+<body>  <br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="box4">
+        
+
+<p class="text7">PLATÃO (427–347 a.C.)</p>
+
+
+
+</style>
+    <title>Texto e Imagem</title>
+</head>
+<body>
+
+<div class="allone"><br><br><br>
+    <img src="../../../Resources/images/antiga3.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
+    <br>  <p class="text9">&#9679;Foco: A teoria das ideias ou formas, na qual o mundo físico é apenas uma sombra de uma realidade ideal e perfeita.
+        <br>
+&#9679;Obra principal: "A República", onde discute a justiça, o governo ideal e a educação.
+<br>
+&#9679;Conceitos: Dualismo entre corpo e alma, teoria do conhecimento.</p>
+</h2> 
+   
+
+     
+    </div>  
+
+
+    </body>
+
+    </html>
+
+    <br><br>
+
+
+    
+
+  
+
+          
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
     
     <body>  <br><br><br><br><br><br><br>
@@ -288,21 +429,33 @@ Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o ho
 
 <p class="text7">ESCOLAS HELENÍSTICAS</p>
 
+</style>
+    <title>Texto e Imagem</title>
+</head>
+<body>
 
-
-
-
-<div class="box11-container"> Epicurismo: Fundado por Epicuro, defendia que a felicidade (ataraxia) era atingida pela busca de prazeres moderados e pela ausência de dor.
-Estoicismo: Fundado por Zenão de Cítio, enfatizava a razão, autocontrole e a aceitação das circunstâncias naturais.
-Ceticismo: Defendido por Pirro de Élis, argumentava que o conhecimento absoluto é impossível, promovendo uma atitude de suspensão de julgamento.
-       
-        <img class="image-center2" src="../../../Resources/images/antiga4.jpeg">
+<div class="allone"><br><br><br>
+    <img src="../../../Resources/images/antiga5.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
+     <p class="text9"> 
     
-    </div>
-   
+    &#9679;Epicurismo: Fundado por Epicuro, defendia que a felicidade (ataraxia) era atingida pela busca de prazeres moderados e pela ausência de dor.
+    <br>  <br>
+    &#9679;Estoicismo: Fundado por Zenão de Cítio, enfatizava a razão, autocontrole e a aceitação das circunstâncias naturais.
+    <br>  <br>
+    &#9679;Ceticismo: Defendido por Pirro de Élis, argumentava que o conhecimento absoluto é impossível, promovendo uma atitude de suspensão de julgamento.</p>
 
-    <div class="box2">
-  
+
+
+
+
+
+
+
+</h2> 
+   
+    <br>
+        
+    <br>
     </div>
         
     <html lang="pt-BR">
@@ -343,13 +496,88 @@ Ceticismo: Defendido por Pirro de Élis, argumentava que o conhecimento absoluto
 </body>
 </html>
 
-  <div class="box2"></div>
+  <div class="box150"></div>
   <br>
 
   <br>
-    <img class="image-center2" src="../../../Resources/images/antiga7.jpeg">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  </body>
+</html>
+<br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>  
+<div class="box2"></div>
+<div class="hr352"></div>
+<div class="hr350"></div>
+
+  <img class="image-center2" src="../../../Resources/images/antiga7.jpeg">
+  <div class="hr680"></div>
+  <div class="hr68"></div>
+  <div class="hr681 "></div>    
+  <div class="hr101 "></div>
+  <br>  
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+  <br>
+
+  <br>
+  
+   
+  
     <br>
     
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
     <br>
     <div class="box22"></div>
   
