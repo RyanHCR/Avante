@@ -24,7 +24,7 @@
 </header>
 
 <div class="sub-header">
-    <p>FILOSOFIA COMTEMPORÂNEA</p>
+    <p>FILOSOFIA CONTEMPORÂNEA</p>
 </div>
 
     <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
@@ -144,7 +144,7 @@
         <p><b>Adorno e Horkheimer</b>, em sua obra Dialética do Esclarecimento, argumentam que a razão, ao invés de libertar a humanidade, acabou sendo instrumentalizada, contribuindo para formas de controle e opressão.</p>
     </div>
     <div class="box91">
-        <p><b>Habermas: </b>, um dos últimos grandes teóricos da Escola de Frankfurt, focou no conceito de ação comunicativa e na ideia de uma esfera pública democrática, onde o discurso racional poderia promover a emancipação social.</p>
+        <p><b>Habermas</b>, um dos últimos grandes teóricos da Escola de Frankfurt, focou no conceito de ação comunicativa e na ideia de uma esfera pública democrática, onde o discurso racional poderia promover a emancipação social.</p>
     </div>
 </div>
 

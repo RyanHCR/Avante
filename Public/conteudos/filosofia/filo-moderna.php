@@ -102,18 +102,28 @@
 
 <img class="seta" src="../../../Resources/images/setinhamuitofoda.png">
 
-<div class="container2">
+<div class="image-row">
     <img src="../../../Resources/images/moderna3.jpeg">
     <img src="../../../Resources/images/moderna4.jpeg">
     <img src="../../../Resources/images/moderna5.jpeg">
 </div>  
-    <p>Principais Correntes de Pensamento na Filosofia Moderna:</p>
-    <p>Racionalismo: Defende que a razão é a principal fonte do conhecimento. Exponentes: Descartes, Spinoza, Leibniz.</p>
-    <p>Empirismo: Sostém que todo o conhecimento provém da experiência sensorial. Exponentes: Locke, Hume, Berkeley.</p>
-    <p>Idealismo Alemão: Focado na ideia de que a realidade é formada pela mente. Exponentes: Kant, Hegel, Fichte.</p>
-    <p>Existencialismo: Focado na liberdade e no sentido individual da existência. Exponentes: Kierkegaard, Nietzsche.</p>
 
-    <p>A filosofia moderna marcou o início de uma nova era de questionamento e de busca por respostas científicas e racionais sobre a realidade, o ser humano, e a sociedade.</p>
+<br><br><br>
+<hr class="hr9">
+<div class="box30">
+    <p class="text9">Principais Correntes de Pensamento<br> na Filosofia Moderna:</p>
+</div>
+
+    <div class="line1"><img src="../../../Resources/images/SETA 5.png"><p><b>Racionalismo:</b> Defende que a razão é a principal fonte do conhecimento. Exponentes: Descartes, Spinoza, Leibniz.</p></div>
+    <div class="line2"><img src="../../../Resources/images/SETA 5.png"><p><b>Empirismo:</b> Sostém que todo o conhecimento provém da experiência sensorial. Exponentes: Locke, Hume, Berkeley.</p></div>
+    <div class="line3"><img src="../../../Resources/images/SETA 5.png"><p><b>Idealismo Alemão:</b> Focado na ideia de que a realidade é formada pela mente. Exponentes: Kant, Hegel, Fichte.</p></div>
+    <div class="line4"><img src="../../../Resources/images/SETA 5.png"><p><b>Existencialismo:</b> Focado na liberdade e no sentido individual da existência. Exponentes: Kierkegaard, Nietzsche.</p></div>
+
+    <br><br>
+    <div class="text10">
+        <p><b>A filosofia moderna marcou o início de uma nova era de questionamento e de busca por respostas científicas e racionais sobre a realidade, o ser humano, e a sociedade.</b></p><br><br>
+    </div>
+    <footer><br></br></footer>
     
     
     

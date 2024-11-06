@@ -157,7 +157,7 @@
     <p><b>Revoltas Camponesas: Insatisfeitos com os impostos e a exploração, camponeses se rebelaram contra seus senhores em várias partes da Europa.</b></p>
     </div>
 </div>
-<BR></br><br>
+<br><br><br>
 
 <hr class="hr9">
 <div class="box30">

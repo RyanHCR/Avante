@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sociologia contemporânea</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
+    <link rel="stylesheet" href="../../../Resources/css/sociologia.css/contemporanea.css">
     <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
 </head>
 <body>
@@ -27,10 +28,73 @@
 </div>
 
     <a href="../../materias/sociologia.php" class="button-back">VOLTAR</a>
-    <p>A sociologia contemporânea estuda as transformações que aconteceram na sociedade mundial ao longo do tempo, que culminaram nas configurações atuais de vivências entre povos e nações.</p>
-    <p>Na sociologia contemporânea, estudam-se as causas e consequências das transformações políticas, econômicas, culturais, sociais etc. Inserida nas discussões dessa área da Sociologia, a globalização é um fenômeno presente em todas as camadas da sociedade atual. Ela também envolve uma grande variedade de temas diferentes como política, economia, cultura, tecnologia e meio ambiente, e é utilizada para abordar a interconexão e a interdependência crescentes entre os países. Esse processo, por sua vez, tem impactos profundos nas relações humanas, na forma como as pessoas vivem e pensam.</p>
-    <img src="../../../Resources/images/sociologia1.jpg">
+    <div class="box1">
+    <p class="text1">A sociologia contemporânea estuda as transformações que aconteceram na sociedade mundial ao longo do tempo, que culminaram nas configurações atuais de vivências entre povos e nações.</p>
+    </div>
+
+    <img class="image-right" src="../../../Resources/images/sociologia1.jpg">
+    <div class="">
+    <p class="text2">Na sociologia contemporânea, estudam-se as causas e consequências das transformações políticas, econômicas, culturais, sociais etc. Inserida nas discussões dessa área da Sociologia, a globalização é um fenômeno presente em todas as camadas da sociedade atual. Ela também envolve uma grande variedade de temas diferentes como política, economia, cultura, tecnologia e meio ambiente, e é utilizada para abordar a interconexão e a interdependência crescentes entre os países. Esse processo, por sua vez, tem impactos profundos nas relações humanas, na forma como as pessoas vivem e pensam.</p>
+    </div>
     
+    <div class="box2">
+    <p class="text3">PRINCIPAIS CARACTERÍSTICAS DA SOCIOLOGIA CONTEMPORÂNEA</p>
+    </div>
+    
+    <p class="text4">A sociologia contemporânea é marcada por alguns temas centrais que refletem as transformações sociais do século XX e XXI:</p>
+
+<div class="flexbox">
+    <img class="image-left" src="../../../Resources/images/contemp1.png">
+    <div class="containerbacana">
+    <div class="box3">
+    <p class="text5">GLOBALIZAÇÃO</p>
+    </div>
+    <img class="seta" src="../../../Resources/images/SETA 5.png">
+    <div class="line1"><p class="text6"><span class="highlight">Conceito:</span> 
+     Processo de integração entre os países do mundo, abrangendo aspectos econômicos, culturais e políticos.</p></div>
+    <img class="seta2" src="../../../Resources/images/SETA 5.png">
+    <div class="line2"><p class="text7"><span class="highlight">Impactos:</span>
+     A globalização trouxe mudanças nas relações de trabalho, consumo e comunicação, promovendo trocas culturais e econômicas, mas também intensificando desigualdades entre os países e dentro deles.</p></div>
+     <hr class="hrX1">
+    </div>
+</div>
+
+<div class="flexbox">
+    <img class="image-right2" src="../../../Resources/images/sociologia3.png">
+    <div class="containerbacana">
+    <div class="box4">
+    <p class="text5">DESIGUALDADE SOCIAL</p>
+    </div>
+    <img class="seta" src="../../../Resources/images/SETA 5.png">
+    <div class="line1"><p class="text6"> 
+    A disparidade econômica e social se aprofundou nas últimas décadas, com a concentração de renda nas mãos de poucos e a marginalização de grandes parcelas da população.</p></div>
+    <img class="seta2" src="../../../Resources/images/SETA 5.png">
+    <div class="line2"><p class="text7">
+     A globalização trouxe mudanças nas relações de trabalho, consumo e comunicação, promovendo trocas culturais e econômicas, mas também intensificando desigualdades entre os países e dentro deles.</p></div>
+     <hr class="hrX1">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <style>
 
         .button-back {
