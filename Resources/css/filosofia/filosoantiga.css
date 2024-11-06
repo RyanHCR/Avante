@@ -55,11 +55,7 @@ p{
     margin-left: 290px; /* Diminua o valor para mover mais para a esquerda */
     align-items: center;
     justify-content: center;
-}   top: -1765px; /* Valor negativo para subir */
-    margin-left: 290px; /* Diminua o valor para mover mais para a esquerda */
-    align-items: center;
-    justify-content: center;
-}
+} 
 .box22 {
     background-color: #2F91A0;
     height: 10px;
@@ -68,7 +64,7 @@ p{
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: cente1r;
     position: relative;
- 
+}
 .box222 {
     background-color: #2F91A0;
     height: 5px;
@@ -121,9 +117,6 @@ p{
     align-items: center;
     justify-content: center;
 }
-
-
-
 
 .text2 {
     font-size: 20px;
@@ -494,8 +487,6 @@ p{
     justify-content: center; 
     text-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
 }
-
-.hr7 {
     .hr7 { 
         width: 250px;
         height: 366px;
@@ -509,17 +500,12 @@ p{
     height: 366px;
     background-color: #6FC3D0;
     margin-left: 215px;
-  
-    
-
 }
 .hr22{
     width: 250px;
     height: 366px;
     background-color: #6FC3D0;
     margin-left: 215px;
-    
-
 }
 
 .text14{
@@ -543,5 +529,31 @@ p{
         top: -1760; /* Valor negativo para subir */
         margin-left: 285px;
     }
-    
 
+    footer {
+        background-color: #0b909f;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    footer a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+    
+    footer a:hover {
+        text-decoration: underline;
+    }
+    
+    .footerlogo{
+        width:400px;
+    }
+    
+    footer p {
+        font-size: 16px; 
+    }

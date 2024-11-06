@@ -263,3 +263,21 @@ p{
     display: flex;
     margin-left: 100px;
 }
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerlogo{
+    width:400px;
+}
+
+footer p {
+    font-size: 16px; 
+}

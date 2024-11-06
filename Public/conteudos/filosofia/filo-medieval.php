@@ -70,29 +70,8 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 </body>
 
-
-
-
-
-
-
-            <br>
-
-
-            <br>
-   
-
-            <br><br>
-
-
-
-
-
         </p>
     </div>
-
-
-
 
 </div>
 <!DOCTYPE html>
@@ -118,90 +97,19 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 </head>
 <body></body>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
     <div class="box2">      
 
     </div>
 
-<br><br><br><br><br><br>
-
 <div class="box8">     
     <p>A filosofia medieval abrange o período que vai aproximadamente do século V ao XV, cobrindo desde a queda do Império Romano até o Renascimento. Esse período foi marcado pela influência da Igreja Católica e pelo esforço de conciliar a fé religiosa com a razão. A filosofia medieval pode ser dividida em dois grandes blocos: a patrística (até o século VIII) e a escolástica (a partir do século IX). Abaixo estão alguns dos principais temas e filósofos dessa época:</p>
     </div>
-
-
-
-    <br><br><br><br><br><br>
-
-
-
-
-      
-
 
   <div class="box4">      
 
     <p>PRINCIPAIS TEMAS DA FILOSOFIA MEDIEVAL</p>
     </div>
 
-
-    <br><br><br><br>
-    <
-
-    
-
-
-
-
-
-
-
-
-
-
-    <br><br><br><br><br>
-
-
-   
 <div class="box88">
  <div class="circle1">1</div>
     <p>. A relação entre fé e razão: Um dos problemas centrais da filosofia medieval foi a tentativa de conciliar a fé religiosa cristã com a razão filosófica, herdada da tradição grega, principalmente de Platão e Aristóteles.</p>
@@ -212,82 +120,15 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
     </div>
 
-
-
-
-
-
-    <br><br><br><br><br>
-
-
-
-
-
-
-
-
     <div class="box888"> 
     <div class="circle1">2</div>     
 <p> Provas da existência de Deus: Filósofos medievais desenvolveram argumentos racionais para provar a existência de Deus, como o argumento ontológico de Anselmo de Cantuária e as "cinco vias" de Tomás de Aquino.</p>
-
 </div>
-
-
-
-
-
-
-<br><br><br><br><br>
-
-
 <div class="box2432">      
 <div class="circle1">3</div>
 
     <p> Natureza da alma: A questão sobre a imortalidade da alma e sua relação com o corpo foi amplamente discutida, especialmente influenciada pela filosofia de Platão e Aristóteles.</p>
-
-
     </div>
-
-
-
-    <br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <div class="box243">  
     <div class="circle1">4</div>
@@ -297,48 +138,6 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
     </div>
 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <br><br><br><br><br> 
 
 
     <div class="box414">  
@@ -353,7 +152,7 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
 
 
-    </div><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+    </div>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -429,28 +228,8 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
     <div class="box707"></div>
     <div class="box2111"></div>
 
-  
-  
-    
     <body>  
 </head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="box4">      
 
@@ -458,29 +237,11 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 </div>
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
-
-
-    
-
-
-
-
-
-
-
-
-
-
     <div class="box1000">      
 
 
     <p> Santo Agostinho (354–430)</p>
 
-<br><br>
-<br>
-<br>
-  
   
         
     <li><h3>Desenvolveu uma síntese entre o pensamento cristão e a filosofia de Platão.</li></h3>
@@ -489,122 +250,26 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
 
   </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <div class="box1001">      
 
 
 <p> São Tomás de Aquino (1225– 1274)</p>
-
-<br><br>
-<br>
-<br>
-
-
-    
+ 
 <li><h3>Tentou conciliar a razão e a fé, defendendo que ambas são complementares</li></h3>
 <li><h3>Formulou as "cinco vias" para demonstrar a existência de Deus, usando argumentos racionais.</li></h3>
 <li><h3>Desenvolveu uma metafísica baseada na distinção entre essência e existência, e influenciou grandemente a teologia católica</li></h3>
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="box1002">      
-
 
 <p>Anselmo de Cantuária (1033–1109) </p>
 
-<br><br>
-<br>
-<br>
-
-
-    
 
 <li><h3>Formulou o argumento ontológico para provar a existência de Deus, que diz que Deus, sendo o ser mais perfeito concebível, deve existir na realidade e não apenas na mente. .</li></h3>
 <li><h3>Defendeu a doutrina da satisfação, onde Cristo, através de seu sacrifício, satisfaz a justiça divina.</li></h3>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <style>
 
@@ -643,5 +308,15 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
             opacity: 0.7;
         }
     </style>
+    <br><br><br>
+<footer>
+    <img class="footerlogo" src="../.../../../Resources/images/footerlogo.png">
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+        <p>
+            <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://x.com/?lang=pt-br">Twitter</a>
+        </p>
+    </footer>
 </body>
 </html>
