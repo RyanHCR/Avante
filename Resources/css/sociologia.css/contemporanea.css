@@ -48,8 +48,28 @@ p{
     align-items: center;
     justify-content: center;
 }
+.box5 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 615px;
+    margin-left: 645px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box6 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 502px;
+    margin-left: 769px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 .text1 {
-    height: 116px;
+    height: 63px;
     width: 970px;
     font-size: 24px;
     font-weight: bold;
@@ -79,6 +99,18 @@ p{
     height: 273px;
     width: 481px;
 }
+.image-right3 {
+    float:right;
+    margin-right: 210px;
+    height: 280px;
+    width: 468px;
+}
+.image-right4 {
+    float:right;
+    margin-right: 210px;
+    height: 280px;
+    width: 468px;
+}
 .text3 {
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
@@ -98,6 +130,12 @@ p{
     float: left;
     width: 414px;
     height: 267px;
+    margin-left: 215px;
+}
+.image-left2 {
+    float: left;
+    width: 414px;
+    height: 286px;
     margin-left: 215px;
 }
 .text5 {
@@ -120,9 +158,19 @@ p{
 }
 .seta {
     float: left;
+    margin-top: 3px;
 }
 .seta2 {
     float: left;
+}
+.seta3 {
+    float: left;
+    margin-top: 3px;
+    margin-left: 160px;
+}
+.seta4 {
+    float: left;
+    margin-left: 160px;
 }
 
 .text6 {
@@ -140,6 +188,25 @@ p{
     margin-left: 215px;
     margin-top: -30px;
 }
+.hrX2{
+    width: 477px;
+    border: 3px solid #6FC3D0;
+    margin-left: 860px;
+    margin-top: -30px;
+}
+.hrX3{
+    width: 430px;
+    border: 3px solid #6FC3D0;
+    margin-left: 215px;
+    margin-top: 50px;
+}
+.hrX4{
+    width: 477px;
+    border: 3px solid #6FC3D0;
+    margin-left: 860px;
+    margin-top: 30px;
+}
 .text8{
-
+    width: 589px;
+    margin-left: 30px;
 }

@@ -23,8 +23,8 @@ p{
 .text1 {
     font-size: 20px;
     font-weight: bold;
-    padding: 15px;
-    margin-top: -50px;
+    padding: 50px;
+    margin-top: 10px;
     margin-left: 12px;
 }
 
@@ -46,16 +46,31 @@ p{
 .box2 {
     background-color: #2F91A0;
     height: 10px;
-    width: 955px;
+    width: 935px;
     margin-left: 220px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: cente1r;
     position: relative;
-    top: -425px; /* Valor negativo para subir */
-    margin-left: 290px; /* Diminua o valor para mover mais para a esquerda */
+    top:350px; /* Valor egativo para subir */
+    margin-left: 300px;
+    top:-auto; /* Diminua o valor para mover mais para a esquerda */
     align-items: center;
     justify-content: center;
 } 
+    .box150 {
+        background-color: #000000;
+        height: 10px;
+        width: 860px;
+        margin-left: 220px;
+        box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+        text-align: cente1r;
+        position: relative;
+        top:350px; /* Valor egativo para subir */
+        margin-left: 300px;
+        top:-auto; /* Diminua o valor para mover mais para a esquerda */
+        align-items: center;
+        justify-content: center;
+    }   
 .box22 {
     background-color: #2F91A0;
     height: 10px;
@@ -67,17 +82,70 @@ p{
 }
 .box222 {
     background-color: #2F91A0;
+ 
+    .box202{
+        background-color: #2F91A0;
+        height: 10px;
+        width: 850px;
+        margin-left: 350px;
+        position:relative;
+        top:30px;
+        box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+}
+
+.box702{
+    background-color: #6FC3D0;
     height: 5px;
-    width: 208px;
-    margin-left: 220px;
+    width: 850px;
+    margin-left: 350px;
+    position:relative;
+    top:45px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
-    text-align: cente1r;
-    position: relative;
-    top: 88px; /* Valor negativo para subir */
-    margin-left: 295px; /* Diminua o valor para mover mais para a esquerda */
+    text-align: center;
     align-items: center;
     justify-content: center;
 }
+
+.box21111{
+    background-color: #2F91A0;
+    height: 10px;
+    width: 850px;
+    margin-left: 350px;
+    position:relative;
+    top:60px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.hr7 { 
+    width: 250px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+
+
+.hr8{
+    width: 10px;
+    height: 366px;
+    background-color: #6FC3D0;
+    margin-right: 10    px;
+}
+
+
+
+
+
+
+
+
+
+
 .box123 {
     background: #6FC3D0;
     height: 5px;
@@ -160,19 +228,64 @@ p{
     margin-left: 270px;
 }
 
-.box3{
+
+.box4 {
     background-color: #B5F5FF;
     height: 50px;
     width: 500px;
-    margin-left: 400px;
-    position: relative;
-    top: 30px; /* Valor negativo para subir */
-    right: -500; /* Mover para o canto direito */
+    margin-left: 220px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
+
+
+.box18{
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box414368{
+    background-color: #B5F5FF;
+    height: 50px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .text5{
     font-size: 18px;
@@ -195,18 +308,14 @@ p{
     width: 1070px;
 }
 
-.box4 {
-    background-color: #B5F5FF;
-    height: 50px;
-    width: 500px;
-    margin-left: 500px;
-    position: relative;
-    top: -350px; /* Valor negativo para subir */
-    left: -10   0; /* Mover para o canto esquerdo */
-    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
+
+
+
+
+
+
+
+
 }
 .box40{
     background-color: #B5F5FF;
@@ -214,8 +323,8 @@ p{
     width: 500px;
     margin-left: 500px;
     position: relative;
-    top: -350px; /* Valor negativo para subir */
-    left: 495; /* Mover para o canto esquerdo */
+    top: -3130px; /* Valor negativo para subir */
+    left: 400; /* Mover para o canto esquerdo */
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
@@ -244,13 +353,29 @@ p{
 
 .text8{
     width: 470px;
-    margin-left: -10px;
+    margin-left: 100px;
     margin-top: 50px;
 }
+.text81{
+    width: 470px;
+    margin-left: 800px;
+    margin-top: -280px;
+}
+
+.text81{
+    width: 470px;
+    margin-left: 800px;
+    margin-top: -280px;
+}
+
+
+
+
+
 
 .text9{
     width: 470px;
-    margin-left: 1000px;
+    margin-left: 700px;
     margin-top: 30px;
 
 }
@@ -305,8 +430,8 @@ p{
 .box4 {
     background-color: #B5F5FF;
     height: 50px;
-    width: -500px;
-    margin-left: 220px;
+    width: 500px;
+    margin-left: 150px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
@@ -473,7 +598,11 @@ p{
     display: flex;
     align-items: center; /* Centraliza verticalmente */
     margin-top: 13px;
-    gap:30px;
+    gap:1000
+    px;
+    margin-left: 215px;
+    top: 100px; /* Valor negativo para subir */
+    margin-left: -900px; /* Diminua o valor para mover mais para a esquerda */
 }
 
 .image-center11 {
@@ -500,6 +629,11 @@ p{
     height: 366px;
     background-color: #6FC3D0;
     margin-left: 215px;
+
+
+
+    
+
 }
 .hr22{
     width: 250px;
@@ -514,13 +648,121 @@ p{
 }
 
 .hr30{
-    width: 250px;
+    width: 2px;
     height: 366px;
-    background-color: #6FC3D0;
+    background-color: #2F91A0;
     margin-left: 215px;
     top: 100px; /* Valor negativo para subir */
-    margin-left: 1165px; /* Diminua o valor para mover mais para a esquerda */
+    margin-left: 625px; /* Diminua o valor para mover mais para a esquerda */
 }
+
+
+
+
+
+
+.hr101{
+    background-color: #2F91A0;
+    height: 10px;
+    width: 935px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top:-1085px; /* Valor egativo para subir */
+    margin-left: 300px;
+    top:-auto; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}   
+.hr350{
+    width: 50px;
+    height: 366px;
+    background-color: #1C5A63;
+    position: relative;
+    margin-left: 215px;
+    top: 390px; /* Valor negativo para subir */
+    margin-left: 380px; /* Diminua o valor para mover mais para a esquerda */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hr680{
+    width: 50px;
+    height: 366px;
+    background-color: #1C5A63;
+    position: relative;
+    margin-left: 215px;
+    top: -380px; /* Valor negativo para subir */
+    margin-left: 1110px; /* Diminua o valor para mover mais para a esquerda */
+}
+
+
+
+
+
+
+.hr68{
+    width: 50px;
+    height: 366px;
+    background-color: #1C5A63;
+    position: relative;
+    margin-left: 215px;
+    top: -750px; /* Valor negativo para subir */
+    margin-left:380px; /* Diminua o valor para mover mais para a esquerda */
+}
+
+
+
+
+.hr681{
+    width: 65px;
+    height: 366px;
+    background-color: #6FC3D0;
+    position: relative;
+    margin-left: 215px;
+    top: -1115px; /* Valor negativo para subir */
+    margin-left:1180px; /* Diminua o valor para mover mais para a esquerda */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hr352{
+    width: 65px;
+    height: 366px;
+    background-color: #6FC3D0;
+    position: relative;
+    margin-left: 215px;
+    top: 380px; /* Valor negativo para subir */
+    margin-left: 280px; /* Diminua o valor para mover mais para a esquerda */
+}
+
+
+
+
+
+
     .hr31 {
         width: 250px;
         height: 366px;

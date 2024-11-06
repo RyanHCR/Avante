@@ -492,6 +492,43 @@ p{
     justify-content: center;
 }
 
+.box0 {
+  
+    background-color: #2F91A0;
+    height: 1px;
+    width: 500px;
+    margin-left: 220px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: cente1r;
+    position: relative;
+    top: 50px; /* Valor negativo para subir */
+    margin-left: 300px; /* Diminua o valor para mover mais para a esquerda */
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     .box2111 {
         max-height: 60%;
         background-color: #2F91A0;

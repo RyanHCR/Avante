@@ -209,7 +209,7 @@ Mais tarde, as discussões que ocorriam em praça pública juntamente com o pode
     </div>
 </div>
 
-</body>
+
 </html>
   <img class="image-center2" src="../../../Resources/images/medieval2.jpeg">
   <div class="box202"></div>
