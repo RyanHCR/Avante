@@ -123,10 +123,7 @@
     <div class="text10">
         <p><b>A filosofia moderna marcou o início de uma nova era de questionamento e de busca por respostas científicas e racionais sobre a realidade, o ser humano, e a sociedade.</b></p><br><br>
     </div>
-    <footer><br></br></footer>
-    
-    
-    
+
     <style>
 
         .button-back {
@@ -164,5 +161,15 @@
             opacity: 0.7;
         }
     </style>
+    <br><br><br>
+    <footer>
+    <img class="footerlogo" src="../../../Resources/images/footerlogo.png">
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+        <p>
+            <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://x.com/?lang=pt-br">Twitter</a>
+        </p>
+    </footer>
 </body>
 </html>
