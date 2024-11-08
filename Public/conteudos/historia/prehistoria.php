@@ -161,7 +161,6 @@ Caracter√≠sticas: Caracteriza-se pelo desenvolvimento da agricultura, domestica√
     </style>
     <br><br><br>
     <footer>
-    <footer>
     <img class="footerlogo" src="../../../Resources/images/footerlogo.png">
         <p>&copy; 2024 Todos os direitos reservados.</p>
         <p>
