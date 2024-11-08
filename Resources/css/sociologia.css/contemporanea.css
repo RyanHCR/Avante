@@ -63,10 +63,31 @@ p{
     height: 70px;
     width: 502px;
     margin-left: 769px;
+    margin-top: 70px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
     justify-content: center;
+}
+.box7 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 843px;
+    margin-top: 30px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box8 {
+    background-color: #6FC3D0;
+    width: 400px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    margin-top: -20px;
+    margin-left: 100px;
+    
 }
 .text1 {
     height: 63px;
@@ -152,9 +173,10 @@ p{
     margin-left: 225px;
 }
 .highlight {
-    background-color: #B5F5FF;
+    background-color: #2F91A0;
     padding: 2px 4px;
     border-radius: 3px;
+    margin-top: 30px;
 }
 .seta {
     float: left;
@@ -175,11 +197,9 @@ p{
 
 .text6 {
  width: 589px;
-
 }
 .text7 {
     width: 589px;
-    
 }
 .hrX1{
     width: 440px;
@@ -209,4 +229,79 @@ p{
 .text8{
     width: 589px;
     margin-left: 30px;
+}
+.text9{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+.text10 {
+    width: 589px;
+    margin-left: 120px;
+}
+.text11 {
+    text-align: center;
+}
+.box7-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: space-between; /* Espaça igualmente os elementos */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+.hr3{
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+.hr4 {
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.flexbox5{
+    display: flex;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.item-abolicionista2 {
+    background-color: #DEFAFF;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 60px; 
+    border: 1px solid #B5F5FF;
+    width: 674px;
+    font-size: 22px;
+    margin-left: 300px;
+    height: 250px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    
+}
+.number-circle {
+    background-color: #6FC3D0;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border:1px solid #000000;
+    text-shadow: 1px 1px 1px black, -1px 1px 0px black, 1px -1px 0px black, -1px -1px 0px black;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    font-size: 20px;
+}
+.image-socio {
+margin-left: 170px;
+margin-top: -330px;
+width: 269px;
+height: 340px;
+ float: left;
 }

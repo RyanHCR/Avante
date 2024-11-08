@@ -108,15 +108,46 @@
     <div class="box6">
     <p class="text5">MOVIMENTOS SOCIAIS</p>
     </div>
-    <div class="line1"><p class="text6"> 
+    <div class="line1"><p class="text10"> 
     Movimentos sociais como o ambientalismo, o feminismo, o antirracismo, e os movimentos por direitos civis, ganham destaque. Eles atuam para transformar estruturas de poder e lutam por igualdade e justiça social.</p></div>
-
-     <hr class="hrX4">
-    </div>
-    
+    </div>   
 </div>
 
 
+
+<div class="box7-container">
+    <hr class="hr3">
+    <div class="box7">
+        <p class="text9">PRINCIPAIS AUTORES E TEORIAS DA SOCIOLOGIA CONTEMPORÂNEA</p>
+    </div>
+    <hr class="hr4">
+</div>
+
+<div class="flexbox5">
+
+<div class="item-abolicionista2">
+    <div class="number-circle">1</div>
+    <div class="box8"><p class="text11">Pierre Bourdieu (1930-2002)</p></div>
+    <br>
+    <span class="highlight">Principais Conceitos:</span> "Capital Cultural", "Habitus" e "Campo".
+
+<p>Bourdieu estudou como o poder se reproduz através das instituições sociais, como escolas e a família. Ele introduziu a ideia de que diferentes formas de capital (econômico, social, cultural) estruturam a vida social e influenciam as oportunidades das pessoas.</p>
+</div>
+</div>
+<img class="image-socio" src="../../../Resources/images/sociologia7.jfif">
+
+<div class="flexbox5">
+
+<div class="item-abolicionista2">
+    <div class="number-circle">1</div>
+    <div class="box8"><p class="text11">Pierre Bourdieu (1930-2002)</p></div>
+    <br>
+    <span class="highlight">Principais Conceitos:</span> "Capital Cultural", "Habitus" e "Campo".
+
+<p>Bourdieu estudou como o poder se reproduz através das instituições sociais, como escolas e a família. Ele introduziu a ideia de que diferentes formas de capital (econômico, social, cultural) estruturam a vida social e influenciam as oportunidades das pessoas.</p>
+</div>
+</div>
+<img class="image-socio" src="../../../Resources/images/sociologia8.jfif">
 
 
 
