@@ -48,8 +48,66 @@ p{
     align-items: center;
     justify-content: center;
 }
+.box5 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 615px;
+    margin-left: 645px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box6 {
+    background-color: #B5F5FF;
+    height: 70px;
+    width: 502px;
+    margin-left: 769px;
+    margin-top: 70px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box7 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 843px;
+    margin-top: 30px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box8 {
+    background-color: #6FC3D0;
+    width: 400px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    margin-top: -20px;
+    margin-left: 100px;
+    
+}
+.box9 {
+        background-color: #B5F5FF;
+        height: 63px;
+        width: 657px;
+        margin-left: 624px;
+        box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+}
+.box10 {
+    background-color: #6FC3D0;
+    width:400px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+}
 .text1 {
-    height: 116px;
+    height: 63px;
     width: 970px;
     font-size: 24px;
     font-weight: bold;
@@ -79,6 +137,18 @@ p{
     height: 273px;
     width: 481px;
 }
+.image-right3 {
+    float:right;
+    margin-right: 210px;
+    height: 280px;
+    width: 468px;
+}
+.image-right4 {
+    float:right;
+    margin-right: 210px;
+    height: 280px;
+    width: 468px;
+}
 .text3 {
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
@@ -100,6 +170,12 @@ p{
     height: 267px;
     margin-left: 215px;
 }
+.image-left2 {
+    float: left;
+    width: 414px;
+    height: 286px;
+    margin-left: 215px;
+}
 .text5 {
     font-size: 20px;
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
@@ -114,24 +190,45 @@ p{
     margin-left: 225px;
 }
 .highlight {
-    background-color: #B5F5FF;
+    background-color: #2F91A0;
     padding: 2px 4px;
     border-radius: 3px;
+    margin-top: 30px;
 }
 .seta {
     float: left;
+    margin-top: 3px;
 }
 .seta2 {
     float: left;
 }
+.seta3 {
+    float: left;
+    margin-top: 3px;
+    margin-left: 160px;
+}
+.seta4 {
+    float: left;
+    margin-left: 160px;
+}
 
 .text6 {
  width: 589px;
-
 }
 .text7 {
     width: 589px;
-    
+}
+.text12 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 18px;
+}
+.hrX{
+    width: 1106;
+    position: relative;
+    border: 2px solid #6FC3D0;
+    margin-left: 215px;
+    top: -20px;
 }
 .hrX1{
     width: 440px;
@@ -140,6 +237,115 @@ p{
     margin-left: 215px;
     margin-top: -30px;
 }
+.hrX2{
+    width: 477px;
+    border: 3px solid #6FC3D0;
+    margin-left: 860px;
+    margin-top: -30px;
+}
+.hrX3{
+    width: 430px;
+    border: 3px solid #6FC3D0;
+    margin-left: 215px;
+    margin-top: 50px;
+}
+.hrX4{
+    width: 477px;
+    border: 3px solid #6FC3D0;
+    margin-left: 860px;
+    margin-top: 30px;
+}
 .text8{
-
+    width: 589px;
+    margin-left: 30px;
+}
+.text9{
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+.text10 {
+    width: 589px;
+    margin-left: 120px;
+}
+.text11 {
+    text-align: center;
+}
+.box7-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: space-between; /* Espaça igualmente os elementos */
+    width: 100%; /* Garante que o container ocupe toda a largura da tela */
+}
+.hr3{
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+.hr4 {
+    width: 250px;
+    border: 2px solid #6FC3D0;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.flexbox5{
+    display: flex;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.item-abolicionista2 {
+    background-color: #DEFAFF;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 60px; 
+    border: 1px solid #B5F5FF;
+    width: 674px;
+    font-size: 22px;
+    margin-left: 300px;
+    height: 250px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    
+}
+.item-abolicionista1 {
+    background-color: #DEFAFF;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 60px; 
+    border: 1px solid #B5F5FF;
+    width: 996px;
+    font-size: 22px;
+    margin-left: 300px;
+    height: 87px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    
+}
+.number-circle {
+    background-color: #6FC3D0;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border:1px solid #000000;
+    text-shadow: 1px 1px 1px black, -1px 1px 0px black, 1px -1px 0px black, -1px -1px 0px black;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    font-size: 20px;
+}
+.image-socio {
+margin-left: 170px;
+margin-top: -330px;
+width: 269px;
+height: 340px;
+ float: left;
 }

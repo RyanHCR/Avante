@@ -180,7 +180,6 @@
         <p>A filosofia contemporânea continua a evoluir, enfrentando os desafios do século XXI, como as mudanças climáticas, as desigualdades globais, as transformações tecnológicas e as questões éticas relacionadas à biotecnologia e à inteligência artificial. Os debates contemporâneos não apenas tratam de questões antigas sob novas perspectivas, mas também introduzem problemas inéditos, que exigem novos modos de pensar e agir.</p><br><br>
         <p>Além disso, a ética contemporânea tem se debruçado sobre questões como a proteção dos direitos humanos em escala global, o respeito às diferenças culturais e o combate às opressões estruturais, como o racismo, o sexismo e a homofobia.</p><br><br>
     </div>
-    <footer><br></br></footer>
     
     <style>
 
@@ -219,5 +218,15 @@
             opacity: 0.7;
         }
     </style>
+    <br><br><br>
+    <footer>
+    <img class="footerlogo" src="../../../Resources/images/footerlogo.png">
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+        <p>
+            <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://x.com/?lang=pt-br">Twitter</a>
+        </p>
+    </footer>
 </body>
 </html>

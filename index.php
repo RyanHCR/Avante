@@ -25,7 +25,6 @@
 
     <img class="principal-image" src="Resources/images/seu novo cursinho está aqui (1).png" alt="Imagem principal">
 
-    <!-- Adicionando o texto informativo com a animação -->
     <div class="info-text show-info-text">
         <b>Nosso site de cursinho escolheu focar nas ciências humanas por acreditar que elas são fundamentais para a formação de cidadãos críticos e conscientes. As ciências humanas exploram a essência do ser humano, suas relações sociais, culturais e históricas, fornecendo ferramentas para entender o mundo em que vivemos. Ao estudar disciplinas como filosofia, história, sociologia e antropologia, os alunos desenvolvem habilidades de análise crítica, empatia e compreensão das complexidades sociais. Acreditamos que essas competências são essenciais para a construção de uma sociedade mais justa, inclusiva e ética.</b>
     </div>
@@ -69,7 +68,16 @@
     </div>
 
 </div>
-
+<br><br><br>
+<footer>
+    <img class="footerlogo" src="Resources/images/footerlogo.png">
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+        <p>
+            <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://x.com/?lang=pt-br">Twitter</a>
+        </p>
+    </footer>
 
 </body>
 </html>

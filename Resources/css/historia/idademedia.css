@@ -64,7 +64,6 @@ p{
     justify-content: center;
 }
 
-
 .hr1 {
     border: 2px solid #6FC3D0;
     width: 487px;
@@ -834,4 +833,22 @@ li{
 .highlight2 {
     padding: 2px 4px;
     border-radius: 3px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerlogo{
+    width:400px;
+}
+
+footer p {
+    font-size: 16px; 
 }
