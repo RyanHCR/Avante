@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filosofia antiga</title>
+    <title>FILOSOFIA ANTIGA</title>
     <link rel="stylesheet" href="../../../Resources/css/index.css">
     <link rel="stylesheet" href="../../../Resources/css/filosofia/filosoantiga.css">
     <link rel="icon" type="image/png" href="../../../Resources/images/astroneer2.png">
@@ -21,570 +21,139 @@
         </div>
         <div class="right-buttons">
             <a href="../../materias/sociologia.php"><button class="nav-button">SOCIOLOGIA</button></a>
-            <a href="../../materias/filosofia.php"><button class="nav-button"style="color:#356A72">FILOSOFIA</button></a>
+            <a href="../../materias/filosofia.php"><button class="nav-button">FILOSOFIA</button></a>
         </div>
     </header>
 
-    <div class="sub-header">
-        <p>FILOSOFIA ANTIGA </p>
+    <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
+    <p class="cont1 tamanho">A Filosofia Antiga corresponde ao período do surgimento da filosofia grega no século VII a.C. Ela surge da necessidade de explicar o mundo de um novo modo. Os filósofos buscam encontrar respostas racionais para a origem das coisas, dos fenômenos da natureza, da existência e da racionalidade humana.</p>
+    <div class="cultura1 tamanho">
+        <img src="../../../Resources/images/antiga1.jpeg">
+        <p>A filosofia antiga surge com a substituição do saber mítico ao da razão e isso ocorreu com o surgimento da polis grega (cidade-estado). Essa nova organização grega, foi fundamental para a desmistificação do mundo através da razão e, com isso, as reflexões dos filósofos. Mais tarde, as discussões que ocorriam em praça pública juntamente com o poder da palavra e da razão (logos) levaram a criação da democracia.</p>
     </div>
+    <div class="alinha">
+        <div class="container">
+            <div class="section">
+                <h2>PRÉ-SOCRÁTICOS</h2>
+                <ul>
+                    <li><strong>Foco:</strong> Esses primeiros filósofos buscavam explicações naturais para a origem do universo (cosmogonia) e a natureza das coisas.</li>
+                    <li><strong>Filósofos principais:</strong> Tales de Mileto, Anaximandro, Heráclito, Parmênides.</li>
+                    <li><strong>Ideias centrais:</strong> Elementos primordiais (água, fogo, ar, etc.), mudança e permanência no cosmos.</li>
+                </ul>
+            </div>
+            <div class="divider">.</div>
+            <div class="section">
+                <h2>SÓCRATES (469–399 a.C.)</h2>
+                <ul>
+                    <li><strong>Foco:</strong> A virtude e o conhecimento. Sócrates é famoso por sua máxima "Só sei que nada sei" e pelo uso da maiêutica, um método de questionamento para atingir o conhecimento.</li>
+                    <li><strong>Legado:</strong> Não deixou escritos; suas ideias foram registradas por discípulos, como Platão.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="alinha">
+        <div class="outer-container">
+            <div class="content">
+                <div class="side-border"></div>
+                <div class="side"></div>
+                <div class="align">
+                    <img src="../../../Resources/images/antiga2.jpeg" alt="Estátua de Sócrates" class="alinha">
+                </div>
+                <div class="side2"></div>
+                <div class="side-border2"></div>
 
-    <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a> <br><br><br>
-    <div class="box1">
-        <p class="text1">A Filosofia Antiga corresponde ao período do surgimento da filosofia grega no século VII
-            a.C. Ela surge da necessidade de explicar o mundo de um novo modo. Os filósofos buscam encontrar respostas
-            racionais para a origem das coisas, dos fenômenos da natureza, da existência e da racionalidade humana.</p>
+            </div>
+
+        </div>
     </div>
     <br>
+    <div class="container3">
+        <div class="card">
+            <div class="text">
+                <h2>PLATÃO (427–347 a.C.)</h2>
+                <ul>
+                    <li>Foco: A teoria das ideias ou formas, na qual o mundo físico é apenas uma sombra de uma realidade ideal e perfeita.</li>
+                    <li>Obra principal: "A República", onde discute a justiça, o governo ideal e a educação.</li>
+                    <li>Conceitos: Dualismo entre corpo e alma, teoria do conhecimento.</li>
+            </div>
 
+            <div class="img2">
+                <div class="image">
+                    <img src="../../../Resources/images/antiga3.jpeg" class="img">
+                </div>
+            </div>
 
-</div>
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .allone {
-            font-size: 20px; /* Diminui o tamanho do texto */
-            line-height: 1.4; /* Espaçamento entre as linhas */
-            font-family: Arial, sans-serif; /* Define a fonte */
-            color: #000; /* Cor do texto */
-        }
+        </div>
+        <div class="linha2"></div>
+    </div>
+    <div class="container4">
+        <div class="card">
+            <div class="img2">
+                <div class="image">
+                    <img src="../../../Resources/images/antiga4.jpeg" class="img">
+                </div>
+            </div>
+            <div class="text">
+                <h2>ARISTÓTELES (384–322 a.C.)</h2>
+                <ul>
+                    <li>Foco: Desenvolveu uma abordagem mais empírica e prática do conhecimento, divergindo de Platão.</li>
+                    <li>Obras principais: Ética a Nicômaco, Política, Metafísica.</li>
+                    <li>Conceitos: Teoria das causas, ética baseada na virtude, ideia de que o homem é um “animal político”.</li>
+            </div>
 
-        .image-left {
-            max-width: 10%; /* Ajusta o tamanho da imagem */
-            margin-right: 20px; /* Espaço entre a imagem e o texto */
-            float: left; /* Coloca a imagem à esquerda do texto */
-        }
-    </style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="allone"><br><br><br>
-    <img src="../../../Resources/images/antiga1.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-    <br>  <p class="text9">Foco: Desenvolveu uma abordagem mais empírica e lógica do conhecimento, divergindo de Platão.
-Obras principais: "Ética a Nicômaco", "Política", "Metafísica".
-Ideias centrais: Teoria das causas, ética baseada na virtude, ideia de que o homem é um "animal político".</p>
-</h2> 
-   
-
-</div>
-
-</body>
-</html>
-
-
-</body>
-
-
-
-
-
-
-
-            <br>
-
-
-            <br>
-        <p class="text7">
-            <br>
-
-            <br><br>
-
-
-
-
-
-        </p>
+        </div>
+        <div class="linha"></div>
+    </div>
+    <div class="container3">
+        <div class="card">
+            <div class="text">
+                <h2>ESCOLAS HELENÍSTICAS</h2>
+                <ul>
+                    <li>Epicurismo: Fundado por Epicuro, enfatiza a ideia de felicidade através da ausência de perturbações.</li>
+                    <li>Ceticismo: Associado a Pirro de Élis, propõe a ideia de que a certeza é inalcançável, promovendo uma atitude de suspensão de julgamento.</li>
+            </div>
+            <div class="img2">
+                <div class="image">
+                    <img src="../../../Resources/images/antiga5.jpeg" class="img">
+                </div>
+            </div>
+        </div>
+        <div class="linha2"></div>
+    </div>
+    <div class="container4">
+        <div class="card">
+            <div class="img2">
+                <div class="image">
+                    <img src="../../../Resources/images/antiga6.jpeg" class="img">
+                </div>
+            </div>
+            <div class="text">
+                <h2>NEOPLATONISMO</h2>
+                <ul>
+                    <li>Foco: Desenvolvido por Plotino, o neoplatonismo retoma Platão, enfatizando a busca de uma unidade com o divino e a ascensão da mente para a realidade transcendente.</li>
+            </div>
+            
+        </div>
+        <div class="linha"></div>
     </div>
     <div>
-    
 
-    <div class="box4">
+    </div>
+ <div class="alinha">
+        <div class="outer-container">
+            <div class="content">
+                
+                <div class="side"></div>
+                <div class="align">
+                    <img src="../../../Resources/images/antiga7.jpeg" alt="Estátua de Sócrates" class="alinha image">
+                </div>
+                <div class="side2"></div>
+                
 
-<p class="text7">PRÉ-SOCRÁTICOS</p>
-        
-<div class="hr30"></div>
-       
-   
-    <p class="text81">Foco: A virtude e o conhecimento. Sócrates é famoso por sua máxima "Só sei que nada sei" e
-        pelo uso da maiêutica, um método de questionamento para atingir o conhecimento.
-        Legado: Não deixou escritos; suas ideias foram registradas por discípulos, como Platão. </p>
-    <br>
+            </div>
 
- </div>
-
- <br> <br> <br>
- <div class="box40>
-
-
-        
-
-
-         <br> <br> <br>
-
-<p class="text7"></p>
-    <p class="text8">Foco: Esses primeiros filósofos buscavam explicações naturais para a origem do universo
-        (cosmogonia) e a natureza das coisas.
-        Filósofos principais: Tales de Mileto, Anaximandro, Heráclito, Parmênides.
-        Ideias centrais: Elementos primordiais (água, fogo, ar, etc.), mudança e permanência no cosmos. </p>
-    
-
-   
-      
-
-         
         </div>
-  
-</div>
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .allone {
-            font-size: 20px; /* Diminui o tamanho do texto */
-            line-height: 1.4; /* Espaçamento entre as linhas */
-            font-family: Arial, sans-serif; /* Define a fonte */
-            color: #000; /* Cor do texto */
-        }
-
-        .image-left {
-            max-width: 40%; /* Ajusta o tamanho da imagem */
-            margin-right: 20px; /* Espaço entre a imagem e o texto */
-            float: left; /* Coloca a imagem à esquerda do texto */
-        }
-        
-    </style>
-    <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .image-center2 {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            max-width: 10%; /* Ajuste o tamanho da imagem conforme necessário */
-        }
-
-        .allone {
-            font-size: 12px;
-            line-height: 1.4;
-            font-family: Arial, sans-serif;
-            color: #000;
-            text-align: center;
-        }
-
-        .container {
-            text-align: center;
-        }
-    </style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="container">
-    
-    
-    
     </div>
-</div>
-
-</body>
-</html>
-<br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>  
-<div class="box2"></div>
-<div class="hr352"></div>
-<div class="hr350"></div>
-
-  <img class="image-center2" src="../../../Resources/images/antiga2.jpeg">
-  <div class="hr680"></div>
-  <div class="hr68"></div>
-  <div class="hr681 "></div>
-  
-  <div class="hr101 "></div>
-  <br>  
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-  <br>
-
-  <br>
-  
-    <div class="box22"></div>
-  
-  
-    
-    <body>  
-</head>
-<body>  <br>
-        <div class="box40">
-   
-
-  
-<p class="text7">SÓCRATES (469–399 a.C.)</p>
-
-<br>
-<div class="box2223"></div>
-
-<br>
-<div class="box1234"></div>
-   
-  <br>
-
-
-<br>
-
-<di
-
-
-  
-
-<img class="image-center2" src="../../../Resources/images/antiga3.jpeg">
-    
-     
-    </di>
-    <?php
-    
-   
-    
-        
-    
-
-
-?>
-</div>
-
-</body>
-</html>
-
-    
-        
-    
-    <body>  <br><br><br><br><br><br><br>
-</head>
-<body>  <br><br><br><br><br><br><br>
-<body>  <br><br><br><br><br><br><br>
-
-        <div class="box4">
-        
-
-<p class="text7">PLATÃO (427–347 a.C.)</p>
-
-
-
-</style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="allone"><br><br><br>
-    <img src="../../../Resources/images/antiga3.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-    <br>  <p class="text9">&#9679;Foco: A teoria das ideias ou formas, na qual o mundo físico é apenas uma sombra de uma realidade ideal e perfeita.
-        <br>
-&#9679;Obra principal: "A República", onde discute a justiça, o governo ideal e a educação.
-<br>
-&#9679;Conceitos: Dualismo entre corpo e alma, teoria do conhecimento.</p>
-</h2> 
-   
-
-     
-    </div>  
-
-
-    </body>
-
-    </html>
-
-    <br><br>
-
-
-    
-
-  
-
-          
-        </div>
-
-
-
-  
-        <body>  <br><br><br><br><br><br><br>
-</head>
-<body>  <br><br><br><br><br><br><br>
-<body>  <br><br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <div class="box4">
-        
-
-<p class="text7">PLATÃO (427–347 a.C.)</p>
-
-
-
-</style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="allone"><br><br><br>
-    <img src="../../../Resources/images/antiga3.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-    <br>  <p class="text9">&#9679;Foco: A teoria das ideias ou formas, na qual o mundo físico é apenas uma sombra de uma realidade ideal e perfeita.
-        <br>
-&#9679;Obra principal: "A República", onde discute a justiça, o governo ideal e a educação.
-<br>
-&#9679;Conceitos: Dualismo entre corpo e alma, teoria do conhecimento.</p>
-</h2> 
-   
-
-     
-    </div>  
-
-
-    </body>
-
-    </html>
-
-    <br><br>
-
-
-    
-
-  
-
-          
-        </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-    
-    <body>  <br><br><br><br><br><br><br>
-</head>
-<body>  <br><br><br><br><br><br><br>
-<body>  <br><br><br><br><br><br><br>
-        <div class="box4">
-
-<p class="text7">ESCOLAS HELENÍSTICAS</p>
-
-</style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="allone"><br><br><br>
-    <img src="../../../Resources/images/antiga5.jpeg" class="image-left" alt="Imagem de Filosofia Antiga">
-     <p class="text9"> 
-    
-    &#9679;Epicurismo: Fundado por Epicuro, defendia que a felicidade (ataraxia) era atingida pela busca de prazeres moderados e pela ausência de dor.
-    <br>  <br>
-    &#9679;Estoicismo: Fundado por Zenão de Cítio, enfatizava a razão, autocontrole e a aceitação das circunstâncias naturais.
-    <br>  <br>
-    &#9679;Ceticismo: Defendido por Pirro de Élis, argumentava que o conhecimento absoluto é impossível, promovendo uma atitude de suspensão de julgamento.</p>
-
-
-
-
-
-
-
-
-</h2> 
-   
-    <br>
-        
-    <br>
-    </div>
-        
-    <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .image-center2 {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            max-width: 40%; /* Ajuste o tamanho da imagem conforme necessário */
-        }
-
-        .allone {
-            font-size: 12px;
-            line-height: 1.4;
-            font-family: Arial, sans-serif;
-            color: #000;
-            text-align: center;
-        }
-
-        .container {
-            text-align: center;
-        }
-    </style>
-    <title>Texto e Imagem</title>
-</head>
-<body>
-
-<div class="container">
-    
-    
-    
-    </div>
-</div>
-
-</body>
-</html>
-
-  <div class="box150"></div>
-  <br>
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  </body>
-</html>
-<br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>  
-<div class="box2"></div>
-<div class="hr352"></div>
-<div class="hr350"></div>
-
-  <img class="image-center2" src="../../../Resources/images/antiga7.jpeg">
-  <div class="hr680"></div>
-  <div class="hr68"></div>
-  <div class="hr681 "></div>    
-  <div class="hr101 "></div>
-  <br>  
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-  <br>
-
-  <br>
-  
-   
-  
-    <br>
-    
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-    <br>
-    <div class="box22"></div>
-  
-  
-
-    </div>
-
     <style>
         .button-back {
             width: 120px;
