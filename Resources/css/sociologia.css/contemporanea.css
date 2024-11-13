@@ -89,6 +89,23 @@ p{
     margin-left: 100px;
     
 }
+.box9 {
+        background-color: #B5F5FF;
+        height: 63px;
+        width: 657px;
+        margin-left: 624px;
+        box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+}
+.box10 {
+    background-color: #6FC3D0;
+    width:400px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+}
 .text1 {
     height: 63px;
     width: 970px;
@@ -201,6 +218,18 @@ p{
 .text7 {
     width: 589px;
 }
+.text12 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 18px;
+}
+.hrX{
+    width: 1106;
+    position: relative;
+    border: 2px solid #6FC3D0;
+    margin-left: 215px;
+    top: -20px;
+}
 .hrX1{
     width: 440px;
     float: left;
@@ -276,6 +305,21 @@ p{
     font-size: 22px;
     margin-left: 300px;
     height: 250px;
+    box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
+    
+}
+.item-abolicionista1 {
+    background-color: #DEFAFF;
+    border-radius: 40px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 60px; 
+    border: 1px solid #B5F5FF;
+    width: 996px;
+    font-size: 22px;
+    margin-left: 300px;
+    height: 87px;
     box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
     
 }
