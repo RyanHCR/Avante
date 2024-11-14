@@ -132,28 +132,23 @@
                 <ul>
                     <li>Foco: Desenvolvido por Plotino, o neoplatonismo retoma Platão, enfatizando a busca de uma unidade com o divino e a ascensão da mente para a realidade transcendente.</li>
             </div>
-            
+
         </div>
         <div class="linha"></div>
     </div>
     <div>
 
     </div>
- <div class="alinha">
-        <div class="outer-container">
-            <div class="content">
-                
-                <div class="side"></div>
-                <div class="align">
-                    <img src="../../../Resources/images/antiga7.jpeg" alt="Estátua de Sócrates" class="alinha image">
-                </div>
-                <div class="side2"></div>
-                
-
+    <div class="container5">
+        <div class="side3"></div>
+        <div class="img3">
+            <div class="image2">
+                <img src="../../../Resources/images/antiga7.jpeg" class="img">
             </div>
-
         </div>
+        <div class="side4"></div>
     </div>
+    <div class="final"></div>
     <style>
         .button-back {
             width: 120px;
