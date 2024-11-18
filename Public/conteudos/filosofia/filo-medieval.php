@@ -36,17 +36,45 @@
 
 <div class="caixa1">
 
-    <p class="text30">A filosofia moderna começa no século XV quando tem início a Idade Moderna. Ela permanece até o século XVIII, com a chegada da Idade Contemporânea. Ela marca uma transição do pensamento medieval, fundamentado na fé e nas relações entre os homens e Deus, para o pensamento antropocêntrico, marca da modernidade, que eleva a humanidade a um novo status como o grande objeto de estudo.</p> 
-    <img class="img1" src="Resources/images/santotomas.jpg"> 
+    <p class="text30">A filosofia medieval foi desenvolvida na Europa durante o período da Idade Média (séculos V-XV). Trata-se de um período de expansão e consolidação do Cristianismo na Europa Ocidental.
+    A filosofia medieval tentou conciliar a religião com a filosofia, ou seja, a consciência cristã com a razão filosófica e científica.</p> 
+    <img class="img1" src="../../../Resources/images/medieval1.jpeg"> 
 
 
     </div>
     
-<div class="circle-container">
-    <div class="circle1">1</div>
-    <div class="circle2">2</div>
-    <div class="circle3">3</div>
+    <div class="box50">
+    <p class="text2">A filosofia medieval abrange o período que vai aproximadamente do século V ao XV, cobrindo desde a queda do Império Romano até o Renascimento. Esse período foi marcado pela influência da Igreja Católica e pelo esforço de conciliar a fé religiosa com a razão. A filosofia medieval pode ser dividida em dois grandes blocos: a patrística (até o século VIII) e a escolástica (a partir do século IX). Abaixo estão alguns dos principais temas e filósofos dessa época:</p>
 </div>
+
+<div class="box2">
+    <p class="text21">PRINCIPAIS TEMAS DA FILOSOFIA MEDIEVAL </p>
+    </div>
+    <br><br><br><br>
+    <div class="custom-box-container">
+        <div class="custom-box custom-box1">
+            <span class="custom-number">1</span>
+            <p class="textodaora"><b>A relação entre fé e razão:</b> Um dos problemas centrais da filosofia medieval foi a tentativa de conciliar a fé religiosa cristã com a razão filosófica, herdada da tradição grega, principalmente de Platão e Aristóteles.</p>
+        </div>
+        <div class="custom-box custom-box2">
+            <span class="custom-number">2</span>
+            <p class="textodaora"><b>Provas da existência de Deus:</b> Filósofos medievais desenvolveram argumentos racionais para provar a existência de Deus, como o argumento ontológico de Anselmo de Cantuária e as "cinco vias" de Tomás de Aquino.</p>
+        </div>
+        <div class="custom-box custom-box3">
+            <span class="custom-number">3</span>
+            <p class="textodaora"><b>Natureza da alma:</b> A questão sobre a imortalidade da alma e sua relação com o corpo foi amplamente discutida, especialmente influenciada pela filosofia de Platão e Aristóteles.</p>
+        </div>
+        <div class="custom-box custom-box4">
+            <span class="custom-number">4</span>
+            <p class="textodaora"><b>Teologia:</b> Como grande parte dos filósofos medievais eram clérigos ou teólogos, as questões teológicas eram centrais, como a natureza de Deus, a Trindade e a encarnação de Cristo.</p>
+        </div>
+        <div class="custom-box5">
+            <span class="custom-number">5</span>
+            <p class="textodaora"><b>Realismo vs. Nominalismo:</b> Um debate fundamental na filosofia medieval foi sobre a natureza dos universais (conceitos abstratos). Realistas, como Tomás de Aquino, acreditavam que os universais existiam independentemente das coisas particulares. Os nominalistas, como Guilherme de Ockham, argumentavam que os universais eram apenas nomes sem realidade própria.</p>
+        </div>
+    </div>
+
+<br><br><br><br><br><br><br>
 
 <div class="box-container">
     <div class="box8">
