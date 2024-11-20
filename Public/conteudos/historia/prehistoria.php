@@ -68,6 +68,7 @@ Características: Este período é uma fase de transição entre o Paleolítico 
 Características: Caracteriza-se pelo desenvolvimento da agricultura, domesticação de animais e o surgimento de assentamentos permanentes. O homem passou de uma vida nômade para uma vida agrícola, criando as primeiras aldeias e, eventualmente, cidades. Também surgiram avanços na cerâmica, tecelagem e construção.</p></div>
 <img class="image2" src="../../../Resources/images/neolítico2.png">
 </div>
+
 <hr class="hrX1">
 <div class="box11-container">
 <hr class="hr7">
@@ -75,6 +76,7 @@ Características: Caracteriza-se pelo desenvolvimento da agricultura, domestica�
 <hr class="hr8">
     </div>
     <hr class="hrX1">
+    
     <div class="box5">
     <p class="text6">O Neolítico, também conhecido como Idade da Pedra Polida, é um período pré-histórico que se estende aproximadamente entre 10.000 a.C. e 3.000 a.C. É caracterizado por profundas transformações na forma como as sociedades humanas viviam e interagiam com o meio ambiente.</p>
     </div>
@@ -84,10 +86,9 @@ Características: Caracteriza-se pelo desenvolvimento da agricultura, domestica�
     <div class="box6">
         <p class="text10">Principais Características do Neolítico:</p>
     </div>
-
     <hr class="hr4">
-
 </div>
+
 <br><br>
 <div class="custom-box-container">
         <div class="custom-box custom-box1">

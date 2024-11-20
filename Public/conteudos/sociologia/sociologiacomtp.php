@@ -185,14 +185,6 @@
 <img class="image-socio" src="../../../Resources/images/sociologia11.jfif">
 <br><br><br>
 <hr class="hrX">
-<div class="box9">
-    <p class="text12">PRINCIPAIS TEMAS DA SOCIOLOGIA CONTEMPORÂNEA</p>
-</div>
-<div class="item-abolicionista1">
-    <div class="number-circle">1</div>
-    <div class="box10"><p class="texto13">PÓS-MODERNIDADE</p></div>
-    <span class="highlight3">Alguns sociólogos, como Bauman e Giddens, falam sobre a transição da modernidade para a pós-modernidade ou modernidade tardia, onde as certezas da vida moderna dão lugar à fluidez e à fragmentação das identidades e das relações sociais.</span>
-</div>
 
 
 
