@@ -25,6 +25,10 @@
         </div>
     </header>
 
+    <div class="sub-header">
+    <p>FILOSOFIA ANTIGA</p>
+</div>
+
     <a href="../../materias/filosofia.php" class="button-back">VOLTAR</a>
     <p class="cont1 tamanho">A Filosofia Antiga corresponde ao período do surgimento da filosofia grega no século VII a.C. Ela surge da necessidade de explicar o mundo de um novo modo. Os filósofos buscam encontrar respostas racionais para a origem das coisas, dos fenômenos da natureza, da existência e da racionalidade humana.</p>
     <div class="cultura1 tamanho">
@@ -192,6 +196,15 @@
             opacity: 0.7;
         }
     </style>
+    <footer>
+    <img class="footerlogo" src="../../../Resources/images/footerlogo.png">
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+        <p>
+            <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://x.com/?lang=pt-br">Twitter</a>
+        </p>
+    </footer>
 </body>
 
 </html>

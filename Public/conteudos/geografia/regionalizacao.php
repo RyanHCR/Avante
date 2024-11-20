@@ -116,7 +116,7 @@
     </style>
 
 <br><br><br>
-<footer>
+<div class="footerespecial">
     <img class="footerlogo" src="../../../Resources/images/footerlogo.png">
         <p>&copy; 2024 Todos os direitos reservados.</p>
         <p>
@@ -124,6 +124,6 @@
             <a href="https://www.instagram.com/">Instagram</a>
             <a href="https://x.com/?lang=pt-br">Twitter</a>
         </p>
-    </footer>
+    </div>
 </body>
 </html>

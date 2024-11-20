@@ -219,24 +219,24 @@ img.principal-image {
     font-weight: bold;
 }
 
-footer {
+.footerespecial {
     background-color: #0b909f;
     color: #fff;
     text-align: center;
     padding: 20px;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 2000px;
+    margin-left: -700px;
 }
 
-/* Estilo para os links do rodapé */
-footer a {
+.footerespecial a {
     color: #fff;
     text-decoration: none;
     margin: 0 10px;
 }
 
-footer a:hover {
+.footerespecial a:hover {
     text-decoration: underline;
 }
 
@@ -244,13 +244,6 @@ footer a:hover {
     width:400px;
 }
 
-footer p {
+.footerespecial p {
     font-size: 17px; 
-}
-
-/* Responsividade */
-@media (max-width: 600px) {
-    footer {
-        font-size: 14px;
-    }
 }
