@@ -188,19 +188,73 @@
 <div class="box9">
     <p class="text12">PRINCIPAIS TEMAS DA SOCIOLOGIA CONTEMPORÂNEA</p>
 </div>
+<br><br>
+
 <div class="item-abolicionista1">
     <div class="number-circle">1</div>
-    <div class="box10"><p class="texto13">PÓS-MODERNIDADE</p></div>
-    <span class="highlight3">Alguns sociólogos, como Bauman e Giddens, falam sobre a transição da modernidade para a pós-modernidade ou modernidade tardia, onde as certezas da vida moderna dão lugar à fluidez e à fragmentação das identidades e das relações sociais.</span>
+    <div class="box10"><p class="text15">PÓS-MODERNIDADE</p></div>
+    <span>Alguns sociólogos, como Bauman e Giddens, falam sobre a transição da modernidade para a pós-modernidade ou modernidade tardia, onde as certezas da vida moderna dão lugar à fluidez e à fragmentação das identidades e das relações sociais.</span>
+</div>
+<div class="item-abolicionista1">
+    <div class="number-circle">2</div>
+    <div class="box10"><p class="text15">GÊNERO E SEXUALIDADE</p></div>
+    <span>A sociologia contemporânea investiga como as normas de gênero e sexualidade são construídas e mantidas, e como os movimentos feministas e LGBTQIA+ desafiam essas normas, lutando por direitos e reconhecimento.</span>
+</div>
+<div class="item-abolicionista1">
+    <div class="number-circle">3</div>
+    <div class="box10"><p class="text15">RAÇA E RACISMO</p></div>
+    <span>O estudo das relações raciais é fundamental na sociologia contemporânea, com autores como Frantz Fanon e Stuart Hall investigando as raízes do racismo e o impacto da colonização e do imperialismo nas sociedades contemporâneas.</span>
+</div>
+<div class="item-abolicionista1">
+    <div class="number-circle">4</div>
+    <div class="box10"><p class="text15">TECNOLOGIAS E REDES SOCIAIS</p></div>
+    <span>A tecnologia digital e as redes sociais transformaram as relações humanas, criando novas formas de comunicação, de engajamento político e de consumo cultural. A sociologia estuda os efeitos dessas mudanças na privacidade, na identidade e no comportamento coletivo.</span>
+</div>
+<div class="item-abolicionista1">
+    <div class="number-circle">5</div>
+    <div class="box10"><p class="text15">ECOLOGIA E SUSTENTABILIDADE</p></div>
+    <span>Questões ambientais, como mudanças climáticas e esgotamento de recursos naturais, também são foco de análise. A sociologia ambiental estuda como as sociedades contemporâneas estão lidando (ou falhando em lidar) com a crise ambiental.</span>
 </div>
 
+<br> <br>
+    <hr class="hr1">
+
+    <div class="box11">
+    <p class="text5">MÉTODOS NA SOCIOLOGIA CONTEMPORÂNEA</p>
+    </div>
+
+    <p class="text13">Os métodos usados na sociologia contemporânea incluem tanto abordagens quantitativas quanto qualitativas. A combinação dessas técnicas permite uma análise mais profunda e rica das complexas interações sociais do mundo contemporâneo.</p>
+
+<div class="borda">
+    <img class="img2" src="../../../Resources/images/SETA 5.png">
+    <p class="text01"><span class="highlight2">Métodos Quantitativos:</span> Uso de dados estatísticos, pesquisas de opinião, censos, e grandes bases de dados para analisar padrões sociais.
+    </p>
+    
+    <img class="img2" src="../../../Resources/images/SETA 5.png">
+    <p class="text01"><span class="highlight2">Métodos Qualitativos:</span> Entrevistas em profundidade, observação participante, estudos de caso, que oferecem uma visão detalhada das interações sociais em diferentes contextos.</p>
+</div> 
+
+<br><br><br>
+<hr class="hrX">
+
+<div class="box3">
+    <p style="text-align:center;padding-top:15px">DESAFIOS E CRÍTICAS</p>
+    </div>
 
 
+    <p class="text14">A sociologia contemporânea enfrenta alguns desafios e críticas:</p>
 
-
-
-
-
+    <div class="box-container">
+ <div class="box12">
+    <p>Eurocentrismo: Crítica de que muitas teorias sociológicas são baseadas em perspectivas europeias e ocidentais, ignorando experiências e epistemologias de outras regiões do mundo.</p>
+    </div>
+<div class="box13">
+    <p>Complexidade: O mundo contemporâneo é extremamente complexo, e os sociólogos muitas vezes enfrentam dificuldade em compreender a interação de múltiplos fatores (econômicos, culturais, tecnológicos, etc.).</p>
+    </div>
+    <div class="box14">
+    <p>Fragmentação Teórica: A multiplicidade de abordagens e teorias pode levar a uma fragmentação da disciplina, tornando-a menos coesa e mais difícil de aplicar.</p>
+    </div>
+</div>
 
 
 
