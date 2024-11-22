@@ -68,6 +68,8 @@
     </div>
 
 </div>
+<a href="tutorial.php"><button class="nav-button2">TUTORIAL</button></a>
+
 <br><br><br>
 <footer>
     <img class="footerlogo" src="Resources/images/footerlogo.png">
