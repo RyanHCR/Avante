@@ -47,6 +47,7 @@ p{
     height: 70px;
     width: 1100px;
     margin-left: 220px;
+    margin-top: 50px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     align-items: center;
@@ -59,6 +60,58 @@ p{
     padding-top: 23px;
 }
 
+.text21 {
+    font-size: 20px;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+    padding-top: 20px;
+    color:#356A72;
+    font-weight: bold;
+}
+
+.custom-box-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    gap: 20px; /* Espaçamento entre as caixas */
+}
+
+.custom-box {
+    background-color: #DEFAFF; /* Cor da caixa */
+    height: 150px; /* Altura da caixa */
+    width: 800px; /* Largura da caixa */
+    border-radius: 60px;
+    padding: 20px;
+    position: relative;
+    box-shadow: rgb(111, 111, 111) 0.0em 0.1em 0.1em;
+}
+
+.custom-number {
+    position: absolute;
+    left: -75px; /* Distância da bolinha em relação à caixa */
+    top: 20px; /* Centralizar verticalmente em relação à caixa */
+    width: 60px; /* Largura da bolinha */
+    height: 60px; /* Altura da bolinha */
+    border-radius: 50%;
+    background-color: #6FC3D0; /* Cor da bolinha */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 1px 1px 0px black, -1px 1px 0px black, 1px -1px 0px black, -1px -1px 0px black;
+    border: 1px solid black;
+}
+
+.custom-box5 {
+    background-color: #DEFAFF; /* Cor da caixa */
+    height: 185px; /* Altura da caixa */
+    width: 800px; /* Largura da caixa */
+    border-radius: 60px;
+    padding: 20px;
+    position: relative;
+    box-shadow: rgb(111, 111, 111) 0.0em 0.1em 0.1em;
+}
 .hr1 {
     border: 2px solid #6FC3D0;
     width: 650px;
@@ -206,6 +259,34 @@ p{
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
 }
 
+.text101{
+    font-size: 20px;
+    color: #1C5A63;
+    text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
+}
+
+.box111-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    margin-top: 13px;
+    gap:30px;
+}
+
+.hr71 {
+    width: 104px;
+    height: 378px;
+    background-color: #6FC3D0;
+    margin-left: 215px;
+}
+
+.hr81{
+    width: 103px;
+    height: 339px;
+    background-color: #6FC3D0;
+    margin-right: 215px;
+}
+
+
 .box5-container {
     display: flex;
     align-items: center; 
@@ -225,13 +306,15 @@ p{
 }
 .box50 {
     background-color: #6FC3D0;
-    height: 51px;
-    width: 270px;
-    margin-left: 145px;
+    height: 150px;
+    width: 1100px;
+    margin-left: 190px;
     border-radius: 60px;
     margin-top:50px; 
     display: flex;
     align-items: center;
+    padding-left: 40px;
+    padding-bottom: 18px;
 }
 .box51 {
         background-color: #6FC3D0;
@@ -328,7 +411,17 @@ p{
     background-color:#DEFAFF;
     border: 6px solid #6FC3D0; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
 
+.box61 {
+    background-color: #B5F5FF;
+    height: 40px;
+    width: 400px;
+    box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
 }
 
 .text12 {
@@ -467,7 +560,6 @@ p{
 }
 
 .box8, .box9, .box10 {
-    background-color: #DEFAFF;
     height: 410px;
     width: 330px;
     border-radius: 30px;
@@ -477,7 +569,17 @@ p{
     flex-direction: column; 
     justify-content: center; 
     text-align: left; 
+}
+.box8{
+    background-color: #B5F5FF;
+}
 
+.box9{
+    background-color:#6FC3D0 ;
+}
+
+.box10{
+    background-color:#2F91A0 ;
 }
 .box81, .box91 {
     background-color: #DEFAFF;
@@ -517,8 +619,8 @@ p{
 
 .image-center11 {
     background-color: #B5F5FF;
-    height: 60px;
-    width: 530px;
+    height: 300px;
+    width: 730px;
     box-shadow: rgb(163, 163, 163) 0.0em 0.1em 0.1em;
     text-align: center;
     display: flex;
@@ -528,17 +630,17 @@ p{
 }
 
 .hr7 {
-    width: 104px;
-    height: 509px;
+    width: 60px;
+    height: 305px;
     background-color: #6FC3D0;
-    margin-left: 215px;
+    margin-left: 330px;
 }
 
 .hr8{
-    width: 104px;
-    height: 509px;
+    width: 60px;
+    height: 305px;
     background-color: #6FC3D0;
-    margin-right: 215px;
+    margin-right: 330px;
 }
 
 .text14{
@@ -813,12 +915,36 @@ li{
     flex-direction: column; 
     align-items: center; 
 }
-.hrX1{
-    width: 1095px;
+.hrX1, .hrX2, .hrX3, .hrX4, .hrX5, .hrX6 {
+    width: 875px;
+    height: 10px;
     position: relative;
-    border: 7px solid #2F91A0;
-    margin-left: 214px;
-    margin-top: 20px;
+    margin-left: 330px;
+    margin-top: 10px; /* Diminua o valor de margin-top */
+}
+
+.hrX1 {
+    background-color: #2F91A0;
+}
+
+.hrX2 {
+    background-color: #6FC3D0;
+}
+
+.hrX3 {
+    background-color: #2F91A0;
+}
+
+.hrX4 {
+    background-color: #2F91A0;
+}
+
+.hrX5 {
+    background-color: #6FC3D0;
+}
+
+.hrX6 {
+    background-color: #2F91A0;
 }
 .line1{
     display: flex;
@@ -828,10 +954,6 @@ li{
     height: 116px;
     margin-left: 260px;
     margin-top: -80px;
-}
-.img1{
-    margin-left: 182px;
-    margin-top: 30px;
 }
 .text01{
     width: 914px; 
@@ -880,8 +1002,8 @@ footer p {
 }
 
 .img1{
-    height: 200px;
-    width: 300px;
+    height: 300px;
+    width: 400px;
 }
 
 .caixa1{
@@ -889,6 +1011,7 @@ footer p {
 }
 
 .text30{
-    width: 700px;
+    width: 600px;
+    margin-left: 260;
     gap:10px;
 }

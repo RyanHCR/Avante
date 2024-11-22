@@ -246,7 +246,7 @@
 <div class="flexbox5">
 <img src="../../../Resources/images/navegações10.jpg">
 <div class="item-abolicionista2">
-    <div class="number-circle">2</div>
+    <div class="number-circle">1</div>
     <div class="box13"><p class="texto13">MONOCULTURA E LATIFÚNDIO:</p></div>
     <span class="highlight3">O açúcar era produzido em grandes propriedades rurais (latifúndios) e destinava-se quase exclusivamente à exportação.
 </div>
@@ -266,7 +266,7 @@
 <div class="flexbox5">
 <img src="../../../Resources/images/navegações12.jpg">
 <div class="item-abolicionista4">
-    <div class="number-circle">2</div>
+    <div class="number-circle">3</div>
     <div class="box13"><p class="texto13">SOCIEDADE AÇUCAREIRA:</p></div>
     <span class="highlight3">Uma sociedade hierarquizada, marcada pela desigualdade social, onde o senhor de engenho ocupava o topo.
 </div>

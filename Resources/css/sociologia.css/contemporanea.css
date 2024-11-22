@@ -106,6 +106,26 @@ p{
     border-radius: 30px;
     box-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em;
 }
+.box11 {
+    background-color: #B5F5FF;
+    height: 63px;
+    width: 615px;
+    margin-left: 200px;
+    margin-top: -50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.text01{
+    width: 914px; 
+    height: 116px;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+.img2{
+    margin-left: 60px;
+    margin-top: 20px;
+}
 .text1 {
     height: 63px;
     width: 970px;
@@ -223,6 +243,11 @@ p{
     text-shadow: rgb(177, 177, 177) 0.0em 0.1em 0.1em; 
     padding-top: 18px;
 }
+.hr1 {
+    border: 2px solid #6FC3D0;
+    width: 487px;
+    margin-right: 150px;
+}
 .hrX{
     width: 1106;
     position: relative;
@@ -269,6 +294,15 @@ p{
 }
 .text11 {
     text-align: center;
+}
+.text13{
+    width: 1106;
+    position: relative;
+    margin: 20px auto;
+}
+.text14{
+    width: 1100px;
+    margin-left: 220;
 }
 .box7-container {
     display: flex;
@@ -348,4 +382,68 @@ margin-top: -330px;
 width: 269px;
 height: 340px;
  float: left;
+}
+.borda{
+    width: 1082px;
+    height: 300px;
+    border: 2px solid;
+    margin-left: 200px;
+    
+}
+.highlight2 {
+    background-color: #B5F5FF;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+.box-container {
+    display: flex; 
+    align-items: center; 
+    margin-top: 50px; 
+    margin: 20px auto;
+    margin-left: 190px;
+    gap: 20px;
+    font-size: 22px;
+}
+.box12 {
+    background-color: #B5F5FF;
+    height: 190px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+.box13 {
+    background-color: #6FC3D0;
+    height: 190px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+.box14 {
+    background-color: #2F91A0;
+    height: 190px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex; /* Ativa o modelo Flexbox */
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+.text15 {
+    color:#1C5A63;
+    text-shadow: #00000040;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -10px;
 }
